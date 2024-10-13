@@ -1,9 +1,7 @@
 ---
 ---
 
-# ADMIS-TONGJIDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
-
-
+# 同济大学 ADMIS 实验室
 
 {% include section.html %}
 
