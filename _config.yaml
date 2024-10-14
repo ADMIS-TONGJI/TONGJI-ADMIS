@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: 同济大学 ADMIS 实验室
-subtitle: 
-description: 
+title: 同济大学 先进数据与机器智能系统 实验室
+subtitle: Tongji ADMIS Lab
+description: 先进数据与机器智能系统（ADMIS）实验室隶属于同济大学计算机科学与技术系。实验室研究包括高级数据管理和生物信息学在内的多个主题。\n 此外，实验室已与多所大学和研究机构的教授和学者建立了合作关系，包括新加坡国立大学、香港城市大学、香港理工大学、香港大学、德雷塞尔大学和IBM沃森研究中心等。
 header: images/tongji-background.jpg
 footer: images/tongji-background.jpg
 proofer: false
