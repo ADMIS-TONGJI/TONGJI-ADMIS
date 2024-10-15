@@ -39,10 +39,17 @@ see more
 
 {% endcapture %}
 
+<!-- {%
+  include feature.html
+  image="images/bioinfo.png"
+  link="research"
+  title="生物信息学"
+  text=text
+%} -->
+
 {%
   include feature.html
   image="images/bioinfo.png"
-  <!-- link="research" -->
   title="生物信息学"
   text=text
 %}
@@ -65,7 +72,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  <!-- link="projects" -->
   title="时空数据分析"
   flip=true
   style="bare"
@@ -90,7 +96,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  <!-- link="team" -->
   title="多模态智能"
   text=text
 %}
@@ -113,7 +118,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  <!-- link="projects" -->
   title="复杂网络"
   flip=true
   style="bare"
