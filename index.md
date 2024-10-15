@@ -1,4 +1,8 @@
 ---
+title: Home
+nav:
+  order: 0
+  tooltip:  Homepage, brief introduction
 ---
 
 # 实验室简介
