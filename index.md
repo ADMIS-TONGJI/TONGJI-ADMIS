@@ -16,28 +16,34 @@ The ADMIS group has established collaboration relationships with professors and 
 
 {% include section.html %}
 
-## Highlights
+## 最新动态
+- 2024.9.12 xxxxxxxx
+- 2024.9.11 xxxxxxxx
+- 2024.9.10 xxxxxxxx
+see more
+
+## 研究方向
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+生物信息学方向包括单细胞测序数据分析和药物分子性质预测两个子方向。单细胞测序数据分析主要聚焦于scRNA-seq和scATAC-seq数据的处理与分析，例如去批次效应、聚类、数据插补、分化轨迹推断、调控网络构建等。此外，还涉及多组学数据的融合，如标签转移等。药物分子性质预测主要聚焦于XXXXX。
 
-{%
+<!-- {%
   include button.html
   link="research"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
-%}
+%} -->
 
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  image="images/bioinfo.png"
+  <!-- link="research" -->
+  title="生物信息学"
   text=text
 %}
 
@@ -45,22 +51,22 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-{%
+<!-- {%
   include button.html
   link="projects"
   text="Browse our projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
-%}
+%} -->
 
 {% endcapture %}
 
 {%
   include feature.html
   image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
+  <!-- link="projects" -->
+  title="时空数据分析"
   flip=true
   style="bare"
   text=text
@@ -70,21 +76,46 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-{%
+<!-- {%
   include button.html
   link="team"
   text="Meet our team"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
-%}
+%} -->
 
 {% endcapture %}
 
 {%
   include feature.html
   image="images/photo.jpg"
-  link="team"
-  title="Our Team"
+  <!-- link="team" -->
+  title="多模态智能"
+  text=text
+%}
+
+{% capture text %}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+<!-- {%
+  include button.html
+  link="projects"
+  text="Browse our projects"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%} -->
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  <!-- link="projects" -->
+  title="复杂网络"
+  flip=true
+  style="bare"
   text=text
 %}
