@@ -7,15 +7,19 @@ nav:
 
 # 实验室简介
 
-先进数据与机器智能系统（ADMIS）实验室隶属于同济大学计算机科学与技术系。实验室研究包括高级数据管理和生物信息学在内的多个主题。
+ADMIS实验室依托于同济大学计算机科学与技术学院，专注于生物信息、复杂网络系统、多模态智能技术以及时空数据挖掘等前沿领域研究。实验室汇聚了一支兼具深厚学术底蕴与丰富实战经验的精英团队，秉持着对基础研究的执着追求与跨学科合作的开放态度，矢志不渝地推动科技创新，攻克行业难题。
 
-此外，实验室已与多所大学和研究机构的教授和学者建立了合作关系，包括新加坡国立大学、香港城市大学、香港理工大学、香港大学、德雷塞尔大学和IBM沃森研究中心等。
+近年来，ADMIS实验室在科研征途上成果丰硕，不仅深化了理论基础研究，更在海洋环境监测、基层社会治理现代化、药物分子创新发现、智能制造等多个实际应用场景取得了突破性成就，已成为推动相关领域发展的重要力量。
+
+我们诚挚邀请对上述研究方向感兴趣、矢志科研探索的同学加入我们的团队，共同开启智慧与创新的非凡旅程，携手为科技进步与社会发展贡献力量
 
 # About ADMIS
 
-The ADMIS (Advanced Data and Machine Intelligence Systems Lab) group is under the Department of Computer Science & Technology , Tongji University. The group studies a broad array of topics including advanced data management and bioinformatics.
+The ADMIS Lab, affiliated with the School of Computer Science and Technology at Tongji University, focuses on cutting-edge research in bioinformatics, complex network systems, multimodal intelligent technologies, and spatiotemporal data mining. The lab brings together a team of elite researchers with a solid academic foundation and extensive practical experience. With a commitment to foundational research and an open attitude towards interdisciplinary collaboration, the ADMIS Lab is dedicated to driving technological innovation and tackling industry challenges.
 
-The ADMIS group has established collaboration relationships with professors and scholars from a number of universities and institutes, including National University of Singapore, City University of Hong Kong, Polytechnic University of Hong Kong, Hong Kong University, Drexel University, and IBM Watson Research Center etc.
+In recent years, the lab has achieved remarkable results, advancing both theoretical research and practical applications in areas such as marine environmental monitoring, modernization of grassroots social governance, drug molecular discovery, and intelligent manufacturing. It has become a significant force in advancing these fields.
+
+We warmly invite students interested in the above research directions and passionate about scientific exploration to join our team. Together, we will embark on an extraordinary journey of wisdom and innovation, contributing to technological progress and societal development.
 
 
 {% include section.html %}
@@ -24,6 +28,7 @@ The ADMIS group has established collaboration relationships with professors and 
 - 2024.9.12 xxxxxxxx
 - 2024.9.11 xxxxxxxx
 - 2024.9.10 xxxxxxxx
+
 see more
 
 ## 研究方向
@@ -32,24 +37,7 @@ see more
 
 生物信息学方向包括单细胞测序数据分析和药物分子性质预测两个子方向。单细胞测序数据分析主要聚焦于scRNA-seq和scATAC-seq数据的处理与分析，例如去批次效应、聚类、数据插补、分化轨迹推断、调控网络构建等。此外，还涉及多组学数据的融合，如标签转移等。药物分子性质预测主要聚焦于XXXXX。
 
-<!-- {%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%} -->
-
 {% endcapture %}
-
-<!-- {%
-  include feature.html
-  image="images/bioinfo.png"
-  link="research"
-  title="生物信息学"
-  text=text
-%} -->
 
 {%
   include feature.html
@@ -60,23 +48,15 @@ see more
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-<!-- {%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%} -->
+研究高稀疏时空数据补全、广域时空精准预测、鲁棒性时空异常检测、时空因果分析等问题，提出时空数据分析创新方法，有效挖掘时空数据中的深层次模式和规律，
+提高时空数据质量和时空数据分析的准确性，服务于智慧海洋、智能交通、城市治理、自然灾害监测等领域。
 
 {% endcapture %}
 
 {%
   include feature.html
   image="images/photo.jpg"
-  title="时空数据分析"
+  title="时空数据挖掘"
   flip=true
   style="bare"
   text=text
@@ -84,38 +64,21 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+研究解决多模态数据检索和多模态数据融合中的关键技术难题，提出基于多模态数据、知识图谱和大模型的智能分析技术，为情感分析、图像分类、图文检索、目标检测等各类应用提供有效的解决方案，并应用于社会治理、智慧城市、产业分析等领域。
 
-<!-- {%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%} -->
 
 {% endcapture %}
 
 {%
   include feature.html
   image="images/photo.jpg"
-  title="多模态智能"
+  title="多模态智能技术"
   text=text
 %}
 
 {% capture text %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-<!-- {%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%} -->
 
 {% endcapture %}
 
