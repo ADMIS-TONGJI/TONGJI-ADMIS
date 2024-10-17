@@ -35,7 +35,7 @@ see more
 
 {% capture text %}
 
-生物信息学方向包括单细胞测序数据分析和药物分子性质预测两个子方向。单细胞测序数据分析主要聚焦于scRNA-seq和scATAC-seq数据的处理与分析，例如去批次效应、聚类、数据插补、分化轨迹推断、调控网络构建等。此外，还涉及多组学数据的融合，如标签转移等。药物分子性质预测主要聚焦于XXXXX。
+生物信息学方向包括单细胞测序数据分析和药物分子数据分析两个子方向。单细胞测序数据分析主要聚焦于scRNA-seq和scATAC-seq数据的处理与分析，例如去批次效应、聚类、数据插补、分化轨迹推断、调控网络构建等。此外，还涉及多组学数据的融合，如标签转移等。药物分子数据分析主要聚焦于药物分子性质预测与药物分子从头设计，旨在加速药物研发过程，设计满足性质需求的理想新药物分子。课题组近年来一直在探索药物分子数据分析的新方法，在药物分子表示、药物分子性质预测、药物-靶点相互作用预测、药物-疾病相互作用预测等问题上取得了良好的进展。
 
 {% endcapture %}
 
@@ -78,14 +78,14 @@ see more
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+研究图神经网络架构改进与任务适配、检索增强的大语言模型生成、多模态数据匹配与融合、信息传播建模、级联预测、锚链预测、合作演化、链路及其权重预测、加权网络建模与随机扩散，服务于舆情监控、个性化推荐、关键人物跟踪、地产估价、城市防灾等领域。
 
 {% endcapture %}
 
 {%
   include feature.html
   image="images/photo.jpg"
-  title="复杂网络"
+  title="复杂网络系统"
   flip=true
   style="bare"
   text=text
