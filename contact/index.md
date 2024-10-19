@@ -15,14 +15,6 @@ ADMIS实验室依托于同济大学计算机科学与技术学院，专注于生
 
 我们诚挚邀请对上述研究方向感兴趣、矢志科研探索的同学加入我们的团队，共同开启智慧与创新的非凡旅程，携手为科技进步与社会发展贡献力量。
 
-## Introduction
-
-The ADMIS Lab, affiliated with the School of Computer Science and Technology at Tongji University, focuses on cutting-edge research in bioinformatics, complex network systems, multimodal intelligent technologies, and spatiotemporal data mining. The lab brings together a team of elite researchers with a solid academic foundation and extensive practical experience. With a commitment to foundational research and an open attitude towards interdisciplinary collaboration, the ADMIS Lab is dedicated to driving technological innovation and tackling industry challenges.
-
-In recent years, the lab has achieved remarkable results, advancing both theoretical research and practical applications in areas such as marine environmental monitoring, modernization of grassroots social governance, drug molecular discovery, and intelligent manufacturing. It has become a significant force in advancing these fields.
-
-We warmly invite students interested in the above research directions and passionate about scientific exploration to join our team. Together, we will embark on an extraordinary journey of wisdom and innovation, contributing to technological progress and societal development.
-
 {%
   include button.html
   type="email"
@@ -44,3 +36,12 @@ We warmly invite students interested in the above research directions and passio
   text="上海市嘉定区曹安公路4800号同济大学(嘉定校区)智信馆429B"
   link="https://j.map.baidu.com/48/zdUJ"
 %}
+
+
+## Introduction
+
+The ADMIS Lab, affiliated with the School of Computer Science and Technology at Tongji University, focuses on cutting-edge research in bioinformatics, complex network systems, multimodal intelligent technologies, and spatiotemporal data mining. The lab brings together a team of elite researchers with a solid academic foundation and extensive practical experience. With a commitment to foundational research and an open attitude towards interdisciplinary collaboration, the ADMIS Lab is dedicated to driving technological innovation and tackling industry challenges.
+
+In recent years, the lab has achieved remarkable results, advancing both theoretical research and practical applications in areas such as marine environmental monitoring, modernization of grassroots social governance, drug molecular discovery, and intelligent manufacturing. It has become a significant force in advancing these fields.
+
+We warmly invite students interested in the above research directions and passionate about scientific exploration to join our team. Together, we will embark on an extraordinary journey of wisdom and innovation, contributing to technological progress and societal development.
