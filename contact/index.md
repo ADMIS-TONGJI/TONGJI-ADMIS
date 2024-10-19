@@ -45,3 +45,25 @@ The ADMIS Lab, affiliated with the School of Computer Science and Technology at 
 In recent years, the lab has achieved remarkable results, advancing both theoretical research and practical applications in areas such as marine environmental monitoring, modernization of grassroots social governance, drug molecular discovery, and intelligent manufacturing. It has become a significant force in advancing these fields.
 
 We warmly invite students interested in the above research directions and passionate about scientific exploration to join our team. Together, we will embark on an extraordinary journey of wisdom and innovation, contributing to technological progress and societal development.
+
+{%
+  include button.html
+  type="email"
+  tooltip="关佶红教授：jhguan@tongji.edu.cn"
+  text="Prof. J.H. Guan.: jhguan@tongji.edu.cn"
+  link="jhguan@tongji.edu.cn"
+%}
+{%
+  include button.html
+  type="email"
+  tooltip="李文根副教授：lwgen@tongji.edu.cn"
+  text="Assoc. Prof. W.G. Li.: lwgen@tongji.edu.cn"
+  link="lwgen@tongji.edu.cn"
+%}
+{%
+  include button.html
+  type="address"
+  tooltip="上海市嘉定区曹安公路4800号同济大学(嘉定校区)智信馆429B"
+  text="Room 429B, Zhixin Building, Tongji University (Jiading Campus), 4800 Cao'an Highway, Jiading District, Shanghai."
+  link="https://j.map.baidu.com/48/zdUJ"
+%}
