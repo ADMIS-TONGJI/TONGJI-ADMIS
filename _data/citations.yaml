@@ -46,7 +46,7 @@
   publisher: Applied Intelligence
   date: '2023-07-13'
   link: https://doi.org/g8nhmz
-  image: https://link.springer.com/article/10.1007/s10489-023-04767-2/figures/2
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs10489-023-04767-2/MediaObjects/10489_2023_4767_Fig2_HTML.png?as=webp
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/bib/bbad296
@@ -92,5 +92,228 @@
   date: '2022-07-01'
   link: https://doi.org/g8nm63
   image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/8857/9852343/9363460/gan1-3061720-large.gif
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TPAMI.2024.3435503
+  title: Towards Effective Causal Partitioning by Edge Cutting of Adjoint Graph
+  authors:
+  - Hao Zhang
+  - Yixin Ren
+  - Yewei Xia
+  - Shuigeng Zhou
+  - Jihong Guan
+  publisher: IEEE Transactions on Pattern Analysis and Machine Intelligence
+  date: '2024-01-01'
+  link: https://doi.org/g8nnbg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ACCESS.2024.3361672
+  title: Indicator Fault Detection Method Based on Periodic Self Discovery and Historical
+    Anomaly Filtering
+  authors:
+  - Sheng Wu
+  - Jihong Guan
+  publisher: IEEE Access
+  date: '2024-01-01'
+  link: https://doi.org/g8nnbh
+  image: https://www.researchgate.net/publication/377949776/figure/fig1/AS:11431281221929808@1706970594720/Model-Architecture.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2409.14483
+  title: 'One Model for Two Tasks: Cooperatively Recognizing and Recovering Low-Resolution
+    Scene Text Images by Iterative Mutual Guidance'
+  authors:
+  - Minyi Zhao
+  - Yang Wang
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/g8nnbm
+  image: https://arxiv.org/html/2409.14483v1/x1.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TGRS.2024.3440912
+  title: Self-Supervised Spatiotemporal Imputation Model for Highly Sparse Chl-a Data
+    via Fusing Multisource Satellite Data
+  authors:
+  - Shuyu Wang
+  - Wengen Li
+  - Jihong Guan
+  - Xiwei Liu
+  - Yichao Zhang
+  - Shuigeng Zhou
+  publisher: IEEE Transactions on Geoscience and Remote Sensing
+  date: '2024-01-01'
+  link: https://doi.org/g8nnbn
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICASSP48485.2024.10448187
+  title: 'Video Anomaly Prediction: Problem, Dataset and Method'
+  authors:
+  - Yang Wang
+  - Jun Xu
+  - Jiaogen Zhou
+  - Jihong Guan
+  publisher: ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech
+    and Signal Processing (ICASSP)
+  date: '2024-04-14'
+  link: https://doi.org/g8nnbp
+  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10445798/10445803/10448187/wang2-p5-wang-large.gif
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1609/aaai.v38i7.28528
+  title: Weakly Supervised Few-Shot Object Detection with DETR
+  authors:
+  - Chenbo Zhang
+  - Yinglu Zhang
+  - Lu Zhang
+  - Jiajia Zhao
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+  date: '2024-03-24'
+  link: https://doi.org/g8nnbr
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/bioinformatics/btae304
+  title: Molecular property prediction based on graph structure learning
+  authors:
+  - Bangyi Zhao
+  - Weixia Xu
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: Bioinformatics
+  date: '2024-05-01'
+  link: https://doi.org/g8nnbs
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/5/10.1093_bioinformatics_btae304/1/m_btae304f1.jpeg?Expires=1732441741&Signature=x7fbtjt6Jd-0yjoi7OAIKDOuzBxKp15YNQ3WSm3MzP9dK4LDLGgTNgYP4pwHGI8Uow-VGdroOx18KvpCwrp3Rk-5k~eUWbDCuZlJGsVgKeO6VMNAx~A~CScjEUHH-qUO3fB5cERKow0djENuFhxCriAQQzrxFw0CW5eWjreb7mzMJadpsPiFXHCeIpzD7IveYz21CPXcrTmd0TagBcdMVwRPmfPD8mrf3DFPL~pXx0jB9s-MCbCePakpZhJzs5fVeobPNK-avHlbexNPDADYTTvHvmsSWlcajHM6KZXDoMdTNVcwdDfuNHcpPBDT2d-g0LMyjjMXDho54Xt4xpCt6A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3663573
+  title: Variate Associated Domain Adaptation for Unsupervised Multivariate Time Series
+    Anomaly Detection
+  authors:
+  - Yifan He
+  - Yatao Bian
+  - Xi Ding
+  - Bingzhe Wu
+  - Jihong Guan
+  - Ji Zhang
+  - Shuigeng Zhou
+  publisher: ACM Transactions on Knowledge Discovery from Data
+  date: '2024-07-26'
+  link: https://doi.org/g8nnbt
+  image: https://dl.acm.org/doi/full/10.1145/3663573#fig1
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2406.16708
+  title: 'CausalFormer: An Interpretable Transformer for Temporal Causal Discovery'
+  authors:
+  - Lingbai Kong
+  - Wengen Li
+  - Hanchen Yang
+  - Yichao Zhang
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/g8nnbv
+  image: https://arxiv.org/html/2406.16708v1/x2.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TCBB.2024.3434461
+  title: 'Diffusing on Two Levels and Optimizing for Multiple Properties: A Novel
+    Approach to Generating Molecules with Desirable Properties'
+  authors:
+  - Siyuan Guo
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
+  date: '2024-01-01'
+  link: https://doi.org/g8nnbw
+  image: https://figures.semanticscholar.org/6e04534dd1cf07ed8e49195e6c5e71979cf1ba1b/4-Figure1-1.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/info15060322
+  title: Prediction of Disk Failure Based on Classification Intensity Resampling
+  authors:
+  - Sheng Wu
+  - Jihong Guan
+  publisher: Information
+  date: '2024-05-31'
+  link: https://doi.org/g8nnbx
+  image: https://www.mdpi.com/information/information-15-00322/article_deploy/html/images/information-15-00322-g001-550.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TCBB.2024.3406922
+  title: Hybrid Causal Feature Selection for Cancer Biomarker Identification from
+    RNA-seq Data
+  authors:
+  - Wenwei Xu
+  - Hao Zhang
+  - Yewei Xia
+  - Yixin Ren
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
+  date: '2024-01-01'
+  link: https://doi.org/g8nnbz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/a17050217
+  title: Fault Location Method Based on Dynamic Operation and Maintenance Map and
+    Common Alarm Points Analysis
+  authors:
+  - Sheng Wu
+  - Jihong Guan
+  publisher: Algorithms
+  date: '2024-05-16'
+  link: https://doi.org/g8nnb2
+  image: https://www.mdpi.com/algorithms/algorithms-17-00217/article_deploy/html/images/algorithms-17-00217-g002-550.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICASSP48485.2024.10446683
+  title: 'Tail Classes Matter: Long-Tailed Object Detection Revisited'
+  authors:
+  - Yinglu Zhang
+  - Chenbo Zhang
+  - Lu Zhang
+  - Tianying Liu
+  - Jihong Guan
+  - Xinkai Liang
+  - Jiajia Zhao
+  - Shuigeng Zhou
+  publisher: ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech
+    and Signal Processing (ICASSP)
+  date: '2024-04-14'
+  link: https://doi.org/g8nnb3
+  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10445798/10445803/10446683/zhang2-p5-zhang-large.gif
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICASSP48485.2024.10448031
+  title: Multivariate Time Series Forecasting with Causal-Temporal Attention Network
+  authors:
+  - Wenbo Liu
+  - Yifan He
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech
+    and Signal Processing (ICASSP)
+  date: '2024-04-14'
+  link: https://doi.org/g8nnb4
+  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10445798/10445803/10448031/liu2-p5-liu-large.gif
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.neucom.2024.128698
+  title: A lightweight video anomaly detection model with weak supervision and adaptive
+    instance selection
+  authors:
+  - Yang Wang
+  - Jiaogen Zhou
+  - Jihong Guan
+  publisher: Neurocomputing
+  date: '2024-10-01'
+  link: https://doi.org/g8nnb5
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0925231224014693-gr1.jpg
   plugin: sources.py
   file: sources.yaml
