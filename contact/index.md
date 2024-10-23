@@ -25,9 +25,16 @@ ADMIS实验室依托于同济大学计算机科学与技术学院，专注于生
 {%
   include button.html
   type="email"
-  tooltip="Assoc. Prof. W.G. Li.: lwgen@tongji.edu.cn"
-  text="李文根副教授：lwgen@tongji.edu.cn"
-  link="lwgen@tongji.edu.cn"
+  tooltip="Assoc. Prof. W.G. Li.: lwengen@tongji.edu.cn"
+  text="李文根副教授：lwengen@tongji.edu.cn"
+  link="lwengen@tongji.edu.cn"
+%}
+{%
+  include button.html
+  type="email"
+  tooltip="Assoc. Prof. Y.C. Zhang.: yichaozhang@tongji.edu.cn"
+  text="张毅超副教授：yichaozhang@tongji.edu.cn"
+  link="yichaozhang@tongji.edu.cn"
 %}
 {%
   include button.html
@@ -56,9 +63,16 @@ We warmly invite students interested in the above research directions and passio
 {%
   include button.html
   type="email"
-  tooltip="李文根副教授：lwgen@tongji.edu.cn"
-  text="Assoc. Prof. W.G. Li.: lwgen@tongji.edu.cn"
-  link="lwgen@tongji.edu.cn"
+  tooltip="李文根副教授：lwengen@tongji.edu.cn"
+  text="Assoc. Prof. W.G. Li.: lwengen@tongji.edu.cn"
+  link="lwengen@tongji.edu.cn"
+%}
+{%
+  include button.html
+  type="email"
+  tooltip="张毅超副教授：yichaozhang@tongji.edu.cn"
+  text="Assoc. Prof. Y.C. Zhang.: yichaozhang@tongji.edu.cn"
+  link="yichaozhang@tongji.edu.cn"
 %}
 {%
   include button.html
