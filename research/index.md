@@ -14,7 +14,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Highlighted
 
-{% include citation.html lookup="doi:10.1007/s10489-023-04767-2" style="rich" %}
+{% include citation.html lookup="doi:10.1109/TAI.2024.3459857" style="rich" %}
 
 {% include section.html %}
 

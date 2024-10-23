@@ -11,7 +11,7 @@
   publisher: IEEE Transactions on Artificial Intelligence
   date: '2024-01-01'
   link: https://doi.org/g8nm6z
-  image: https://www.researchgate.net/publication/384027028/figure/fig1/AS:11431281277961813@1726311551198/The-structure-of-Traffexplainer-consists-of-GNN-based-traffic-prediction-model-and.png
+  image: images/papers/10.1109TAI.2024.3459857.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TAFFC.2024.3396144
@@ -31,7 +31,7 @@
   publisher: IEEE Transactions on Affective Computing
   date: '2024-01-01'
   link: https://doi.org/g8nm62
-  image: https://www.researchgate.net/publication/377949776/figure/fig1/AS:11431281221929808@1706970594720/Model-Architecture.png
+  image: images/papers/10.1109TAFFC.2024.3396144.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TPAMI.2024.3435503
@@ -45,6 +45,7 @@
   publisher: IEEE Transactions on Pattern Analysis and Machine Intelligence
   date: '2024-01-01'
   link: https://doi.org/g8nnbg
+  image: images/papers/10.1109TPAMI.2024.3435503.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ACCESS.2024.3361672
@@ -56,7 +57,7 @@
   publisher: IEEE Access
   date: '2024-01-01'
   link: https://doi.org/g8nnbh
-  image: https://www.researchgate.net/publication/377949776/figure/fig1/AS:11431281221929808@1706970594720/Model-Architecture.png
+  image: images/papers/10.1109ACCESS.2024.3361672.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.48550/arXiv.2409.14483
@@ -70,7 +71,7 @@
   publisher: arXiv
   date: '2024-01-01'
   link: https://doi.org/g8nnbm
-  image: https://arxiv.org/html/2409.14483v1/x1.png
+  image: images/papers/10.48550arXiv.2409.14483.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TGRS.2024.3440912
@@ -86,6 +87,7 @@
   publisher: IEEE Transactions on Geoscience and Remote Sensing
   date: '2024-01-01'
   link: https://doi.org/g8nnbn
+  image: images/papers/10.1109TGRS.2024.3440912.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ICASSP48485.2024.10448187
@@ -99,7 +101,7 @@
     and Signal Processing (ICASSP)
   date: '2024-04-14'
   link: https://doi.org/g8nnbp
-  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10445798/10445803/10448187/wang2-p5-wang-large.gif
+  image: images/papers/10.1109ICASSP48485.2024.10448187.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1609/aaai.v38i7.28528
@@ -114,6 +116,7 @@
   publisher: Proceedings of the AAAI Conference on Artificial Intelligence
   date: '2024-03-24'
   link: https://doi.org/g8nnbr
+  image: images/papers/10.1609aaai.v38i7.28528.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/bioinformatics/btae304
@@ -126,7 +129,7 @@
   publisher: Bioinformatics
   date: '2024-05-01'
   link: https://doi.org/g8nnbs
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/5/10.1093_bioinformatics_btae304/1/m_btae304f1.jpeg?Expires=1732441741&Signature=x7fbtjt6Jd-0yjoi7OAIKDOuzBxKp15YNQ3WSm3MzP9dK4LDLGgTNgYP4pwHGI8Uow-VGdroOx18KvpCwrp3Rk-5k~eUWbDCuZlJGsVgKeO6VMNAx~A~CScjEUHH-qUO3fB5cERKow0djENuFhxCriAQQzrxFw0CW5eWjreb7mzMJadpsPiFXHCeIpzD7IveYz21CPXcrTmd0TagBcdMVwRPmfPD8mrf3DFPL~pXx0jB9s-MCbCePakpZhJzs5fVeobPNK-avHlbexNPDADYTTvHvmsSWlcajHM6KZXDoMdTNVcwdDfuNHcpPBDT2d-g0LMyjjMXDho54Xt4xpCt6A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: images/papers/10.1093bioinformaticsbtae304.jpeg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3663573
@@ -143,7 +146,7 @@
   publisher: ACM Transactions on Knowledge Discovery from Data
   date: '2024-07-26'
   link: https://doi.org/g8nnbt
-  image: https://dl.acm.org/doi/full/10.1145/3663573#fig1
+  image: images/papers/10.11453663573.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.48550/arXiv.2406.16708
@@ -158,7 +161,7 @@
   publisher: arXiv
   date: '2024-01-01'
   link: https://doi.org/g8nnbv
-  image: https://arxiv.org/html/2406.16708v1/x2.png
+  image: images/papers/10.48550arXiv.2406.16708.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TCBB.2024.3434461
@@ -171,7 +174,7 @@
   publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
   date: '2024-01-01'
   link: https://doi.org/g8nnbw
-  image: https://figures.semanticscholar.org/6e04534dd1cf07ed8e49195e6c5e71979cf1ba1b/4-Figure1-1.png
+  image: images/papers/10.1109TCBB.2024.3434461.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3390/info15060322
@@ -182,7 +185,7 @@
   publisher: Information
   date: '2024-05-31'
   link: https://doi.org/g8nnbx
-  image: https://www.mdpi.com/information/information-15-00322/article_deploy/html/images/information-15-00322-g001-550.jpg
+  image: images/papers/10.3390info15060322.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TCBB.2024.3406922
@@ -198,6 +201,7 @@
   publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
   date: '2024-01-01'
   link: https://doi.org/g8nnbz
+  image: images/papers/10.1109TCBB.2024.3406922.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3390/a17050217
@@ -209,7 +213,7 @@
   publisher: Algorithms
   date: '2024-05-16'
   link: https://doi.org/g8nnb2
-  image: https://www.mdpi.com/algorithms/algorithms-17-00217/article_deploy/html/images/algorithms-17-00217-g002-550.jpg
+  image: images/papers/10.3390a17050217.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ICASSP48485.2024.10446683
@@ -227,7 +231,7 @@
     and Signal Processing (ICASSP)
   date: '2024-04-14'
   link: https://doi.org/g8nnb3
-  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10445798/10445803/10446683/zhang2-p5-zhang-large.gif
+  image: images/papers/10.1109ICASSP48485.2024.10446683.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ICASSP48485.2024.10448031
@@ -241,7 +245,7 @@
     and Signal Processing (ICASSP)
   date: '2024-04-14'
   link: https://doi.org/g8nnb4
-  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10445798/10445803/10448031/liu2-p5-liu-large.gif
+  image: images/papers/10.1109ICASSP48485.2024.10448031.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.neucom.2024.128698
@@ -252,9 +256,9 @@
   - Jiaogen Zhou
   - Jihong Guan
   publisher: Neurocomputing
-  date: '2024-10-01'
+  date: '2025-01-01'
   link: https://doi.org/g8nnb5
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0925231224014693-gr1.jpg
+  image: images/papers/10.1016j.neucom.2024.128698.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s10489-023-04767-2
@@ -270,5 +274,312 @@
   date: '2023-07-13'
   link: https://doi.org/g8nhmz
   image: images/papers/10.1007s10489-023-04767-2.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/bib/bbad296
+  title: Self-supervised learning with chemistry-aware fragmentation for effective
+    molecular property prediction
+  authors:
+  - Ailin Xie
+  - Ziqiao Zhang
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: Briefings in Bioinformatics
+  date: '2023-08-20'
+  link: https://doi.org/g6345s
+  image: images/papers/10.1093bibbbad296.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1049/cvi2.12137
+  title: "CDFM: A cross\u2010domain few\u2010shot model for marine plankton classification"
+  authors:
+  - Jin Guo
+  - Wengen Li
+  - Jihong Guan
+  - Hang Gao
+  - Baobo Liu
+  - Lili Gong
+  publisher: IET Computer Vision
+  date: '2022-09-14'
+  link: https://doi.org/g8nv6h
+  image: images/papers/10.1049cvi2.12137.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.neucom.2023.02.027
+  title: Video anomaly detection based on spatio-temporal relationships among objects
+  authors:
+  - Yang Wang
+  - Tianying Liu
+  - Jiaogen Zhou
+  - Jihong Guan
+  publisher: Neurocomputing
+  date: '2023-05-01'
+  link: https://doi.org/g8nv6j
+  image: images/papers/10.1016j.neucom.2023.02.027.jpeg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/rs15081956
+  title: On Evaluating the Predictability of Sea Surface Temperature Using Entropy
+  authors:
+  - Chang Jin
+  - Han Peng
+  - Hanchen Yang
+  - Wengen Li
+  - Jihong Guan
+  publisher: Remote Sensing
+  date: '2023-04-07'
+  link: https://doi.org/gs7z76
+  image: images/papers/10.3390rs15081956.jpeg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/JSTARS.2023.3308033
+  title: Enhanced Adaptive Graph Convolutional Network for Long-Term Fine-Grained
+    SST Prediction
+  authors:
+  - Han Peng
+  - Chang Jin
+  - Wengen Li
+  - Jihong Guan
+  publisher: IEEE Journal of Selected Topics in Applied Earth Observations and Remote
+    Sensing
+  date: '2023-01-01'
+  link: https://doi.org/g8nv6n
+  image: images/papers/10.1109JSTARS.2023.3308033.gif
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3593588
+  title: 'Recent Few-shot Object Detection Algorithms: A Survey with Performance Comparison'
+  authors:
+  - Tianying Liu
+  - Lu Zhang
+  - Yang Wang
+  - Jihong Guan
+  - Yanwei Fu
+  - Jiajia Zhao
+  - Shuigeng Zhou
+  publisher: ACM Transactions on Intelligent Systems and Technology
+  date: '2023-06-15'
+  link: https://doi.org/gr89zx
+  image: images/papers/10.11453593588.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3597937
+  title: 'HiGRN: A Hierarchical Graph Recurrent Network for Global Sea Surface Temperature
+    Prediction'
+  authors:
+  - Hanchen Yang
+  - Wengen Li
+  - Siyun Hou
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: ACM Transactions on Intelligent Systems and Technology
+  date: '2023-07-21'
+  link: https://doi.org/gtpfg7
+  image: images/papers/10.11453597937.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3593810
+  title: Conditional Independence Test Based on Residual Similarity
+  authors:
+  - Hao Zhang
+  - Yewei Xia
+  - Kun Zhang
+  - Shuigeng Zhou
+  - Jihong Guan
+  publisher: ACM Transactions on Knowledge Discovery from Data
+  date: '2023-06-28'
+  link: https://doi.org/g8nv6p
+  image: images/papers/10.11453593810.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/ani13182924
+  title: 'Bird Object Detection: Dataset Construction, Model Performance Evaluation,
+    and Model Lightweighting'
+  authors:
+  - Yang Wang
+  - Jiaogen Zhou
+  - Caiyun Zhang
+  - Zhaopeng Luo
+  - Xuexue Han
+  - Yanzhu Ji
+  - Jihong Guan
+  publisher: Animals
+  date: '2023-09-14'
+  link: https://doi.org/g8nv6q
+  image: images/papers/10.3390ani13182924.webp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/atmos14091358
+  title: "MuSTC: A Multi-Stage Spatio\u2013Temporal Clustering Method for Uncovering\
+    \ the Regionality of Global SST"
+  authors:
+  - Han Peng
+  - Wengen Li
+  - Chang Jin
+  - Hanchen Yang
+  - Jihong Guan
+  publisher: Atmosphere
+  date: '2023-08-29'
+  link: https://doi.org/gs7z8q
+  image: images/papers/10.3390atmos14091358.jpeg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/bioinformatics/btad473
+  title: 'PCGAN: a generative approach for protein complex identification from protein
+    interaction networks'
+  authors:
+  - Yuliang Pan
+  - Yang Wang
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: Bioinformatics
+  date: '2023-08-01'
+  link: https://doi.org/g8nwb7
+  image: images/papers/10.1093bioinformaticsbtad473.jpeg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/math11122709
+  title: Short Memory-Based Human Strategy Modeling in Social Dilemmas
+  authors:
+  - Xiang-Hao Yang
+  - Hui-Yun Huang
+  - Yi-Chao Zhang
+  - Jia-Sheng Wang
+  - Ji-Hong Guan
+  - Shui-Geng Zhou
+  publisher: Mathematics
+  date: '2023-06-15'
+  link: https://doi.org/g8nwb8
+  image: images/papers/10.3390math11122709.jpeg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/bioinformatics/btad258
+  title: Molecular property prediction by contrastive learning with attention-guided
+    positive sample selection
+  authors:
+  - Jinxian Wang
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: Bioinformatics
+  date: '2023-04-20'
+  link: https://doi.org/g8nwb9
+  image: images/papers/10.1093bioinformaticsbtad258.jpeg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/rs15010088
+  title: 'STA-GAN: A Spatio-Temporal Attention Generative Adversarial Network for
+    Missing Value Imputation in Satellite Data'
+  authors:
+  - Shuyu Wang
+  - Wengen Li
+  - Siyun Hou
+  - Jihong Guan
+  - Jiamin Yao
+  publisher: Remote Sensing
+  date: '2022-12-23'
+  link: https://doi.org/gr3r3k
+  image: images/papers/10.3390rs15010088.jpeg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1609/aaai.v37i5.25799
+  title: 'Multi-Level Wavelet Mapping Correlation for Statistical Dependence Measurement:
+    Methodology and Performance'
+  authors:
+  - Yixin Ren
+  - Hao Zhang
+  - Yewei Xia
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+  date: '2023-06-26'
+  link: https://doi.org/g8nwcb
+  image: images/papers/10.1609aaai.v37i5.25799.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1609/aaai.v37i10.26452
+  title: Differentially Private Nonlinear Causal Discovery from Numerical Data
+  authors:
+  - Hao Zhang
+  - Yewei Xia
+  - Yixin Ren
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+  date: '2023-06-26'
+  link: https://doi.org/g8nwcc
+  image: images/papers/10.1609aaai.v37i10.26452.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3580305.3599256
+  title: 'All in One: Multi-Task Prompting for Graph Neural Networks'
+  authors:
+  - Xiangguo Sun
+  - Hong Cheng
+  - Jia Li
+  - Bo Liu
+  - Jihong Guan
+  publisher: Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery
+    and Data Mining
+  date: '2023-08-04'
+  link: https://doi.org/gskrrf
+  image: images/papers/10.11453580305.3599256.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3581783.3612045
+  title: IDDR-NGP:Incorporating Detectors for Distractors Removal with Instant Neural
+    Radiance Field
+  authors:
+  - Xianliang Huang
+  - Jiajie Gou
+  - Shuhang Chen
+  - Zhizhou Zhong
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: Proceedings of the 31st ACM International Conference on Multimedia
+  date: '2023-10-26'
+  link: https://doi.org/g8nwcd
+  image: images/papers/10.11453581783.3612045.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3581783.3612523
+  title: Zero-Shot Object Detection by Semantics-Aware DETR with Adaptive Contrastive
+    Loss
+  authors:
+  - Huan Liu
+  - Lu Zhang
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: Proceedings of the 31st ACM International Conference on Multimedia
+  date: '2023-10-26'
+  link: https://doi.org/g8nwcf
+  image: images/papers/10.11453581783.3612523.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3581783.3612488
+  title: 'STIRER: A Unified Model for Low-Resolution Scene Text Image Recovery and
+    Recognition'
+  authors:
+  - Minyi Zhao
+  - Shijie Xuyang
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: Proceedings of the 31st ACM International Conference on Multimedia
+  date: '2023-10-26'
+  link: https://doi.org/g8nwcg
+  image: images/papers/10.11453581783.3612488.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2308.09540
+  title: 'Meta-ZSDETR: Zero-shot DETR with Meta-learning'
+  authors:
+  - Lu Zhang
+  - Chenbo Zhang
+  - Jiajia Zhao
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/g8nwcj
+  image: images/papers/10.48550arXiv.2308.09540.png
   plugin: sources.py
   file: sources.yaml

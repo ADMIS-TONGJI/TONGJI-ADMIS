@@ -1,53 +1,119 @@
 - id: doi:10.1109/TAI.2024.3459857
-  image: https://www.researchgate.net/publication/384027028/figure/fig1/AS:11431281277961813@1726311551198/The-structure-of-Traffexplainer-consists-of-GNN-based-traffic-prediction-model-and.png
-  
+  image: images/papers/10.1109TAI.2024.3459857.png
+
 - id: doi:10.1109/TAFFC.2024.3396144
-  image: https://www.researchgate.net/publication/377949776/figure/fig1/AS:11431281221929808@1706970594720/Model-Architecture.png
+  image: images/papers/10.1109TAFFC.2024.3396144.png
 
 - id: doi:10.1109/TPAMI.2024.3435503
+  image: images/papers/10.1109TPAMI.2024.3435503.png
 
 - id: doi:10.1109/ACCESS.2024.3361672
-  image: https://www.researchgate.net/publication/377949776/figure/fig1/AS:11431281221929808@1706970594720/Model-Architecture.png
+  image: images/papers/10.1109ACCESS.2024.3361672.png
 
 - id: doi:10.48550/arXiv.2409.14483
-  image: https://arxiv.org/html/2409.14483v1/x1.png
+  image: images/papers/10.48550arXiv.2409.14483.png
 
 - id: doi:10.1109/TGRS.2024.3440912
+  image: images/papers/10.1109TGRS.2024.3440912.png
 
 - id: doi:10.1109/ICASSP48485.2024.10448187
-  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10445798/10445803/10448187/wang2-p5-wang-large.gif
+  image: images/papers/10.1109ICASSP48485.2024.10448187.png
   
 - id: doi:10.1609/aaai.v38i7.28528
+  image: images/papers/10.1609aaai.v38i7.28528.png
   
 - id: doi:10.1093/bioinformatics/btae304
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/5/10.1093_bioinformatics_btae304/1/m_btae304f1.jpeg?Expires=1732441741&Signature=x7fbtjt6Jd-0yjoi7OAIKDOuzBxKp15YNQ3WSm3MzP9dK4LDLGgTNgYP4pwHGI8Uow-VGdroOx18KvpCwrp3Rk-5k~eUWbDCuZlJGsVgKeO6VMNAx~A~CScjEUHH-qUO3fB5cERKow0djENuFhxCriAQQzrxFw0CW5eWjreb7mzMJadpsPiFXHCeIpzD7IveYz21CPXcrTmd0TagBcdMVwRPmfPD8mrf3DFPL~pXx0jB9s-MCbCePakpZhJzs5fVeobPNK-avHlbexNPDADYTTvHvmsSWlcajHM6KZXDoMdTNVcwdDfuNHcpPBDT2d-g0LMyjjMXDho54Xt4xpCt6A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: images/papers/10.1093bioinformaticsbtae304.jpeg
 
 - id: doi:10.1145/3663573
-  image: https://dl.acm.org/doi/full/10.1145/3663573#fig1
+  image: images/papers/10.11453663573.jpg
 
 - id: doi:10.48550/arXiv.2406.16708
-  image: https://arxiv.org/html/2406.16708v1/x2.png
+  image: images/papers/10.48550arXiv.2406.16708.png
 
 - id: doi:10.1109/TCBB.2024.3434461
-  image: https://figures.semanticscholar.org/6e04534dd1cf07ed8e49195e6c5e71979cf1ba1b/4-Figure1-1.png
+  image: images/papers/10.1109TCBB.2024.3434461.png
 
 - id: doi:10.3390/info15060322
-  image: https://www.mdpi.com/information/information-15-00322/article_deploy/html/images/information-15-00322-g001-550.jpg
+  image: images/papers/10.3390info15060322.png
 
 - id: doi:10.1109/TCBB.2024.3406922
+  image: images/papers/10.1109TCBB.2024.3406922.png
 
 - id: doi:10.3390/a17050217
-  image: https://www.mdpi.com/algorithms/algorithms-17-00217/article_deploy/html/images/algorithms-17-00217-g002-550.jpg 
+  image: images/papers/10.3390a17050217.png
 
 - id: doi:10.1109/ICASSP48485.2024.10446683
-  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10445798/10445803/10446683/zhang2-p5-zhang-large.gif
+  image: images/papers/10.1109ICASSP48485.2024.10446683.png
 
 - id: doi:10.1109/ICASSP48485.2024.10448031
-  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10445798/10445803/10448031/liu2-p5-liu-large.gif
+  image: images/papers/10.1109ICASSP48485.2024.10448031.png
 
 - id: doi:10.1016/j.neucom.2024.128698
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0925231224014693-gr1.jpg
-  
+  image: images/papers/10.1016j.neucom.2024.128698.jpg
 
 - id: doi:10.1007/s10489-023-04767-2
   image: images/papers/10.1007s10489-023-04767-2.png
+
+- id: doi:10.1093/bib/bbad296
+  image: images/papers/10.1093bibbbad296.png
+
+- id: doi:10.1049/cvi2.12137
+  image: images/papers/10.1049cvi2.12137.png
+
+- id: doi:10.1016/j.neucom.2023.02.027
+  image: images/papers/10.1016j.neucom.2023.02.027.jpeg
+
+- id: doi:10.3390/rs15081956
+  image: images/papers/10.3390rs15081956.jpeg
+
+- id: doi:10.1109/JSTARS.2023.3308033
+  image: images/papers/10.1109JSTARS.2023.3308033.gif
+
+- id: doi:10.1145/3593588
+  image: images/papers/10.11453593588.jpg
+
+- id: doi:10.1145/3597937
+  image: images/papers/10.11453597937.jpg
+
+- id: doi:10.1145/3593810
+  image: images/papers/10.11453593810.jpg
+
+- id: doi:10.3390/ani13182924
+  image: images/papers/10.3390ani13182924.webp
+
+- id: doi:10.3390/atmos14091358
+  image: images/papers/10.3390atmos14091358.jpeg
+
+- id: doi:10.1093/bioinformatics/btad473
+  image: images/papers/10.1093bioinformaticsbtad473.jpeg
+
+- id: doi:10.3390/math11122709
+  image: images/papers/10.3390math11122709.jpeg
+
+- id: doi:10.1093/bioinformatics/btad258
+  image: images/papers/10.1093bioinformaticsbtad258.jpeg
+
+- id: doi:10.3390/rs15010088
+  image: images/papers/10.3390rs15010088.jpeg
+
+- id: doi:10.1609/aaai.v37i5.25799
+  image: images/papers/10.1609aaai.v37i5.25799.png
+
+- id: doi:10.1609/aaai.v37i10.26452
+  image: images/papers/10.1609aaai.v37i10.26452.png
+
+- id: doi:10.1145/3580305.3599256
+  image: images/papers/10.11453580305.3599256.png
+
+- id: doi:10.1145/3581783.3612045
+  image: images/papers/10.11453581783.3612045.png
+
+- id: doi:10.1145/3581783.3612523
+  image: images/papers/10.11453581783.3612523.png
+
+- id: doi:10.1145/3581783.3612488
+  image: images/papers/10.11453581783.3612488.png
+
+- id: doi:10.48550/arXiv.2308.09540
+  image: images/papers/10.48550arXiv.2308.09540.png
