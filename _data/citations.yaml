@@ -269,6 +269,6 @@
   publisher: Applied Intelligence
   date: '2023-07-13'
   link: https://doi.org/g8nhmz
-  image: images/papers/10.1007/s10489-023-04767-2.png
+  image: images/papers/10.1007s10489-023-04767-2.png
   plugin: sources.py
   file: sources.yaml
