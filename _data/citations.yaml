@@ -34,66 +34,6 @@
   image: https://www.researchgate.net/publication/377949776/figure/fig1/AS:11431281221929808@1706970594720/Model-Architecture.png
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1007/s10489-023-04767-2
-  title: Latent feature reconstruction for unsupervised anomaly detection
-  authors:
-  - Jinghuang Lin
-  - Yifan He
-  - Weixia Xu
-  - Jihong Guan
-  - Ji Zhang
-  - Shuigeng Zhou
-  publisher: Applied Intelligence
-  date: '2023-07-13'
-  link: https://doi.org/g8nhmz
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs10489-023-04767-2/MediaObjects/10489_2023_4767_Fig2_HTML.png?as=webp
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1093/bib/bbad296
-  title: Self-supervised learning with chemistry-aware fragmentation for effective
-    molecular property prediction
-  authors:
-  - Ailin Xie
-  - Ziqiao Zhang
-  - Jihong Guan
-  - Shuigeng Zhou
-  publisher: Briefings in Bioinformatics
-  date: '2023-08-20'
-  link: https://doi.org/g6345s
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bib/24/5/10.1093_bib_bbad296/2/m_bbad296f1.jpeg?Expires=1732442226&Signature=WobzgkuOG7Lr9mY8RxanwJ3yzmR7K09KkAvC-NIuI53wXFHj9vdugsE8Vcgcqtw4FOj-VbIn8wH6-fuBlFdB3kVyNQRvP-Jx7ymgrcATaPLZaHPMCN4TOiqZMJy7XxZE777OaTPSeRV5N56MWf5BKb396MW0EhsD4wO~MdLlj2JAkkP0nuqJJp8qtRdp2NgI6Qha86IK08MJDUzWj8mTPv~IGsv5H9pfyUOfXdNxCXGTZWPhVaGCy3bMIbs4ETMD4JLsYx-ifzkm0geizW1WppoxtG5sX46qSQ507aBwFmdsIvBDu-xSMvV~7sJ4oD~hb8O2XbVhBXSgKjk8q8G7jw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1093/bib/bbac018
-  title: Deep structural clustering for single-cell RNA-seq data jointly through autoencoder
-    and graph neural network
-  authors:
-  - Yanglan Gan
-  - Xingyu Huang
-  - Guobing Zou
-  - Shuigeng Zhou
-  - Jihong Guan
-  publisher: Briefings in Bioinformatics
-  date: '2022-02-16'
-  link: https://doi.org/gpthn8
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bib/23/2/10.1093_bib_bbac018/1/m_bbac018f1.jpeg?Expires=1732441379&Signature=GGXrTPlJQdLzCMx1v2FD6Ld1dv3BM1OYrVwIUnShKhhfJqdsBXJBymb3WrLgK09wg9AoexgsYY7cnD9gS6H8tWxhDboYchZDOrm3DS3rxr9TXCrR2b1i7O6D3b3aYnjM2y8cqPqN5EI8kCSx2qoqxiUD5Vm49GocUJMHEUBE314ur6ltvqYZ53dy2A~RJ~0GcAPdmDV7Kro08NY6pEilZo1NCuS3gBIAk2s54OQqG2Bt9rS1hbzlWMY2XTWtKHVUPxIqaLH8mV71tNTJh8sPx82BThlHxyRaRmw~lcP-HPYHqG3CDAagHzSEfB6ieIafIT05aaqvE0aetCcH5aKnBQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1109/TCBB.2021.3061720
-  title: 'TiC2D: Trajectory Inference From Single-Cell RNA-Seq Data Using Consensus
-    Clustering'
-  authors:
-  - Yanglan Gan
-  - Ning Li
-  - Cheng Guo
-  - Guobing Zou
-  - Jihong Guan
-  - Shuigeng Zhou
-  publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
-  date: '2022-07-01'
-  link: https://doi.org/g8nm63
-  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/8857/9852343/9363460/gan1-3061720-large.gif
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1109/TPAMI.2024.3435503
   title: Towards Effective Causal Partitioning by Edge Cutting of Adjoint Graph
   authors:
@@ -315,5 +255,20 @@
   date: '2024-10-01'
   link: https://doi.org/g8nnb5
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0925231224014693-gr1.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s10489-023-04767-2
+  title: Latent feature reconstruction for unsupervised anomaly detection
+  authors:
+  - Jinghuang Lin
+  - Yifan He
+  - Weixia Xu
+  - Jihong Guan
+  - Ji Zhang
+  - Shuigeng Zhou
+  publisher: Applied Intelligence
+  date: '2023-07-13'
+  link: https://doi.org/g8nhmz
+  image: images/papers/10.1007/s10489-023-04767-2.png
   plugin: sources.py
   file: sources.yaml
