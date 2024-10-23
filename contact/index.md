@@ -19,21 +19,21 @@ ADMIS实验室依托于同济大学计算机科学与技术学院，专注于生
   include button.html
   type="email"
   tooltip="Prof. J.H. Guan.: jhguan@tongji.edu.cn"
-  text="关佶红教授：jhguan@tongji.edu.cn"
+  text="关佶红教授"
   link="jhguan@tongji.edu.cn"
 %}
 {%
   include button.html
   type="email"
   tooltip="Assoc. Prof. W.G. Li.: lwengen@tongji.edu.cn"
-  text="李文根副教授：lwengen@tongji.edu.cn"
+  text="李文根副教授"
   link="lwengen@tongji.edu.cn"
 %}
 {%
   include button.html
   type="email"
   tooltip="Assoc. Prof. Y.C. Zhang.: yichaozhang@tongji.edu.cn"
-  text="张毅超副教授：yichaozhang@tongji.edu.cn"
+  text="张毅超副教授"
   link="yichaozhang@tongji.edu.cn"
 %}
 {%
@@ -57,21 +57,21 @@ We warmly invite students interested in the above research directions and passio
   include button.html
   type="email"
   tooltip="关佶红教授：jhguan@tongji.edu.cn"
-  text="Prof. J.H. Guan.: jhguan@tongji.edu.cn"
+  text="Prof. J.H. Guan."
   link="jhguan@tongji.edu.cn"
 %}
 {%
   include button.html
   type="email"
   tooltip="李文根副教授：lwengen@tongji.edu.cn"
-  text="Assoc. Prof. W.G. Li.: lwengen@tongji.edu.cn"
+  text="Assoc. Prof. W.G. Li."
   link="lwengen@tongji.edu.cn"
 %}
 {%
   include button.html
   type="email"
   tooltip="张毅超副教授：yichaozhang@tongji.edu.cn"
-  text="Assoc. Prof. Y.C. Zhang.: yichaozhang@tongji.edu.cn"
+  text="Assoc. Prof. Y.C. Zhang."
   link="yichaozhang@tongji.edu.cn"
 %}
 {%
