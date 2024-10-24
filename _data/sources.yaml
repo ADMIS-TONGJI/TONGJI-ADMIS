@@ -117,3 +117,232 @@
 
 - id: doi:10.48550/arXiv.2308.09540
   image: images/papers/10.48550arXiv.2308.09540.png
+
+# - id: doi:10.1093/bib/bbac018
+#   image: 
+
+# - id: doi:10.1109/TCBB.2021.3061720
+#   image: 
+
+# - id: doi:10.1109/TCYB.2020.2995595
+#   image: 
+
+# - id: doi:10.3390/rs14102371
+#   image: 
+
+# - id: doi:10.1007/s00778-021-00706-0
+#   image: 
+
+# - id: doi:10.1093/bioinformatics/btac377
+#   image: 
+
+# - id: doi:10.1186/s12859-022-04874-w
+#   image: 
+
+# - id: doi:10.1109/TG.2020.3033720
+#   image: 
+
+# - id: doi:10.1117/1.JEI.31.3.033044
+#   image: 
+
+# - id: doi:10.1049/cvi2.12137
+#   image: 
+
+# - id: doi:10.48550/arXiv.2204.11205
+#   image: 
+
+# - id: doi:10.1145/3503161.3548412
+#   image: 
+
+# - id: doi:10.1609/aaai.v36i5.20539
+#   image: 
+
+# - id: doi:10.1145/3511808.3557554
+#   image: 
+
+# - id: doi:10.1109/ICASSP43922.2022.9746969
+#   image: 
+
+# - id: doi:10.1109/WACV51458.2022.00140
+#   image: 
+
+# - id: doi:10.1145/3511808.3557633
+#   image: 
+
+
+- id: doi:10.1093/bioinformatics/btab195
+  image: images/papers/10.1093bioinformaticsbtab195.jpg
+
+- id: doi:10.1186/s12859-021-04033-7
+  image: images/papers/10.1186s12859-021-04033-7.jpg
+
+- id: doi:10.1186/s12859-021-04369-0
+  image: image/papers/10.1186s12859-021-04369-0.jpg
+
+- id: doi:10.1016/j.is.2020.101648
+  image: image/papers/10.1016j.is.2020.101648.jpg
+
+- id: doi:10.1016/j.ins.2021.06.004
+  image: image/papers/10.1016j.ins.2021.06.004.jpg
+
+- id: doi:10.1109/TSMC.2019.2947516
+  image: image/papers/10.1109TSMC.2019.2947516.jpg
+
+- id: doi:10.1007/s00778-021-00706-0
+  image: image/papers/10.1007s00778-021-00706-0.jpg
+
+- id: doi:10.1109/tcbb.2021.3128576
+  image: image/papers/10.1109tcbb.2021.3128576.jpg
+
+- id: doi:10.2174/1574893615999200618152109
+  image: image/papers/10.21741574893615999200618152109.jpg
+
+- id: doi:10.1109/JSTARS.2021.3128577
+  image: image/papers/10.1109JSTARS.2021.3128577.jpg
+
+- id: doi:10.1109/tcbb.2021.3061720
+  image: image/papers/10.1109tcbb.2021.3061720.jpg
+
+- id: doi:10.1007/s13369-021-05786-2
+  image: image/papers/10.1007s13369-021-05786-2.jpg
+
+- id: doi:10.3389/fgene.2021.758131
+  image: image/papers/10.3389fgene.2021.758131.jpg
+
+- id: doi:10.1609/aaai.v35i7.16810
+  image: image/papers/10.1609aaai.v35i7.16810.png
+
+- id: doi:10.1007/978-3-030-85899-5_2
+  image: image/papers/10.1007978-3-030-85899-5_2.png
+
+- id: doi:10.1109/IJCNN52387.2021.9534400
+  image: image/papers/10.1109IJCNN52387.2021.9534400.png
+
+- id: doi:10.1109/CVPR46437.2021.01419
+  image: image/papers/10.1109CVPR46437.2021.01419.png
+
+- id: doi:10.1186/s12859-020-03675-3
+  image: image/papers/10.1186s12859-020-03675-3.png
+
+- id: doi:10.1109/TCBB.2019.2897769
+  image: image/papers/10.1109TCBB.2019.2897769.png
+
+- id: doi:10.1109/ACCESS.2020.3022718
+  image: image/papers/10.1109ACCESS.2020.3022718.png
+
+- id: doi:10.1016/j.physa.2020.124897
+  image: image/papers/10.1016j.physa.2020.124897.png
+
+- id: doi:10.1109/TCYB.2020.3010004
+  image: image/papers/10.1109TCYB.2020.3010004.png
+
+- id: doi:10.1016/j.ymeth.2020.05.013
+  image: image/papers/10.1016j.ymeth.2020.05.013.png
+
+- id: doi:10.1142/S0219720020400107
+  image: image/papers/10.1142S0219720020400107.jpg
+
+- id: doi:10.1142/S0219720020400053
+  image: image/papers/10.1142S0219720020400053.jpg
+
+- id: doi:10.1186/s12859-021-04033-7
+  image: image/papers/10.1186s12859-021-04033-7.png
+
+- id: doi:10.1186/s12864-023-09577-x
+  image: image/papers/10.1186s12864-023-09577-x.png
+
+- id: doi:10.1007/978-3-030-59410-7_42
+  image: image/papers/10.1007978-3-030-59410-7_42.png
+
+- id: doi:10.1609/aaai.v34i04.6063
+  image: image/papers/10.1609aaai.v34i04.6063.png
+
+- id: doi:10.1016/j.ins.2019.06.022
+  image: image/papers/10.1016j.ins.2019.06.022.jpg
+
+- id: doi:10.26599/TST.2018.9010099
+  image: image/papers/10.26599TST.2018.9010099.jpg
+
+- id: doi:10.1038/s41467-019-09670-4
+  image: image/papers/10.1038s41467-019-09670-4.png
+
+- id: doi:10.2174/1574893614666190211161717
+  image: image/papers/10.21741574893614666190211161717.jpg
+
+- id: doi:10.1186/s12864-019-5472-0
+  image: image/papers/10.1186s12864-019-5472-0.png
+
+- id: doi:10.1109/TCSII.2018.2861621
+  image: image/papers/10.1109TCSII.2018.2861621.png
+
+- id: doi:10.1109/TCBB.2017.2701824
+  image: image/papers/10.1109TCBB.2017.2701824.png
+
+- id: doi:10.1145/3325708
+  image: image/papers/10.11453325708.png
+
+- id: doi:10.1109/TITS.2018.2873092
+  image: image/papers/10.1109TITS.2018.2873092.png
+
+- id: doi:10.1109/TSC.2016.2582692
+  image: image/papers/10.1109TSC.2016.2582692.png
+
+- id: doi:10.2174/1574893613666180726163429
+  image: image/papers/10.21741574893613666180726163429.jpg
+
+- id: doi:10.1109/ACCESS.2018.2846550
+  image: image/papers/10.1109ACCESS.2018.2846550.png
+
+- id: doi:10.1504/IJDMB.2018.094888
+
+
+- id: doi:10.1038/s41598-018-31254-3
+  image: image/papers/10.1038s41598-018-31254-3.png
+
+- id: doi:10.2174/1574893613666180118104250
+  image: image/papers/10.21741574893613666180118104250.jpg
+
+- id: doi:10.1016/j.jss.2018.01.034
+  image: image/papers/10.1016j.jss.2018.01.034.jpg
+
+- id: doi:10.1016/j.ins.2018.08.010
+  image: image/papers/10.1016j.ins.2018.08.010.jpg
+
+- id: doi:10.1109/TKDE.2017.2721408
+  image: image/papers/10.1109TKDE.2017.2721408.png
+
+- id: doi:10.1186/s12859-017-1461-y
+  image: image/papers/10.1186s12859-017-1461-y.png
+
+- id: doi:10.1186/s12859-017-1828-0
+  image: image/papers/10.1186s12859-017-1828-0.png
+
+- id: doi:10.1186/s12859-017-1820-8
+  image: image/papers/10.1186s12859-017-1820-8.png
+
+- id: doi:10.1186/s12859-017-1819-1
+  image: image/papers/10.1186s12859-017-1819-1.png
+
+- id: doi:10.1186/s12918-017-0390-8
+  image: image/papers/10.1186s12918-017-0390-8.png
+
+- id: doi:10.1002/cpe.3791
+  image: image/papers/10.1002cpe.3791.png
+
+- id: doi:10.1016/j.knosys.2017.01.029
+  image: image/papers/10.1016j.knosys.2017.01.029.jpg
+
+- id: doi:10.1142/S021962201450028X
+  image: image/papers/10.1142S021962201450028X.jpg
+
+- id: doi:10.1038/s41598-017-15616-x
+  image: image/papers/10.1038s41598-017-15616-x.png
+
+- id: doi:10.1109/TCBB.2016.2570211
+  image: image/papers/10.1109TCBB.2016.2570211.png
+
+- id: doi:10.1016/j.neucom.2015.11.108
+  image: image/papers/10.1016j.neucom.2015.11.108.jpg
+
+- id: doi:10.1016/j.neucom.2015.11.107
+  image: image/papers/10.1016j.neucom.2015.11.107.jpg
