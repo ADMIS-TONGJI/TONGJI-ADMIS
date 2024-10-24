@@ -583,3 +583,836 @@
   image: images/papers/10.48550arXiv.2308.09540.png
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1093/bioinformatics/btab195
+  title: 'FraGAT: a fragment-oriented multi-scale graph attention model for molecular
+    property prediction'
+  authors:
+  - Ziqiao Zhang
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: Bioinformatics
+  date: '2021-03-26'
+  link: https://doi.org/gndq93
+  image: images/papers/10.1093bioinformaticsbtab195.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s12859-021-04033-7
+  title: Boosting scRNA-seq data clustering by cluster-aware feature weighting
+  authors:
+  - Rui-Yi Li
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: BMC Bioinformatics
+  date: '2021-06-02'
+  link: https://doi.org/gm2h8g
+  image: image/papers/10.1186s12859-021-04033-7.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s12859-021-04369-0
+  title: "Protein\u2013protein interaction prediction based on ordinal regression\
+    \ and recurrent convolutional neural networks"
+  authors:
+  - Weixia Xu
+  - Yangyun Gao
+  - Yang Wang
+  - Jihong Guan
+  publisher: BMC Bioinformatics
+  date: '2021-10-08'
+  link: https://doi.org/g8n2dd
+  image: image/papers/10.1186s12859-021-04369-0.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.is.2020.101648
+  title: A general framework for privacy-preserving of data publication based on randomized
+    response techniques
+  authors:
+  - Chaobin Liu
+  - Shixi Chen
+  - Shuigeng Zhou
+  - Jihong Guan
+  - Yao Ma
+  publisher: Information Systems
+  date: '2021-02-01'
+  link: https://doi.org/g8n2df
+  image: image/papers/10.1016j.is.2020.101648.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ins.2021.06.004
+  title: 'Combined cause inference: Definition, model and performance'
+  authors:
+  - Hao Zhang
+  - Chuanxu Yan
+  - Shuigeng Zhou
+  - Jihong Guan
+  - Ji Zhang
+  publisher: Information Sciences
+  date: '2021-10-01'
+  link: https://doi.org/gkfxmh
+  image: image/papers/10.1016j.ins.2021.06.004.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TSMC.2019.2947516
+  title: A Chaotic Ant Colony Optimized Link Prediction Algorithm
+  authors:
+  - Zhiwei Cao
+  - Yichao Zhang
+  - Jihong Guan
+  - Shuigeng Zhous
+  - Guanghui Wen
+  publisher: 'IEEE Transactions on Systems, Man, and Cybernetics: Systems'
+  date: '2021-09-01'
+  link: https://doi.org/g4kc7k
+  image: image/papers/10.1109TSMC.2019.2947516.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00778-021-00706-0
+  title: Privacy and efficiency guaranteed social subgraph matching
+  authors:
+  - Kai Huang
+  - Haibo Hu
+  - Shuigeng Zhou
+  - Jihong Guan
+  - Qingqing Ye
+  - Xiaofang Zhou
+  publisher: The VLDB Journal
+  date: '2021-11-11'
+  link: https://doi.org/g8n2dg
+  image: image/papers/10.1007s00778-021-00706-0.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/tcbb.2021.3128576
+  title: Effectively Clustering Single Cell RNA Sequencing Data by Sparse Representation
+  authors:
+  - Rui-Yi Li
+  - Zhiye Wang
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
+  date: '2022-11-01'
+  link: https://doi.org/g8n2dh
+  image: image/papers/10.1109tcbb.2021.3128576.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.2174/1574893615999200618152109
+  title: "Classifying Cognitive Normal and Early Mild Cognitive Impairment of Alzheimer\u2019\
+    s Disease by Applying Restricted Boltzmann Machine to fMRI Data"
+  authors:
+  - Shengbing Pei
+  - Jihong Guan
+  publisher: Current Bioinformatics
+  date: '2021-02-01'
+  link: https://doi.org/g8n2dn
+  image: image/papers/10.21741574893615999200618152109.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/JSTARS.2021.3128577
+  title: 'D2CL: A Dense Dilated Convolutional LSTM Model for Sea Surface Temperature
+    Prediction'
+  authors:
+  - Siyun Hou
+  - Wengen Li
+  - Tianying Liu
+  - Shuigeng Zhou
+  - Jihong Guan
+  - Rufu Qin
+  - Zhenfeng Wang
+  publisher: IEEE Journal of Selected Topics in Applied Earth Observations and Remote
+    Sensing
+  date: '2021-01-01'
+  link: https://doi.org/gqgr7r
+  image: image/papers/10.1109JSTARS.2021.3128577.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/tcbb.2021.3061720
+  title: 'TiC2D: Trajectory Inference From Single-Cell RNA-Seq Data Using Consensus
+    Clustering'
+  authors:
+  - Yanglan Gan
+  - Ning Li
+  - Cheng Guo
+  - Guobing Zou
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
+  date: '2022-07-01'
+  link: https://doi.org/g8nm63
+  image: image/papers/10.1109tcbb.2021.3061720.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s13369-021-05786-2
+  title: Classification of Marine Plankton Based on Few-shot Learning
+  authors:
+  - Jin Guo
+  - Jihong Guan
+  publisher: Arabian Journal for Science and Engineering
+  date: '2021-06-23'
+  link: https://doi.org/g8n2dp
+  image: image/papers/10.1007s13369-021-05786-2.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fgene.2021.758131
+  title: 'Protein Function Prediction Based on PPI Networks: Network Reconstruction
+    vs Edge Enrichment'
+  authors:
+  - Jiaogen Zhou
+  - Wei Xiong
+  - Yang Wang
+  - Jihong Guan
+  publisher: Frontiers in Genetics
+  date: '2021-12-14'
+  link: https://doi.org/gpv2j8
+  image: image/papers/10.3389fgene.2021.758131.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1609/aaai.v35i7.16810
+  title: Testing Independence Between Linear Combinations for Causal Discovery
+  authors:
+  - Hao Zhang
+  - Kun Zhang
+  - Shuigeng Zhou
+  - Jihong Guan
+  - Ji Zhang
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+  date: '2021-05-18'
+  link: https://doi.org/g8n2dq
+  image: image/papers/10.1609aaai.v35i7.16810.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-030-85899-5_2
+  title: 'FedMDR: Federated Model Distillation with Robust Aggregation'
+  authors:
+  - Yuxi Mi
+  - Yutong Mu
+  - Shuigeng Zhou
+  - Jihong Guan
+  publisher: Lecture Notes in Computer Science
+  date: '2021-01-01'
+  link: https://doi.org/g8n2dr
+  image: image/papers/10.1007978-3-030-85899-5_2.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/IJCNN52387.2021.9534400
+  title: 'RBA-CenterNet: Feature Enhancement by Rotated Border Alignment for Oriented
+    Object Detection'
+  authors:
+  - Tianying Liu
+  - Yang Wang
+  - Siyun Hou
+  - Wengen Li
+  - Jihong Guan
+  - Shuigeng Zhou
+  - Rufu Qin
+  publisher: 2021 International Joint Conference on Neural Networks (IJCNN)
+  date: '2021-07-18'
+  link: https://doi.org/g8n2ds
+  image: image/papers/10.1109IJCNN52387.2021.9534400.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/CVPR46437.2021.01419
+  title: Accurate Few-shot Object Detection with Support-Query Mutual Guidance and
+    Hybrid Loss
+  authors:
+  - Lu Zhang
+  - Shuigeng Zhou
+  - Jihong Guan
+  - Ji Zhang
+  publisher: 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+  date: '2021-06-01'
+  link: https://doi.org/gp6pfv
+  image: image/papers/10.1109CVPR46437.2021.01419.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s12859-020-03675-3
+  title: Computationally identifying hot spots in protein-DNA binding interfaces using
+    an ensemble approach
+  authors:
+  - Yuliang Pan
+  - Shuigeng Zhou
+  - Jihong Guan
+  publisher: BMC Bioinformatics
+  date: '2020-09-01'
+  link: https://doi.org/g8n2dt
+  image: image/papers/10.1186s12859-020-03675-3.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TCBB.2019.2897769
+  title: Accurately Detecting Protein Complexes by Graph Embedding and Combining Functions
+    with Interactions
+  authors:
+  - Heng Yao
+  - Yunjia Shi
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
+  date: '2020-05-01'
+  link: https://doi.org/gndrsp
+  image: image/papers/10.1109TCBB.2019.2897769.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ACCESS.2020.3022718
+  title: 'GRACE: A Graph-Based Cluster Ensemble Approach for Single-Cell RNA-Seq Data
+    Clustering'
+  authors:
+  - Jihong Guan
+  - Rui-Yi Li
+  - Jiasheng Wang
+  publisher: IEEE Access
+  date: '2020-01-01'
+  link: https://doi.org/ghch7j
+  image: image/papers/10.1109ACCESS.2020.3022718.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.physa.2020.124897
+  title: Revealing dynamic communities in networks using genetic algorithm with merge
+    and split operators
+  authors:
+  - Weihua Zhan
+  - Lei Deng
+  - Jihong Guan
+  - Jun Niu
+  - Dechao Sun
+  publisher: 'Physica A: Statistical Mechanics and its Applications'
+  date: '2020-11-01'
+  link: https://doi.org/g8n2dv
+  image: image/papers/10.1016j.physa.2020.124897.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TCYB.2020.3010004
+  title: Learning Causal Structures Based on Divide and Conquer
+  authors:
+  - Hao Zhang
+  - Shuigeng Zhou
+  - Chuanxu Yan
+  - Jihong Guan
+  - Xin Wang
+  - Ji Zhang
+  - Jun Huan
+  publisher: IEEE Transactions on Cybernetics
+  date: '2022-05-01'
+  link: https://doi.org/g44x3h
+  image: image/papers/10.1109TCYB.2020.3010004.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ymeth.2020.05.013
+  title: 'TOP: A deep mixture representation learning method for boosting molecular
+    toxicity prediction'
+  authors:
+  - Yuzhong Peng
+  - Ziqiao Zhang
+  - Qizhi Jiang
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: Methods
+  date: '2020-07-01'
+  link: https://doi.org/gk4bxd
+  image: image/papers/10.1016j.ymeth.2020.05.013.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1142/S0219720020400107
+  title: "Denoising Protein\u2013Protein interaction network via variational graph\
+    \ auto-encoder for protein complex detection"
+  authors:
+  - Heng Yao
+  - Jihong Guan
+  - Tianying Liu
+  publisher: Journal of Bioinformatics and Computational Biology
+  date: '2020-06-01'
+  link: https://doi.org/gndrkc
+  image: image/papers/10.1142S0219720020400107.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1142/S0219720020400053
+  title: 'Single-cell RNA-seq data clustering: A survey with performance comparison
+    study'
+  authors:
+  - Ruiyi Li
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: Journal of Bioinformatics and Computational Biology
+  date: '2020-08-01'
+  link: https://doi.org/gr87bk
+  image: image/papers/10.1142S0219720020400053.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s12864-023-09577-x
+  title: A new and effective two-step clustering approach for single cell RNA sequencing
+    data
+  authors:
+  - Ruiyi Li
+  - Jihong Guan
+  - Zhiye Wang
+  - Shuigeng Zhou
+  publisher: BMC Genomics
+  date: '2023-11-09'
+  link: https://doi.org/g8n2dx
+  image: image/papers/10.1186s12864-023-09577-x.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-030-59410-7_42
+  title: Optimal Trade Execution Based on Deep Deterministic Policy Gradient
+  authors:
+  - Zekun Ye
+  - Weijie Deng
+  - Shuigeng Zhou
+  - Yi Xu
+  - Jihong Guan
+  publisher: Lecture Notes in Computer Science
+  date: '2020-01-01'
+  link: https://doi.org/g8n2d8
+  image: image/papers/10.1007978-3-030-59410-7_42.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1609/aaai.v34i04.6063
+  title: 'Network as Regularization for Training Deep Neural Networks: Framework,
+    Model and Performance'
+  authors:
+  - Kai Tian
+  - Yi Xu
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+  date: '2020-04-03'
+  link: https://doi.org/g8n2fg
+  image: image/papers/10.1609aaai.v34i04.6063.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ins.2019.06.022
+  title: A novel privacy preserving method for data publication
+  authors:
+  - Chaobin Liu
+  - Shixi Chen
+  - Shuigeng Zhou
+  - Jihong Guan
+  - Yao Ma
+  publisher: Information Sciences
+  date: '2019-10-01'
+  link: https://doi.org/g8n2fh
+  image: image/papers/10.1016j.ins.2019.06.022.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.26599/TST.2018.9010099
+  title: Fusion analysis of resting-state networks and its application to Alzheimer's
+    disease
+  authors:
+  - Shengbing Pei
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: Tsinghua Science and Technology
+  date: '2019-08-01'
+  link: https://doi.org/g8n2fj
+  image: image/papers/10.26599TST.2018.9010099.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-019-09670-4
+  title: Single-cell trajectories reconstruction, exploration and mapping of omics
+    data with STREAM
+  authors:
+  - Huidong Chen
+  - Luca Albergante
+  - Jonathan Y. Hsu
+  - Caleb A. Lareau
+  - "Giosu\xE8 Lo Bosco"
+  - Jihong Guan
+  - Shuigeng Zhou
+  - Alexander N. Gorban
+  - Daniel E. Bauer
+  - Martin J. Aryee
+  - David M. Langenau
+  - Andrei Zinovyev
+  - Jason D. Buenrostro
+  - Guo-Cheng Yuan
+  - Luca Pinello
+  publisher: Nature Communications
+  date: '2019-04-23'
+  link: https://doi.org/ggbt8j
+  image: image/papers/10.1038s41467-019-09670-4.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.2174/1574893614666190211161717
+  title: 'RMDB: An Integrated Database of Single-cytosine-resolution DNA Methylation
+    in Oryza Sativa'
+  authors:
+  - Tiansheng Zhu
+  - Jihong Guan
+  - Hui Liu
+  - Shuigeng Zhou
+  publisher: Current Bioinformatics
+  date: '2019-07-16'
+  link: https://doi.org/g8n2fp
+  image: image/papers/10.21741574893614666190211161717.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s12864-019-5472-0
+  title: Genome-wide analysis of epigenetic dynamics across human developmental stages
+    and tissues
+  authors:
+  - Xia Zhang
+  - Yanglan Gan
+  - Guobing Zou
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: BMC Genomics
+  date: '2019-04-01'
+  link: https://doi.org/g8n2fq
+  image: image/papers/10.1186s12864-019-5472-0.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TCSII.2018.2861621
+  title: Gaming Temporal Networks
+  authors:
+  - Yichao Zhang
+  - Guanghui Wen
+  - Guanrong Chen
+  - Jiasheng Wang
+  - Minmin Xiong
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: 'IEEE Transactions on Circuits and Systems II: Express Briefs'
+  date: '2019-04-01'
+  link: https://doi.org/g8n2fr
+  image: image/papers/10.1109TCSII.2018.2861621.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TCBB.2017.2701824
+  title: Essential Protein Detection by Random Walk on Weighted Protein-Protein Interaction
+    Networks
+  authors:
+  - Bin Xu
+  - Jihong Guan
+  - Yang Wang
+  - Zewei Wang
+  publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
+  date: '2019-03-01'
+  link: https://doi.org/g8n2ft
+  image: image/papers/10.1109TCBB.2017.2701824.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3325708
+  title: Measuring Conditional Independence by Independent Residuals for Causal Discovery
+  authors:
+  - Hao Zhang
+  - Shuigeng Zhou
+  - Jihong Guan
+  - Jun (Luke) Huan
+  publisher: ACM Transactions on Intelligent Systems and Technology
+  date: '2019-09-20'
+  link: https://doi.org/g8n2fv
+  image: image/papers/10.11453325708.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TITS.2018.2873092
+  title: A General Framework for Unmet Demand Prediction in On-Demand Transport Services
+  authors:
+  - Wengen Li
+  - Jiannong Cao
+  - Jihong Guan
+  - Shuigeng Zhou
+  - Guanqing Liang
+  - Winnie K. Y. So
+  - Michal Szczecinski
+  publisher: IEEE Transactions on Intelligent Transportation Systems
+  date: '2019-08-01'
+  link: https://doi.org/gjjwzv
+  image: image/papers/10.1109TITS.2018.2873092.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TSC.2016.2582692
+  title: Probabilistic Time-Constrained Paths Search over Uncertain Road Networks
+  authors:
+  - Wengen Li
+  - Jihong Guan
+  - Xiang Lian
+  - Shuigeng Zhou
+  - Jiannong Cao
+  publisher: IEEE Transactions on Services Computing
+  date: '2018-03-01'
+  link: https://doi.org/gdfqz7
+  image: image/papers/10.1109TSC.2016.2582692.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.2174/1574893613666180726163429
+  title: Predicting Enhancers from Multiple Cell Lines and Tissues across Different
+    Developmental Stages Based On SVM Method
+  authors:
+  - Hongda Bu
+  - Jiaqi Hao
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: Current Bioinformatics
+  date: '2018-11-07'
+  link: https://doi.org/g8n2fw
+  image: image/papers/10.21741574893613666180726163429.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ACCESS.2018.2846550
+  title: A Unified Framework for Predicting KPIs of On-Demand Transport Services
+  authors:
+  - Jihong Guan
+  - Weili Wang
+  - Wengen Li
+  - Shuigeng Zhou
+  publisher: IEEE Access
+  date: '2018-01-01'
+  link: https://doi.org/gjjwwv
+  image: image/papers/10.1109ACCESS.2018.2846550.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1504/IJDMB.2018.094888
+  title: 'CPredictor 4.0: effectively detecting protein complexes in weighted dynamic
+    PPI networks'
+  authors:
+  - Yunjia Shi
+  - Heng Yao
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: International Journal of Data Mining and Bioinformatics
+  date: '2018-01-01'
+  link: https://doi.org/g8n2fx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41598-018-31254-3
+  title: Link Prediction based on Quantum-Inspired Ant Colony Optimization
+  authors:
+  - Zhiwei Cao
+  - Yichao Zhang
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: Scientific Reports
+  date: '2018-09-06'
+  link: https://doi.org/gd7tns
+  image: image/papers/10.1038s41598-018-31254-3.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.2174/1574893613666180118104250
+  title: Group-sparse Modeling Drug-kinase Networks for Predicting Combinatorial Drug
+    Sensitivity in Cancer Cells
+  authors:
+  - Hui Liu
+  - Libo Luo
+  - Zhanzhan Cheng
+  - Jianjiang Sun
+  - Jihong Guan
+  - Jie Zheng
+  - Shuigeng Zhou
+  publisher: Current Bioinformatics
+  date: '2018-09-04'
+  link: https://doi.org/g8n2fz
+  image: image/papers/10.21741574893613666180118104250.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jss.2018.01.034
+  title: Towards efficiently supporting database as a service with QoS guarantees
+  authors:
+  - Yifeng Luo
+  - Junshi Guo
+  - Jiaye Zhu
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: Journal of Systems and Software
+  date: '2018-05-01'
+  link: https://doi.org/g8n2f2
+  image: image/papers/10.1016j.jss.2018.01.034.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ins.2018.08.010
+  title: 'CPP: Towards comprehensive privacy preserving for query processing in information
+    networks'
+  authors:
+  - Chaobin Liu
+  - Shuigeng Zhou
+  - Haibo Hu
+  - Yuzhe Tang
+  - Jihong Guan
+  - Yao Ma
+  publisher: Information Sciences
+  date: '2018-10-01'
+  link: https://doi.org/gfd3nr
+  image: image/papers/10.1016j.ins.2018.08.010.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TKDE.2017.2721408
+  title: Efficient Retrieval of Bounded-Cost Informative Routes
+  authors:
+  - Wengen Li
+  - Jiannong Cao
+  - Jihong Guan
+  - Man Lung Yiu
+  - Shuigeng Zhou
+  publisher: IEEE Transactions on Knowledge and Data Engineering
+  date: '2017-10-01'
+  link: https://doi.org/gbzdcj
+  image: image/papers/10.1109TKDE.2017.2721408.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s12859-017-1461-y
+  title: 'iHMS: a database integrating human histone modification data across developmental
+    stages and tissues'
+  authors:
+  - Yanglan Gan
+  - Han Tao
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: BMC Bioinformatics
+  date: '2017-02-11'
+  link: https://doi.org/g8fj7n
+  image: image/papers/10.1186s12859-017-1461-y.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s12859-017-1828-0
+  title: A new method for enhancer prediction based on deep belief network
+  authors:
+  - Hongda Bu
+  - Yanglan Gan
+  - Yang Wang
+  - Shuigeng Zhou
+  - Jihong Guan
+  publisher: BMC Bioinformatics
+  date: '2017-10-01'
+  link: https://doi.org/g8n2f4
+  image: image/papers/10.1186s12859-017-1828-0.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s12859-017-1820-8
+  title: An effective approach to detecting both small and large complexes from protein-protein
+    interaction networks
+  authors:
+  - Bin Xu
+  - Yang Wang
+  - Zewei Wang
+  - Jiaogen Zhou
+  - Shuigeng Zhou
+  - Jihong Guan
+  publisher: BMC Bioinformatics
+  date: '2017-10-01'
+  link: https://doi.org/g8n2f5
+  image: image/papers/10.1186s12859-017-1820-8.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s12859-017-1819-1
+  title: Fusing multiple protein-protein similarity networks to effectively predict
+    lncRNA-protein interactions
+  authors:
+  - Xiaoxiong Zheng
+  - Yang Wang
+  - Kai Tian
+  - Jiaogen Zhou
+  - Jihong Guan
+  - Libo Luo
+  - Shuigeng Zhou
+  publisher: BMC Bioinformatics
+  date: '2017-10-01'
+  link: https://doi.org/g8n2f6
+  image: image/papers/10.1186s12859-017-1819-1.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s12918-017-0390-8
+  title: Selecting high-quality negative samples for effectively predicting protein-RNA
+    interactions
+  authors:
+  - Zhanzhan Cheng
+  - Kai Huang
+  - Yang Wang
+  - Hui Liu
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: BMC Systems Biology
+  date: '2017-03-01'
+  link: https://doi.org/g8n2f7
+  image: image/papers/10.1186s12918-017-0390-8.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/cpe.3791
+  title: Knowledge diffusion in complex networks
+  authors:
+  - Yichao Zhang
+  - Xing Li
+  - "M. A. Aziz\u2010alaoui"
+  - Cyrille Bertelle
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: 'Concurrency and Computation: Practice and Experience'
+  date: '2016-02-24'
+  link: https://doi.org/grfqxf
+  image: image/papers/10.1002cpe.3791.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.knosys.2017.01.029
+  title: 'A new hybrid method for learning bayesian networks: Separation and reunion'
+  authors:
+  - Hui Liu
+  - Shuigeng Zhou
+  - Wai Lam
+  - Jihong Guan
+  publisher: Knowledge-Based Systems
+  date: '2017-04-01'
+  link: https://doi.org/f92fg8
+  image: image/papers/10.1016j.knosys.2017.01.029.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1142/S021962201450028X
+  title: A New Method for Extracting the Hierarchical Organization of Networks
+  authors:
+  - Weihua Zhan
+  - Jihong Guan
+  - Zhongzhi Zhang
+  publisher: International Journal of Information Technology &amp; Decision Making
+  date: '2017-09-01'
+  link: https://doi.org/g8n2f8
+  image: image/papers/10.1142S021962201450028X.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41598-017-15616-x
+  title: Divide-and-conquer Tournament on Social Networks
+  authors:
+  - Jiasheng Wang
+  - Yichao Zhang
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: Scientific Reports
+  date: '2017-11-14'
+  link: https://doi.org/gcmbqq
+  image: image/papers/10.1038s41598-017-15616-x.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TCBB.2016.2570211
+  title: Effectively Identifying Compound-Protein Interactions by Learning from Positive
+    and Unlabeled Examples
+  authors:
+  - Zhanzhan Cheng
+  - Shuigeng Zhou
+  - Yang Wang
+  - Hui Liu
+  - Jihong Guan
+  - Yi-Ping Phoebe Chen
+  publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
+  date: '2018-11-01'
+  link: https://doi.org/g8n2f9
+  image: image/papers/10.1109TCBB.2016.2570211.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.neucom.2015.11.108
+  title: Histone modification patterns in highly differentiation cells
+  authors:
+  - Qiuyang Wu
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: Neurocomputing
+  date: '2016-09-01'
+  link: https://doi.org/f82d5s
+  image: image/papers/10.1016j.neucom.2015.11.108.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.neucom.2015.11.107
+  title: An integrative analysis of nucleosome occupancy and positioning using diverse
+    sequence dependent properties
+  authors:
+  - Yun Lu
+  - Yanglan Gan
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: Neurocomputing
+  date: '2016-09-01'
+  link: https://doi.org/f82dj9
+  image: image/papers/10.1016j.neucom.2015.11.107.jpg
+  plugin: sources.py
+  file: sources.yaml
