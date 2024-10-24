@@ -385,7 +385,7 @@
 
 # Supporting Cost-Efficient Multi-tenant Database Services with Service Level Objectives (SLOs).
 - id: doi:10.1007/978-3-319-55753-3_37
-  image: images/papers/10.1007/978-3-319-55753-3_37.webp
+  image: images/papers/10.1007978-3-319-55753-3_37.webp
 
 # Gaussian Weighting Reversion Strategy for Accurate On-line Portfolio Selection. 
 - id: doi:10.1109/TSP.2019.2941067
@@ -393,7 +393,7 @@
 
 # A Graph Matching Based Method for Dynamic Passenger-Centered Ridesharing.
 - id: doi:10.1007/978-3-319-64468-4_4
-  image: images/papers/10.1007978-3-319-64468-4_4
+  image: images/papers/10.1007978-3-319-64468-4_4.png
 
 # CPredictor3.0: Effectively detecting protein complexes from PPI networks with expression data and functional annotations
 - id: doi:10.1186/s12918-017-0504-3

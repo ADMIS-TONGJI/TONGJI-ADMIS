@@ -1551,7 +1551,7 @@
   publisher: Lecture Notes in Computer Science
   date: '2017-01-01'
   link: https://doi.org/g4hjqf
-  image: images/papers/10.1007/978-3-319-55753-3_37.webp
+  image: images/papers/10.1007978-3-319-55753-3_37.webp
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TSP.2019.2941067
@@ -1575,7 +1575,7 @@
   publisher: Lecture Notes in Computer Science
   date: '2017-01-01'
   link: https://doi.org/g8n2jk
-  image: images/papers/10.1007978-3-319-64468-4_4
+  image: images/papers/10.1007978-3-319-64468-4_4.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s12918-017-0504-3
