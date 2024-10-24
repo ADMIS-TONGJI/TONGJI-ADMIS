@@ -177,172 +177,404 @@
   image: images/papers/10.1186s12859-021-04033-7.jpg
 
 - id: doi:10.1186/s12859-021-04369-0
-  image: image/papers/10.1186s12859-021-04369-0.jpg
+  image: images/papers/10.1186s12859-021-04369-0.jpg
 
 - id: doi:10.1016/j.is.2020.101648
-  image: image/papers/10.1016j.is.2020.101648.jpg
+  image: images/papers/10.1016j.is.2020.101648.jpg
 
 - id: doi:10.1016/j.ins.2021.06.004
-  image: image/papers/10.1016j.ins.2021.06.004.jpg
+  image: images/papers/10.1016j.ins.2021.06.004.jpg
 
 - id: doi:10.1109/TSMC.2019.2947516
-  image: image/papers/10.1109TSMC.2019.2947516.jpg
+  image: images/papers/10.1109TSMC.2019.2947516.jpg
 
 - id: doi:10.1007/s00778-021-00706-0
-  image: image/papers/10.1007s00778-021-00706-0.jpg
+  image: images/papers/10.1007s00778-021-00706-0.jpg
 
 - id: doi:10.1109/tcbb.2021.3128576
-  image: image/papers/10.1109tcbb.2021.3128576.jpg
+  image: images/papers/10.1109tcbb.2021.3128576.jpg
 
 - id: doi:10.2174/1574893615999200618152109
-  image: image/papers/10.21741574893615999200618152109.jpg
+  image: images/papers/10.21741574893615999200618152109.jpg
 
 - id: doi:10.1109/JSTARS.2021.3128577
-  image: image/papers/10.1109JSTARS.2021.3128577.jpg
+  image: images/papers/10.1109JSTARS.2021.3128577.jpg
 
 - id: doi:10.1109/tcbb.2021.3061720
-  image: image/papers/10.1109tcbb.2021.3061720.jpg
+  image: images/papers/10.1109tcbb.2021.3061720.jpg
 
 - id: doi:10.1007/s13369-021-05786-2
-  image: image/papers/10.1007s13369-021-05786-2.jpg
+  image: images/papers/10.1007s13369-021-05786-2.jpg
 
 - id: doi:10.3389/fgene.2021.758131
-  image: image/papers/10.3389fgene.2021.758131.jpg
+  image: images/papers/10.3389fgene.2021.758131.jpg
 
 - id: doi:10.1609/aaai.v35i7.16810
-  image: image/papers/10.1609aaai.v35i7.16810.png
+  image: images/papers/10.1609aaai.v35i7.16810.png
 
 - id: doi:10.1007/978-3-030-85899-5_2
-  image: image/papers/10.1007978-3-030-85899-5_2.png
+  image: images/papers/10.1007978-3-030-85899-5_2.png
 
 - id: doi:10.1109/IJCNN52387.2021.9534400
-  image: image/papers/10.1109IJCNN52387.2021.9534400.png
+  image: images/papers/10.1109IJCNN52387.2021.9534400.png
 
 - id: doi:10.1109/CVPR46437.2021.01419
-  image: image/papers/10.1109CVPR46437.2021.01419.png
+  image: images/papers/10.1109CVPR46437.2021.01419.png
 
 - id: doi:10.1186/s12859-020-03675-3
-  image: image/papers/10.1186s12859-020-03675-3.png
+  image: images/papers/10.1186s12859-020-03675-3.png
 
 - id: doi:10.1109/TCBB.2019.2897769
-  image: image/papers/10.1109TCBB.2019.2897769.png
+  image: images/papers/10.1109TCBB.2019.2897769.png
 
 - id: doi:10.1109/ACCESS.2020.3022718
-  image: image/papers/10.1109ACCESS.2020.3022718.png
+  image: images/papers/10.1109ACCESS.2020.3022718.png
 
 - id: doi:10.1016/j.physa.2020.124897
-  image: image/papers/10.1016j.physa.2020.124897.png
+  image: images/papers/10.1016j.physa.2020.124897.png
 
 - id: doi:10.1109/TCYB.2020.3010004
-  image: image/papers/10.1109TCYB.2020.3010004.png
+  image: images/papers/10.1109TCYB.2020.3010004.png
 
 - id: doi:10.1016/j.ymeth.2020.05.013
-  image: image/papers/10.1016j.ymeth.2020.05.013.png
+  image: images/papers/10.1016j.ymeth.2020.05.013.png
 
 - id: doi:10.1142/S0219720020400107
-  image: image/papers/10.1142S0219720020400107.jpg
+  image: images/papers/10.1142S0219720020400107.jpg
 
 - id: doi:10.1142/S0219720020400053
-  image: image/papers/10.1142S0219720020400053.jpg
+  image: images/papers/10.1142S0219720020400053.jpg
 
 - id: doi:10.1186/s12859-021-04033-7
-  image: image/papers/10.1186s12859-021-04033-7.png
+  image: images/papers/10.1186s12859-021-04033-7.png
 
 - id: doi:10.1186/s12864-023-09577-x
-  image: image/papers/10.1186s12864-023-09577-x.png
+  image: images/papers/10.1186s12864-023-09577-x.png
 
 - id: doi:10.1007/978-3-030-59410-7_42
-  image: image/papers/10.1007978-3-030-59410-7_42.png
+  image: images/papers/10.1007978-3-030-59410-7_42.png
 
 - id: doi:10.1609/aaai.v34i04.6063
-  image: image/papers/10.1609aaai.v34i04.6063.png
+  image: images/papers/10.1609aaai.v34i04.6063.png
 
 - id: doi:10.1016/j.ins.2019.06.022
-  image: image/papers/10.1016j.ins.2019.06.022.jpg
+  image: images/papers/10.1016j.ins.2019.06.022.jpg
 
 - id: doi:10.26599/TST.2018.9010099
-  image: image/papers/10.26599TST.2018.9010099.jpg
+  image: images/papers/10.26599TST.2018.9010099.jpg
 
 - id: doi:10.1038/s41467-019-09670-4
-  image: image/papers/10.1038s41467-019-09670-4.png
+  image: images/papers/10.1038s41467-019-09670-4.png
 
 - id: doi:10.2174/1574893614666190211161717
-  image: image/papers/10.21741574893614666190211161717.jpg
+  image: images/papers/10.21741574893614666190211161717.jpg
 
 - id: doi:10.1186/s12864-019-5472-0
-  image: image/papers/10.1186s12864-019-5472-0.png
+  image: images/papers/10.1186s12864-019-5472-0.png
 
 - id: doi:10.1109/TCSII.2018.2861621
-  image: image/papers/10.1109TCSII.2018.2861621.png
+  image: images/papers/10.1109TCSII.2018.2861621.png
 
 - id: doi:10.1109/TCBB.2017.2701824
-  image: image/papers/10.1109TCBB.2017.2701824.png
+  image: images/papers/10.1109TCBB.2017.2701824.png
 
 - id: doi:10.1145/3325708
-  image: image/papers/10.11453325708.png
+  image: images/papers/10.11453325708.png
 
 - id: doi:10.1109/TITS.2018.2873092
-  image: image/papers/10.1109TITS.2018.2873092.png
+  image: images/papers/10.1109TITS.2018.2873092.png
 
 - id: doi:10.1109/TSC.2016.2582692
-  image: image/papers/10.1109TSC.2016.2582692.png
+  image: images/papers/10.1109TSC.2016.2582692.png
 
 - id: doi:10.2174/1574893613666180726163429
-  image: image/papers/10.21741574893613666180726163429.jpg
+  image: images/papers/10.21741574893613666180726163429.jpg
 
 - id: doi:10.1109/ACCESS.2018.2846550
-  image: image/papers/10.1109ACCESS.2018.2846550.png
+  image: images/papers/10.1109ACCESS.2018.2846550.png
 
 - id: doi:10.1504/IJDMB.2018.094888
 
 
 - id: doi:10.1038/s41598-018-31254-3
-  image: image/papers/10.1038s41598-018-31254-3.png
+  image: images/papers/10.1038s41598-018-31254-3.png
 
 - id: doi:10.2174/1574893613666180118104250
-  image: image/papers/10.21741574893613666180118104250.jpg
+  image: images/papers/10.21741574893613666180118104250.jpg
 
 - id: doi:10.1016/j.jss.2018.01.034
-  image: image/papers/10.1016j.jss.2018.01.034.jpg
+  image: images/papers/10.1016j.jss.2018.01.034.jpg
 
 - id: doi:10.1016/j.ins.2018.08.010
-  image: image/papers/10.1016j.ins.2018.08.010.jpg
+  image: images/papers/10.1016j.ins.2018.08.010.jpg
 
 - id: doi:10.1109/TKDE.2017.2721408
-  image: image/papers/10.1109TKDE.2017.2721408.png
+  image: images/papers/10.1109TKDE.2017.2721408.png
 
 - id: doi:10.1186/s12859-017-1461-y
-  image: image/papers/10.1186s12859-017-1461-y.png
+  image: images/papers/10.1186s12859-017-1461-y.png
 
 - id: doi:10.1186/s12859-017-1828-0
-  image: image/papers/10.1186s12859-017-1828-0.png
+  image: images/papers/10.1186s12859-017-1828-0.png
 
 - id: doi:10.1186/s12859-017-1820-8
-  image: image/papers/10.1186s12859-017-1820-8.png
+  image: images/papers/10.1186s12859-017-1820-8.png
 
 - id: doi:10.1186/s12859-017-1819-1
-  image: image/papers/10.1186s12859-017-1819-1.png
+  image: images/papers/10.1186s12859-017-1819-1.png
 
 - id: doi:10.1186/s12918-017-0390-8
-  image: image/papers/10.1186s12918-017-0390-8.png
+  image: images/papers/10.1186s12918-017-0390-8.png
 
 - id: doi:10.1002/cpe.3791
-  image: image/papers/10.1002cpe.3791.png
+  image: images/papers/10.1002cpe.3791.png
 
 - id: doi:10.1016/j.knosys.2017.01.029
-  image: image/papers/10.1016j.knosys.2017.01.029.jpg
+  image: images/papers/10.1016j.knosys.2017.01.029.jpg
 
 - id: doi:10.1142/S021962201450028X
-  image: image/papers/10.1142S021962201450028X.jpg
+  image: images/papers/10.1142S021962201450028X.jpg
 
 - id: doi:10.1038/s41598-017-15616-x
-  image: image/papers/10.1038s41598-017-15616-x.png
+  image: images/papers/10.1038s41598-017-15616-x.png
 
 - id: doi:10.1109/TCBB.2016.2570211
-  image: image/papers/10.1109TCBB.2016.2570211.png
+  image: images/papers/10.1109TCBB.2016.2570211.png
 
 - id: doi:10.1016/j.neucom.2015.11.108
-  image: image/papers/10.1016j.neucom.2015.11.108.jpg
+  image: images/papers/10.1016j.neucom.2015.11.108.jpg
 
 - id: doi:10.1016/j.neucom.2015.11.107
-  image: image/papers/10.1016j.neucom.2015.11.107.jpg
+  image: images/papers/10.1016j.neucom.2015.11.107.jpg
+
+# Recursively Learning Causal Structures Using Regression-Based Conditional Independence Test
+- id: doi:10.1609/aaai.v33i01.33013108 
+  image: images/papers/10.1109TAI.2024.3459857.png
+
+# Simple Is Better: A Global Semantic Consistency Based End-to-End Framework for Effective Zero-Shot Learning.
+- id: doi:10.1007/978-3-030-29908-8_8
+  image: images/papers/10.1007978-3-030-29908-8_8.png
+
+# Learning Competitive and Discriminative Reconstructions for Anomaly Detection.
+- id: doi:10.1609/aaai.v33i01.33015167
+  image: images/papers/10.1109TPAMI.2024.3435503.png
+
+# Versatile Multiple Choice Learning and Its Application to Vision Computing. 
+- id: doi:10.1109/CVPR.2019.00651
+  image: images/papers/10.1109CVPR.2019.00651.png
+
+# Measuring Conditional Independence by Independent Residuals: Theoretical Results and Application in Causal Discovery.
+- id: doi:10.1609/aaai.v32i1.11555
+  image: images/papers/10.1609aaai.v32i1.11555.png
+
+# Identification of cancersubtypes from single-cell RNA-seq data using a consensus clustering method.
+- id: doi:10.1186/s12920-018-0433-z
+  image: images/papers/10.1186s12920-018-0433-z.png
+
+# Classifying Early and LateMild Cognitive Impairment Stages of Alzheimer's Disease by Fusing DefaultMode Networks Extracted with Multiple Seeds. 
+- id: doi:10.1186/s12859-018-2528-0
+  image: images/papers/10.1186s12859-018-2528-0.png
+
+# Causal Discovery Using Regression-Based Conditional Independence Tests.
+- id: doi:10.1609/aaai.v31i1.10698
+  image: images/papers/10.1609aaai.v31i1.10698.png
+
+# DeepCluster: A General Clustering Framework based on Deep Learning.
+- id: doi:10.1007/978-3-319-71246-8_49
+  image: images/papers/10.1007978-3-319-71246-8_49.png
+
+# Supporting Cost-Efficient Multi-tenant Database Services with Service Level Objectives (SLOs).
+- id: doi:10.1007/978-3-319-55753-3_37
+  image: images/papers/10.1007/978-3-319-55753-3_37.webp
+
+# Gaussian Weighting Reversion Strategy for Accurate On-line Portfolio Selection. 
+- id: doi:10.1109/TSP.2019.2941067
+  image: images/papers/10.1109TSP.2019.2941067.png
+
+# A Graph Matching Based Method for Dynamic Passenger-Centered Ridesharing.
+- id: doi:10.1007/978-3-319-64468-4_4
+  image: images/papers/10.1007978-3-319-64468-4_4
+
+# CPredictor3.0: Effectively detecting protein complexes from PPI networks with expression data and functional annotations
+- id: doi:10.1186/s12918-017-0504-3
+  image: images/papers/10.1186s12918-017-0504-3.png
+
+# Fusion Analysis of Resting State Networks And Its Application to Alzheimer's Disease
+- id: doi:10.26599/TST.2018.9010099
+  image: images/papers/10.26599TST.2018.9010099.png
+
+# Alignment of Dynamic Protein-Protein Interaction Networks Based on Segment Tree Optimization
+- id: doi:10.1186/s12859-020-3502-1
+  image: images/papers/10.1186s12859-020-3502-1.png
+
+# Retrieving Routes of Interest over Road Networks
+- id: doi:10.1007/978-3-319-39937-9_9
+  image: images/papers/10.1007978-3-319-39937-9_9.png
+
+# Exploiting Twitter Moods to Boost Financial Trend Prediction Based on Deep Network Models.
+- id: doi:10.1007/978-3-319-42297-8_42
+  image: images/papers/10.1007978-3-319-42297-8_42.png
+
+# Boosting Compound-Protein Interaction Prediction by Deep Learning
+- id: doi:10.1109/BIBM.2015.7359651
+  image: images/papers/10.1109BIBM.2015.7359651.png
+
+# Improving compound-protein interaction prediction by building up highly credible negative samples.
+- id: doi:10.1093/bioinformatics/btv256
+  image: images/papers/10.1093bioinformaticsbtv256.png
+
+# Boosting Financial Trend Prediction with Twitter Mood Based on Selective Hidden Markov Models.
+- id: doi:10.1007/978-3-319-18123-3_26
+  image: images/papers/10.1007978-3-319-18123-3_26.png
+
+# A distributed inverse distance weighted interpolation algorithm based on the cloud computing platform of Hadoop and its implementation.
+- id: doi:10.1109/FSKD.2015.7382331
+  image: images/papers/10.1109FSKD.2015.7382331.png
+
+# IKLTSA: An Incremental Kernel LTSA Method.
+- id: doi:10.1007/978-3-319-21024-7_5
+  image: images/papers/10.1007978-3-319-21024-7_5.png
+
+# GR-tree: An efficient index structure for GML.
+- id: doi:10.1109/GEOINFORMATICS.2014.6950837
+  image: images/papers/10.1109GEOINFORMATICS.2014.6950837.png
+
+# Calculating the Crossing Probability on the Square Tessellation of a Connection Game with Random Move Order: The Algorithm and Its Complexity.
+- id: doi:10.1007/978-3-319-08016-1_26
+  image: images/papers/10.1007978-3-319-08016-1_26.png
+
+# Similarity Analysis of DNA Sequences Based on Frequent Patterns and Entropy.
+- id: doi:10.1186/1471-2164-16-S3-S5
+  image: images/papers/10.11861471-2164-16-S3-S5.png
+
+# Exploiting Topic Modeling to Boost Metagenomic Sequences Binning.
+- id: doi:10.1186/1471-2105-16-S5-S2
+  image: images/papers/10.11861471-2105-16-S5-S2.webp
+
+# Distributed Spatial Keyword Querying on Road Networks.
+- id: doi:10.5441/002/edbt.2014.23
+  image: images/papers/10.5441002edbt.2014.23.png
+
+# Efficiently Evaluating Range-Constrained Spatial Keyword Query on Road Networks.
+- id: doi:10.1007/978-3-662-43984-5_21
+  image: images/papers/10.1007978-3-662-43984-5_21.webp
+
+# Revisiting Topological Properties and Models of Protein-Protein Interaction Networks from the Perspective of Dataset Evolution.
+- id: doi:10.1049/iet-syb.2014.0053
+  image: images/papers/10.1049iet-syb.2014.0053.png
+
+# Boosting Prediction Performance of Protein-Protein Interaction Hot Spots by Using Structural Neighborhood Properties.
+- id: doi:10.1089/cmb.2013.0083
+  image: images/papers/10.1089cmb.2013.0083.jpg
+
+# Active Learning for Protein Function Prediction in Protein-Protein Interaction Networks.
+- id: doi:10.1016/j.neucom.2014.05.075
+  image: images/papers/10.1016j.neucom.2014.05.075.jpg
+
+# DISKs: A System for Distributed Spatial Group Keyword Search on Road Networks.
+- id: doi:10.14778/2367502.2367549
+  image: images/papers/10.147782367502.2367549.png
+
+# A Comparison Study on Protein-protein Interaction Network Models.
+- id: doi:10.1109/BIBM.2012.6392732
+  image: images/papers/10.1109BIBM.2012.6392732.gif
+
+# Effective Clustering of MicroRNA Sequences by N-grams and Feature Weighting
+- id: doi:10.1109/ISB.2012.6314137
+  image: images/papers/10.1109ISB.2012.6314137.gif
+
+# Effectively Predicting Protein Functions by Collective Classification (An Extended Abstract).
+- id: doi:10.1109/BIBMW.2012.6470212
+  image: images/papers/10.1109BIBMW.2012.6470212.gif
+
+# imiRTP: an integrated method to identifying miRNA-target interactions in Arabidopsis thaliana.
+- id: doi:10.1109/BIBM.2011.13
+  image: images/papers/10.1109BIBM.2011.13.gif
+
+# Adapting Skyline Computation to the MapReduce Framework: Algorithms and Experiments.
+- id: doi:10.1007/978-3-642-20244-5_39
+  image: images/papers/10.1007978-3-642-20244-5_39.png
+
+# Towards Efficient Subgraph Search in Cloud Computing Environments.
+- id: doi:10.1007/978-3-642-20244-5_2
+  image: images/papers/10.1007978-3-642-20244-5_2.png
+
+# Empirical probability function derived from dihedral angles for protein structure prediction. 
+- id: doi:10.1109/BIBE.2009.55
+  image: images/papers/10.1109BIBE.2009.55.gif
+
+# GPress: Towards Effective GML Documents Compresssion.
+- id: doi:10.1109/ICDE.2007.369039
+  image: images/papers/10.1109ICDE.2007.369039.gif
+
+# Towards Energy-Efficient Skyline Monitoring in Wireless Sensor Networks.
+- id: doi:10.1007/978-3-540-69830-2_7
+  image: images/papers/10.1007978-3-540-69830-2_7.png
+
+# Constraints-preserving GML Storage in Object-Relational Databases.
+- id: doi:10.1145/1341012.1341074
+  image: images/papers/10.11451341012.1341074.png
+
+# A new taxonomy-based protein fold recognition approach based on auto-cross covariance transformation.
+- id: doi:10.1093/bioinformatics/btp500
+  image: images/papers/10.1093bioinformaticsbtp500.png
+
+# A pattern-based nearest neighbor search approach for promoter prediction using DNA structural profiles.
+- id: doi:10.1093/bioinformatics/btp359
+  image: images/papers/10.1093bioinformaticsbtp359.png
+
+# Different thresholds of bond percolation in scale-free networks with identical degree sequence.
+- id: doi:10.1103/PhysRevE.79.031110
+  image: images/papers/10.1103PhysRevE.79.031110.png
+
+# Exact solution for mean first-passage time on a pseudofractal scale-free web
+- id: doi:10.1103/PhysRevE.79.021127
+  image: images/papers/10.1103PhysRevE.79.021127.png
+
+# Influences of Degree Inhomogeneity on Average Path Length and Random Walks in Disassortative Scale-free Networks
+- id: doi:10.1063/1.3094757
+  image: images/papers/10.10631.3094757.png
+
+# The rigorous solution for the average distance of a Sierpinski network.
+- id: doi:10.1088/1742-5468/2009/02/P02034
+  image: images/papers/10.10881742-5468200902P02034.png
+
+# An Effective GML Documents Compressor
+- id: doi:10.1093/ietisy/e91-d.7.1982
+  image: images/papers/10.1093ietisye91-d.7.1982.png
+
+# Towards Effective Document Clustering: A Constrained K-means Based Approach.
+- id: doi:10.1016/j.ipm.2008.03.001
+  image: images/papers/10.1016j.ipm.2008.03.001.png
+
+# Exact analytical solution of average path length for Apollonian networks.
+- id: doi:10.1103/PhysRevE.77.017102
+  image: images/papers/10.1103PhysRevE.77.017102.png
+
+# Random Sierpinski network with scale-free small world and modular structure.
+- id: doi:10.1140/epjb/e2008-00305-8
+  image: images/papers/10.1140epjbe2008-00305-8.png
+
+# Transition from fractal to non-fractal scalings in growing scale-free networks.
+- id: doi:10.1140/epjb/e2008-00299-1
+  image: images/papers/10.1140epjbe2008-00299-1.png
+
+# Topologies and Laplacian spectra of a deterministic uniform recursive tree.
+- id: doi:10.1140/epjb/e2008-00262-2
+  image: images/papers/10.1140epjbe2008-00262-2.png
+
+# Degree and component size distributions in generalized uniform recursive tree. 
+- id: doi:10.1088/1751-8113/41/18/185101
+  image: images/papers/10.10881751-81134118185101.png
+  
+# Maximal planar scale-free Sierpinski networks with small-world effect and power-law strength-degree correlation. 
+- id: doi:10.1209/0295-5075/79/38007
+  image: images/papers/10.12090295-50757938007.png
+
+# Incompatibility networks as models of scale-free small-world graphs.
+- id: doi:10.1140/epjb/e2007-00344-7
+  image: images/papers/10.1140epjbe2007-00344-7
+
+# Local-world evolving networks with tunable clustering.
+- id: doi:10.1016/j.physa.2007.02.045
+  image: images/papers/10.1016j.physa.2007.02.045.png

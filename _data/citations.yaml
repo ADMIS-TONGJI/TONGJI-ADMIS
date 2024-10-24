@@ -605,7 +605,7 @@
   publisher: BMC Bioinformatics
   date: '2021-06-02'
   link: https://doi.org/gm2h8g
-  image: image/papers/10.1186s12859-021-04033-7.png
+  image: images/papers/10.1186s12859-021-04033-7.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s12859-021-04369-0
@@ -619,7 +619,7 @@
   publisher: BMC Bioinformatics
   date: '2021-10-08'
   link: https://doi.org/g8n2dd
-  image: image/papers/10.1186s12859-021-04369-0.jpg
+  image: images/papers/10.1186s12859-021-04369-0.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.is.2020.101648
@@ -634,7 +634,7 @@
   publisher: Information Systems
   date: '2021-02-01'
   link: https://doi.org/g8n2df
-  image: image/papers/10.1016j.is.2020.101648.jpg
+  image: images/papers/10.1016j.is.2020.101648.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.ins.2021.06.004
@@ -648,7 +648,7 @@
   publisher: Information Sciences
   date: '2021-10-01'
   link: https://doi.org/gkfxmh
-  image: image/papers/10.1016j.ins.2021.06.004.jpg
+  image: images/papers/10.1016j.ins.2021.06.004.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TSMC.2019.2947516
@@ -662,7 +662,7 @@
   publisher: 'IEEE Transactions on Systems, Man, and Cybernetics: Systems'
   date: '2021-09-01'
   link: https://doi.org/g4kc7k
-  image: image/papers/10.1109TSMC.2019.2947516.jpg
+  image: images/papers/10.1109TSMC.2019.2947516.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s00778-021-00706-0
@@ -677,7 +677,7 @@
   publisher: The VLDB Journal
   date: '2021-11-11'
   link: https://doi.org/g8n2dg
-  image: image/papers/10.1007s00778-021-00706-0.jpg
+  image: images/papers/10.1007s00778-021-00706-0.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/tcbb.2021.3128576
@@ -690,7 +690,7 @@
   publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
   date: '2022-11-01'
   link: https://doi.org/g8n2dh
-  image: image/papers/10.1109tcbb.2021.3128576.jpg
+  image: images/papers/10.1109tcbb.2021.3128576.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.2174/1574893615999200618152109
@@ -702,7 +702,7 @@
   publisher: Current Bioinformatics
   date: '2021-02-01'
   link: https://doi.org/g8n2dn
-  image: image/papers/10.21741574893615999200618152109.jpg
+  image: images/papers/10.21741574893615999200618152109.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JSTARS.2021.3128577
@@ -720,7 +720,7 @@
     Sensing
   date: '2021-01-01'
   link: https://doi.org/gqgr7r
-  image: image/papers/10.1109JSTARS.2021.3128577.jpg
+  image: images/papers/10.1109JSTARS.2021.3128577.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/tcbb.2021.3061720
@@ -736,7 +736,7 @@
   publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
   date: '2022-07-01'
   link: https://doi.org/g8nm63
-  image: image/papers/10.1109tcbb.2021.3061720.jpg
+  image: images/papers/10.1109tcbb.2021.3061720.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s13369-021-05786-2
@@ -747,7 +747,7 @@
   publisher: Arabian Journal for Science and Engineering
   date: '2021-06-23'
   link: https://doi.org/g8n2dp
-  image: image/papers/10.1007s13369-021-05786-2.jpg
+  image: images/papers/10.1007s13369-021-05786-2.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3389/fgene.2021.758131
@@ -761,7 +761,7 @@
   publisher: Frontiers in Genetics
   date: '2021-12-14'
   link: https://doi.org/gpv2j8
-  image: image/papers/10.3389fgene.2021.758131.jpg
+  image: images/papers/10.3389fgene.2021.758131.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1609/aaai.v35i7.16810
@@ -775,7 +775,7 @@
   publisher: Proceedings of the AAAI Conference on Artificial Intelligence
   date: '2021-05-18'
   link: https://doi.org/g8n2dq
-  image: image/papers/10.1609aaai.v35i7.16810.png
+  image: images/papers/10.1609aaai.v35i7.16810.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-3-030-85899-5_2
@@ -788,7 +788,7 @@
   publisher: Lecture Notes in Computer Science
   date: '2021-01-01'
   link: https://doi.org/g8n2dr
-  image: image/papers/10.1007978-3-030-85899-5_2.png
+  image: images/papers/10.1007978-3-030-85899-5_2.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/IJCNN52387.2021.9534400
@@ -805,7 +805,7 @@
   publisher: 2021 International Joint Conference on Neural Networks (IJCNN)
   date: '2021-07-18'
   link: https://doi.org/g8n2ds
-  image: image/papers/10.1109IJCNN52387.2021.9534400.png
+  image: images/papers/10.1109IJCNN52387.2021.9534400.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/CVPR46437.2021.01419
@@ -819,7 +819,7 @@
   publisher: 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
   date: '2021-06-01'
   link: https://doi.org/gp6pfv
-  image: image/papers/10.1109CVPR46437.2021.01419.png
+  image: images/papers/10.1109CVPR46437.2021.01419.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s12859-020-03675-3
@@ -832,7 +832,7 @@
   publisher: BMC Bioinformatics
   date: '2020-09-01'
   link: https://doi.org/g8n2dt
-  image: image/papers/10.1186s12859-020-03675-3.png
+  image: images/papers/10.1186s12859-020-03675-3.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TCBB.2019.2897769
@@ -846,7 +846,7 @@
   publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
   date: '2020-05-01'
   link: https://doi.org/gndrsp
-  image: image/papers/10.1109TCBB.2019.2897769.png
+  image: images/papers/10.1109TCBB.2019.2897769.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ACCESS.2020.3022718
@@ -859,7 +859,7 @@
   publisher: IEEE Access
   date: '2020-01-01'
   link: https://doi.org/ghch7j
-  image: image/papers/10.1109ACCESS.2020.3022718.png
+  image: images/papers/10.1109ACCESS.2020.3022718.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.physa.2020.124897
@@ -874,7 +874,7 @@
   publisher: 'Physica A: Statistical Mechanics and its Applications'
   date: '2020-11-01'
   link: https://doi.org/g8n2dv
-  image: image/papers/10.1016j.physa.2020.124897.png
+  image: images/papers/10.1016j.physa.2020.124897.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TCYB.2020.3010004
@@ -890,7 +890,7 @@
   publisher: IEEE Transactions on Cybernetics
   date: '2022-05-01'
   link: https://doi.org/g44x3h
-  image: image/papers/10.1109TCYB.2020.3010004.png
+  image: images/papers/10.1109TCYB.2020.3010004.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.ymeth.2020.05.013
@@ -905,7 +905,7 @@
   publisher: Methods
   date: '2020-07-01'
   link: https://doi.org/gk4bxd
-  image: image/papers/10.1016j.ymeth.2020.05.013.png
+  image: images/papers/10.1016j.ymeth.2020.05.013.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1142/S0219720020400107
@@ -918,7 +918,7 @@
   publisher: Journal of Bioinformatics and Computational Biology
   date: '2020-06-01'
   link: https://doi.org/gndrkc
-  image: image/papers/10.1142S0219720020400107.jpg
+  image: images/papers/10.1142S0219720020400107.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1142/S0219720020400053
@@ -931,7 +931,7 @@
   publisher: Journal of Bioinformatics and Computational Biology
   date: '2020-08-01'
   link: https://doi.org/gr87bk
-  image: image/papers/10.1142S0219720020400053.jpg
+  image: images/papers/10.1142S0219720020400053.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s12864-023-09577-x
@@ -945,7 +945,7 @@
   publisher: BMC Genomics
   date: '2023-11-09'
   link: https://doi.org/g8n2dx
-  image: image/papers/10.1186s12864-023-09577-x.png
+  image: images/papers/10.1186s12864-023-09577-x.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-3-030-59410-7_42
@@ -959,7 +959,7 @@
   publisher: Lecture Notes in Computer Science
   date: '2020-01-01'
   link: https://doi.org/g8n2d8
-  image: image/papers/10.1007978-3-030-59410-7_42.png
+  image: images/papers/10.1007978-3-030-59410-7_42.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1609/aaai.v34i04.6063
@@ -973,7 +973,7 @@
   publisher: Proceedings of the AAAI Conference on Artificial Intelligence
   date: '2020-04-03'
   link: https://doi.org/g8n2fg
-  image: image/papers/10.1609aaai.v34i04.6063.png
+  image: images/papers/10.1609aaai.v34i04.6063.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.ins.2019.06.022
@@ -987,7 +987,7 @@
   publisher: Information Sciences
   date: '2019-10-01'
   link: https://doi.org/g8n2fh
-  image: image/papers/10.1016j.ins.2019.06.022.jpg
+  image: images/papers/10.1016j.ins.2019.06.022.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.26599/TST.2018.9010099
@@ -1000,7 +1000,7 @@
   publisher: Tsinghua Science and Technology
   date: '2019-08-01'
   link: https://doi.org/g8n2fj
-  image: image/papers/10.26599TST.2018.9010099.jpg
+  image: images/papers/10.26599TST.2018.9010099.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41467-019-09670-4
@@ -1025,7 +1025,7 @@
   publisher: Nature Communications
   date: '2019-04-23'
   link: https://doi.org/ggbt8j
-  image: image/papers/10.1038s41467-019-09670-4.png
+  image: images/papers/10.1038s41467-019-09670-4.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.2174/1574893614666190211161717
@@ -1039,7 +1039,7 @@
   publisher: Current Bioinformatics
   date: '2019-07-16'
   link: https://doi.org/g8n2fp
-  image: image/papers/10.21741574893614666190211161717.jpg
+  image: images/papers/10.21741574893614666190211161717.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s12864-019-5472-0
@@ -1054,7 +1054,7 @@
   publisher: BMC Genomics
   date: '2019-04-01'
   link: https://doi.org/g8n2fq
-  image: image/papers/10.1186s12864-019-5472-0.png
+  image: images/papers/10.1186s12864-019-5472-0.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TCSII.2018.2861621
@@ -1070,7 +1070,7 @@
   publisher: 'IEEE Transactions on Circuits and Systems II: Express Briefs'
   date: '2019-04-01'
   link: https://doi.org/g8n2fr
-  image: image/papers/10.1109TCSII.2018.2861621.png
+  image: images/papers/10.1109TCSII.2018.2861621.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TCBB.2017.2701824
@@ -1084,7 +1084,7 @@
   publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
   date: '2019-03-01'
   link: https://doi.org/g8n2ft
-  image: image/papers/10.1109TCBB.2017.2701824.png
+  image: images/papers/10.1109TCBB.2017.2701824.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3325708
@@ -1097,7 +1097,7 @@
   publisher: ACM Transactions on Intelligent Systems and Technology
   date: '2019-09-20'
   link: https://doi.org/g8n2fv
-  image: image/papers/10.11453325708.png
+  image: images/papers/10.11453325708.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TITS.2018.2873092
@@ -1113,7 +1113,7 @@
   publisher: IEEE Transactions on Intelligent Transportation Systems
   date: '2019-08-01'
   link: https://doi.org/gjjwzv
-  image: image/papers/10.1109TITS.2018.2873092.png
+  image: images/papers/10.1109TITS.2018.2873092.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TSC.2016.2582692
@@ -1127,7 +1127,7 @@
   publisher: IEEE Transactions on Services Computing
   date: '2018-03-01'
   link: https://doi.org/gdfqz7
-  image: image/papers/10.1109TSC.2016.2582692.png
+  image: images/papers/10.1109TSC.2016.2582692.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.2174/1574893613666180726163429
@@ -1141,7 +1141,7 @@
   publisher: Current Bioinformatics
   date: '2018-11-07'
   link: https://doi.org/g8n2fw
-  image: image/papers/10.21741574893613666180726163429.jpg
+  image: images/papers/10.21741574893613666180726163429.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ACCESS.2018.2846550
@@ -1154,7 +1154,7 @@
   publisher: IEEE Access
   date: '2018-01-01'
   link: https://doi.org/gjjwwv
-  image: image/papers/10.1109ACCESS.2018.2846550.png
+  image: images/papers/10.1109ACCESS.2018.2846550.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1504/IJDMB.2018.094888
@@ -1180,7 +1180,7 @@
   publisher: Scientific Reports
   date: '2018-09-06'
   link: https://doi.org/gd7tns
-  image: image/papers/10.1038s41598-018-31254-3.png
+  image: images/papers/10.1038s41598-018-31254-3.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.2174/1574893613666180118104250
@@ -1197,7 +1197,7 @@
   publisher: Current Bioinformatics
   date: '2018-09-04'
   link: https://doi.org/g8n2fz
-  image: image/papers/10.21741574893613666180118104250.jpg
+  image: images/papers/10.21741574893613666180118104250.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.jss.2018.01.034
@@ -1211,7 +1211,7 @@
   publisher: Journal of Systems and Software
   date: '2018-05-01'
   link: https://doi.org/g8n2f2
-  image: image/papers/10.1016j.jss.2018.01.034.jpg
+  image: images/papers/10.1016j.jss.2018.01.034.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.ins.2018.08.010
@@ -1227,7 +1227,7 @@
   publisher: Information Sciences
   date: '2018-10-01'
   link: https://doi.org/gfd3nr
-  image: image/papers/10.1016j.ins.2018.08.010.jpg
+  image: images/papers/10.1016j.ins.2018.08.010.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TKDE.2017.2721408
@@ -1241,7 +1241,7 @@
   publisher: IEEE Transactions on Knowledge and Data Engineering
   date: '2017-10-01'
   link: https://doi.org/gbzdcj
-  image: image/papers/10.1109TKDE.2017.2721408.png
+  image: images/papers/10.1109TKDE.2017.2721408.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s12859-017-1461-y
@@ -1255,7 +1255,7 @@
   publisher: BMC Bioinformatics
   date: '2017-02-11'
   link: https://doi.org/g8fj7n
-  image: image/papers/10.1186s12859-017-1461-y.png
+  image: images/papers/10.1186s12859-017-1461-y.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s12859-017-1828-0
@@ -1269,7 +1269,7 @@
   publisher: BMC Bioinformatics
   date: '2017-10-01'
   link: https://doi.org/g8n2f4
-  image: image/papers/10.1186s12859-017-1828-0.png
+  image: images/papers/10.1186s12859-017-1828-0.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s12859-017-1820-8
@@ -1285,7 +1285,7 @@
   publisher: BMC Bioinformatics
   date: '2017-10-01'
   link: https://doi.org/g8n2f5
-  image: image/papers/10.1186s12859-017-1820-8.png
+  image: images/papers/10.1186s12859-017-1820-8.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s12859-017-1819-1
@@ -1302,7 +1302,7 @@
   publisher: BMC Bioinformatics
   date: '2017-10-01'
   link: https://doi.org/g8n2f6
-  image: image/papers/10.1186s12859-017-1819-1.png
+  image: images/papers/10.1186s12859-017-1819-1.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s12918-017-0390-8
@@ -1318,7 +1318,7 @@
   publisher: BMC Systems Biology
   date: '2017-03-01'
   link: https://doi.org/g8n2f7
-  image: image/papers/10.1186s12918-017-0390-8.png
+  image: images/papers/10.1186s12918-017-0390-8.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/cpe.3791
@@ -1333,7 +1333,7 @@
   publisher: 'Concurrency and Computation: Practice and Experience'
   date: '2016-02-24'
   link: https://doi.org/grfqxf
-  image: image/papers/10.1002cpe.3791.png
+  image: images/papers/10.1002cpe.3791.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.knosys.2017.01.029
@@ -1346,7 +1346,7 @@
   publisher: Knowledge-Based Systems
   date: '2017-04-01'
   link: https://doi.org/f92fg8
-  image: image/papers/10.1016j.knosys.2017.01.029.jpg
+  image: images/papers/10.1016j.knosys.2017.01.029.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1142/S021962201450028X
@@ -1358,7 +1358,7 @@
   publisher: International Journal of Information Technology &amp; Decision Making
   date: '2017-09-01'
   link: https://doi.org/g8n2f8
-  image: image/papers/10.1142S021962201450028X.jpg
+  image: images/papers/10.1142S021962201450028X.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41598-017-15616-x
@@ -1371,7 +1371,7 @@
   publisher: Scientific Reports
   date: '2017-11-14'
   link: https://doi.org/gcmbqq
-  image: image/papers/10.1038s41598-017-15616-x.png
+  image: images/papers/10.1038s41598-017-15616-x.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TCBB.2016.2570211
@@ -1387,7 +1387,7 @@
   publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
   date: '2018-11-01'
   link: https://doi.org/g8n2f9
-  image: image/papers/10.1109TCBB.2016.2570211.png
+  image: images/papers/10.1109TCBB.2016.2570211.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.neucom.2015.11.108
@@ -1399,7 +1399,7 @@
   publisher: Neurocomputing
   date: '2016-09-01'
   link: https://doi.org/f82d5s
-  image: image/papers/10.1016j.neucom.2015.11.108.jpg
+  image: images/papers/10.1016j.neucom.2015.11.108.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.neucom.2015.11.107
@@ -1413,6 +1413,782 @@
   publisher: Neurocomputing
   date: '2016-09-01'
   link: https://doi.org/f82dj9
-  image: image/papers/10.1016j.neucom.2015.11.107.jpg
+  image: images/papers/10.1016j.neucom.2015.11.107.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1609/aaai.v33i01.33013108
+  title: Recursively Learning Causal Structures Using Regression-Based Conditional
+    Independence Test
+  authors:
+  - Hao Zhang
+  - Shuigeng Zhou
+  - Chuanxu Yan
+  - Jihong Guan
+  - Xin Wang
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+  date: '2019-07-17'
+  link: https://doi.org/ghkjnx
+  image: images/papers/10.1109TAI.2024.3459857.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-030-29908-8_8
+  title: 'Simple Is Better: A Global Semantic Consistency Based End-to-End Framework
+    for Effective Zero-Shot Learning'
+  authors:
+  - Fan Wu
+  - Shuigeng Zhou
+  - Kang Wang
+  - Yi Xu
+  - Jihong Guan
+  - Jun Huan
+  publisher: Lecture Notes in Computer Science
+  date: '2019-01-01'
+  link: https://doi.org/g8n2h9
+  image: images/papers/10.1007978-3-030-29908-8_8.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1609/aaai.v33i01.33015167
+  title: Learning Competitive and Discriminative Reconstructions for Anomaly Detection
+  authors:
+  - Kai Tian
+  - Shuigeng Zhou
+  - Jianping Fan
+  - Jihong Guan
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+  date: '2019-07-17'
+  link: https://doi.org/ghkjxw
+  image: images/papers/10.1109TPAMI.2024.3435503.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/CVPR.2019.00651
+  title: Versatile Multiple Choice Learning and Its Application to Vision Computing
+  authors:
+  - Kai Tian
+  - Yi Xu
+  - Shuigeng Zhou
+  - Jihong Guan
+  publisher: 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+  date: '2019-06-01'
+  link: https://doi.org/g8n2jb
+  image: images/papers/10.1109CVPR.2019.00651.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1609/aaai.v32i1.11555
+  title: 'Measuring Conditional Independence by Independent Residuals: Theoretical
+    Results and Application in Causal Discovery'
+  authors:
+  - Hao Zhang
+  - Shuigeng Zhou
+  - Jihong Guan
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+  date: '2018-04-25'
+  link: https://doi.org/g8n2jc
+  image: images/papers/10.1609aaai.v32i1.11555.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s12920-018-0433-z
+  title: Identification of cancer subtypes from single-cell RNA-seq data using a consensus
+    clustering method
+  authors:
+  - Yanglan Gan
+  - Ning Li
+  - Guobing Zou
+  - Yongchang Xin
+  - Jihong Guan
+  publisher: BMC Medical Genomics
+  date: '2018-12-01'
+  link: https://doi.org/g8n2jd
+  image: images/papers/10.1186s12920-018-0433-z.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s12859-018-2528-0
+  title: "Classifying early and late mild cognitive impairment stages of Alzheimer\u2019\
+    s disease by fusing default mode networks extracted with multiple seeds"
+  authors:
+  - Shengbing Pei
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: BMC Bioinformatics
+  date: '2018-12-01'
+  link: https://doi.org/g8n2jf
+  image: images/papers/10.1186s12859-018-2528-0.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1609/aaai.v31i1.10698
+  title: Causal Discovery Using Regression-Based Conditional Independence Tests
+  authors:
+  - Hao Zhang
+  - Shuigeng Zhou
+  - Kun Zhang
+  - Jihong Guan
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+  date: '2017-02-12'
+  link: https://doi.org/g8n2jg
+  image: images/papers/10.1609aaai.v31i1.10698.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-319-71246-8_49
+  title: 'DeepCluster: A General Clustering Framework Based on Deep Learning'
+  authors:
+  - Kai Tian
+  - Shuigeng Zhou
+  - Jihong Guan
+  publisher: Lecture Notes in Computer Science
+  date: '2017-01-01'
+  link: https://doi.org/g8n2jh
+  image: images/papers/10.1007978-3-319-71246-8_49.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-319-55753-3_37
+  title: Supporting Cost-Efficient Multi-tenant Database Services with Service Level
+    Objectives (SLOs)
+  authors:
+  - Yifeng Luo
+  - Junshi Guo
+  - Jiaye Zhu
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: Lecture Notes in Computer Science
+  date: '2017-01-01'
+  link: https://doi.org/g4hjqf
+  image: images/papers/10.1007/978-3-319-55753-3_37.webp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TSP.2019.2941067
+  title: Gaussian Weighting Reversion Strategy for Accurate Online Portfolio Selection
+  authors:
+  - Xia Cai
+  - Zekun Ye
+  publisher: IEEE Transactions on Signal Processing
+  date: '2019-11-01'
+  link: https://doi.org/g8n2jj
+  image: images/papers/10.1109TSP.2019.2941067.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-319-64468-4_4
+  title: A Graph Matching Based Method for Dynamic Passenger-Centered Ridesharing
+  authors:
+  - Jia Shi
+  - Yifeng Luo
+  - Shuigeng Zhou
+  - Jihong Guan
+  publisher: Lecture Notes in Computer Science
+  date: '2017-01-01'
+  link: https://doi.org/g8n2jk
+  image: images/papers/10.1007978-3-319-64468-4_4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s12918-017-0504-3
+  title: 'CPredictor3.0: detecting protein complexes from PPI networks with expression
+    data and functional annotations'
+  authors:
+  - Ying Xu
+  - Jiaogen Zhou
+  - Shuigeng Zhou
+  - Jihong Guan
+  publisher: BMC Systems Biology
+  date: '2017-12-01'
+  link: https://doi.org/g8n2jm
+  image: images/papers/10.1186s12918-017-0504-3.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s12859-020-3502-1
+  title: 'AligNet: alignment of protein-protein interaction networks'
+  authors:
+  - "Adri\xE0 Alcal\xE1"
+  - Ricardo Alberich
+  - "Merc\xE8 Llabr\xE9s"
+  - "Francesc Rossell\xF3"
+  - Gabriel Valiente
+  publisher: BMC Bioinformatics
+  date: '2020-11-01'
+  link: https://doi.org/g8n2jn
+  image: images/papers/10.1186s12859-020-3502-1.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-319-39937-9_9
+  title: Retrieving Routes of Interest Over Road Networks
+  authors:
+  - Wengen Li
+  - Jiannong Cao
+  - Jihong Guan
+  - Man Lung Yiu
+  - Shuigeng Zhou
+  publisher: Lecture Notes in Computer Science
+  date: '2016-01-01'
+  link: https://doi.org/g8n2jq
+  image: images/papers/10.1007978-3-319-39937-9_9.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-319-42297-8_42
+  title: Exploiting Twitter Moods to Boost Financial Trend Prediction Based on Deep
+    Network Models
+  authors:
+  - Yifu Huang
+  - Kai Huang
+  - Yang Wang
+  - Hao Zhang
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: Lecture Notes in Computer Science
+  date: '2016-01-01'
+  link: https://doi.org/g8n2jr
+  image: images/papers/10.1007978-3-319-42297-8_42.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/BIBM.2015.7359651
+  title: Boosting compound-protein interaction prediction by deep learning
+  authors:
+  - ' Kai Tian'
+  - ' Mingyu Shao'
+  - ' Shuigeng Zhou'
+  - ' Jihong Guan'
+  publisher: 2015 IEEE International Conference on Bioinformatics and Biomedicine
+    (BIBM)
+  date: '2015-11-01'
+  link: https://doi.org/g8n2jt
+  image: images/papers/10.1109BIBM.2015.7359651.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/bioinformatics/btv256
+  title: "Improving compound\u2013protein interaction prediction by building up highly\
+    \ credible negative samples"
+  authors:
+  - Hui Liu
+  - Jianjiang Sun
+  - Jihong Guan
+  - Jie Zheng
+  - Shuigeng Zhou
+  publisher: Bioinformatics
+  date: '2015-06-10'
+  link: https://doi.org/g8n2jw
+  image: images/papers/10.1093bioinformaticsbtv256.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-319-18123-3_26
+  title: Boosting Financial Trend Prediction with Twitter Mood Based on Selective
+    Hidden Markov Models
+  authors:
+  - Yifu Huang
+  - Shuigeng Zhou
+  - Kai Huang
+  - Jihong Guan
+  publisher: Lecture Notes in Computer Science
+  date: '2015-01-01'
+  link: https://doi.org/g8n2jz
+  image: images/papers/10.1007978-3-319-18123-3_26.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/FSKD.2015.7382331
+  title: A distributed inverse distance weighted interpolation algorithm based on
+    the cloud computing platform of Hadoop and its implementation
+  authors:
+  - ' Zhong Xu'
+  - Jihong Guan
+  - Jiaogen Zhou
+  publisher: 2015 12th International Conference on Fuzzy Systems and Knowledge Discovery
+    (FSKD)
+  date: '2015-08-01'
+  link: https://doi.org/g75nbv
+  image: images/papers/10.1109FSKD.2015.7382331.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-319-21024-7_5
+  title: 'IKLTSA: An Incremental Kernel LTSA Method'
+  authors:
+  - Chao Tan
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: Lecture Notes in Computer Science
+  date: '2015-01-01'
+  link: https://doi.org/g8n2j2
+  image: images/papers/10.1007978-3-319-21024-7_5.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/GEOINFORMATICS.2014.6950837
+  title: 'GR-tree: An efficient index structure for GML'
+  authors:
+  - Weili Wang
+  - Jihong Guan
+  - Wengen Li
+  - Long Zhang
+  publisher: 2014 22nd International Conference on Geoinformatics
+  date: '2014-06-01'
+  link: https://doi.org/g8n2j3
+  image: images/papers/10.1109GEOINFORMATICS.2014.6950837.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-319-08016-1_26
+  title: 'Calculating the Crossing Probability on the Square Tessellation of a Connection
+    Game with Random Move Order: The Algorithm and Its Complexity'
+  authors:
+  - Yi Yang
+  - Shuigeng Zhou
+  - Jihong Guan
+  publisher: Lecture Notes in Computer Science
+  date: '2014-01-01'
+  link: https://doi.org/g8n2j4
+  image: images/papers/10.1007978-3-319-08016-1_26.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/1471-2164-16-S3-S5
+  title: Similarity evaluation of DNA sequences based on frequent patterns and entropy
+  authors:
+  - Xiaojing Xie
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: BMC Genomics
+  date: '2015-01-29'
+  link: https://doi.org/gb3hv8
+  image: images/papers/10.11861471-2164-16-S3-S5.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/1471-2105-16-S5-S2
+  title: Exploiting topic modeling to boost metagenomic reads binning
+  authors:
+  - Ruichang Zhang
+  - Zhanzhan Cheng
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: BMC Bioinformatics
+  date: '2015-03-18'
+  link: https://doi.org/gb8w7m
+  image: images/papers/10.11861471-2105-16-S5-S2.webp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.5441/002/edbt.2014.23
+  title: Distributed Spatial Keyword Querying on Road Networks
+  authors:
+  - Siqiang Luo
+  - Yifeng Luo
+  - Shuigeng Zhou
+  - Gao Cong
+  - Jihong Guan
+  publisher: OpenProceedings.org
+  date: '2014-01-01'
+  link: https://doi.org/g8n2j6
+  image: images/papers/10.5441002edbt.2014.23.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-662-43984-5_21
+  title: Efficiently Evaluating Range-Constrained Spatial Keyword Query on Road Networks
+  authors:
+  - Wengen Li
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: Lecture Notes in Computer Science
+  date: '2014-01-01'
+  link: https://doi.org/g8n2j8
+  image: images/papers/10.1007978-3-662-43984-5_21.webp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1049/iet-syb.2014.0053
+  title: "Revisiting topological properties and models of protein\u2013protein interaction\
+    \ networks from the perspective of dataset evolution"
+  authors:
+  - Mingyu Shao
+  - Shuigeng Zhou
+  - Jihong Guan
+  publisher: IET Systems Biology
+  date: '2015-08-01'
+  link: https://doi.org/f7zqb7
+  image: images/papers/10.1049iet-syb.2014.0053.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1089/cmb.2013.0083
+  title: "Boosting Prediction Performance of Protein\u2013Protein Interaction Hot\
+    \ Spots by Using Structural Neighborhood Properties"
+  authors:
+  - Lei Deng
+  - Jihong Guan
+  - Xiaoming Wei
+  - Yuan Yi
+  - Qiangfeng Cliff Zhang
+  - Shuigeng Zhou
+  publisher: Journal of Computational Biology
+  date: '2013-11-01'
+  link: https://doi.org/f5ftsp
+  image: images/papers/10.1089cmb.2013.0083.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.neucom.2014.05.075
+  title: "Active learning for protein function prediction in protein\u2013protein\
+    \ interaction networks"
+  authors:
+  - Wei Xiong
+  - Luyu Xie
+  - Shuigeng Zhou
+  - Jihong Guan
+  publisher: Neurocomputing
+  date: '2014-12-01'
+  link: https://doi.org/g8n2kc
+  image: images/papers/10.1016j.neucom.2014.05.075.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.14778/2367502.2367549
+  title: DISKs
+  authors:
+  - Siqiang Luo
+  - Yifeng Luo
+  - Shuigeng Zhou
+  - Gao Cong
+  - Jihong Guan
+  publisher: Proceedings of the VLDB Endowment
+  date: '2012-08-01'
+  link: https://doi.org/g8n2kq
+  image: images/papers/10.147782367502.2367549.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/BIBM.2012.6392732
+  title: A comparison study on protein-protein interaction network models
+  authors:
+  - Mingyu Shao
+  - Yi Yang
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: 2012 IEEE International Conference on Bioinformatics and Biomedicine
+  date: '2012-10-01'
+  link: https://doi.org/g8n2kr
+  image: images/papers/10.1109BIBM.2012.6392732.gif
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ISB.2012.6314137
+  title: Effective clustering of microRNA sequences by N-grams and feature weighting
+  authors:
+  - Yuan Yi
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: 2012 IEEE 6th International Conference on Systems Biology (ISB)
+  date: '2012-08-01'
+  link: https://doi.org/g8n2ks
+  image: images/papers/10.1109ISB.2012.6314137.gif
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/BIBMW.2012.6470212
+  title: Effectively predicting protein functions by collective classification &amp;#x2014;
+    An extended abstract
+  authors:
+  - Wei Xiong
+  - Hui Liu
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: 2012 IEEE International Conference on Bioinformatics and Biomedicine
+    Workshops
+  date: '2012-10-01'
+  link: https://doi.org/g8n2kt
+  image: images/papers/10.1109BIBMW.2012.6470212.gif
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/BIBM.2011.13
+  title: 'imiRTP: An Integrated Method to Identifying miRNA-target Interactions in
+    Arabidopsis thaliana'
+  authors:
+  - Jiandong Ding
+  - Shusi Yu
+  - Uwe Ohler
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: 2011 IEEE International Conference on Bioinformatics and Biomedicine
+  date: '2011-11-01'
+  link: https://doi.org/fzmqbz
+  image: images/papers/10.1109BIBM.2011.13.gif
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-642-20244-5_39
+  title: 'Adapting Skyline Computation to the MapReduce Framework: Algorithms and
+    Experiments'
+  authors:
+  - Boliang Zhang
+  - Shuigeng Zhou
+  - Jihong Guan
+  publisher: Lecture Notes in Computer Science
+  date: '2011-01-01'
+  link: https://doi.org/d5g4vb
+  image: images/papers/10.1007978-3-642-20244-5_39.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-642-20244-5_2
+  title: Towards Efficient Subgraph Search in Cloud Computing Environments
+  authors:
+  - Yifeng Luo
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: Lecture Notes in Computer Science
+  date: '2011-01-01'
+  link: https://doi.org/c544jc
+  image: images/papers/10.1007978-3-642-20244-5_2.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/BIBE.2009.55
+  title: Empirical Probability Functions Derived from Dihedral Angles for Protein
+    Structure Prediction
+  authors:
+  - Qiwen Dong
+  - Xin Geng
+  - Shuigeng Zhou
+  - Jihong Guan
+  publisher: 2009 Ninth IEEE International Conference on Bioinformatics and BioEngineering
+  date: '2009-06-01'
+  link: https://doi.org/b5f7wq
+  image: images/papers/10.1109BIBE.2009.55.gif
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICDE.2007.369039
+  title: 'GPress: Towards Effective GML Documents Compresssion'
+  authors:
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: 2007 IEEE 23rd International Conference on Data Engineering
+  date: '2007-01-01'
+  link: https://doi.org/b9zvbp
+  image: images/papers/10.1109ICDE.2007.369039.gif
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-540-69830-2_7
+  title: Towards Energy-Efficient Skyline Monitoring in Wireless Sensor Networks
+  authors:
+  - Hekang Chen
+  - Shuigeng Zhou
+  - Jihong Guan
+  publisher: Lecture Notes in Computer Science
+  date: ''
+  link: https://doi.org/dkghnn
+  image: images/papers/10.1007978-3-540-69830-2_7.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/1341012.1341074
+  title: Constraints-preserving GML storage in object-relational databases
+  authors:
+  - Fubao Zhu
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: Proceedings of the 15th annual ACM international symposium on Advances
+    in geographic information systems
+  date: '2007-11-07'
+  link: https://doi.org/bx6w24
+  image: images/papers/10.11451341012.1341074.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/bioinformatics/btp500
+  title: A new taxonomy-based protein fold recognition approach based on autocross-covariance
+    transformation
+  authors:
+  - Qiwen Dong
+  - Shuigeng Zhou
+  - Jihong Guan
+  publisher: Bioinformatics
+  date: '2009-08-25'
+  link: https://doi.org/bzxhxq
+  image: images/papers/10.1093bioinformaticsbtp500.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/bioinformatics/btp359
+  title: A pattern-based nearest neighbor search approach for promoter prediction
+    using DNA structural profiles
+  authors:
+  - Yanglan Gan
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: Bioinformatics
+  date: '2009-06-10'
+  link: https://doi.org/bb3r29
+  image: images/papers/10.1093bioinformaticsbtp359.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/PhysRevE.79.031110
+  title: Different thresholds of bond percolation in scale-free networks with identical
+    degree sequence
+  authors:
+  - Zhongzhi Zhang
+  - Shuigeng Zhou
+  - Tao Zou
+  - Lichao Chen
+  - Jihong Guan
+  publisher: Physical Review E
+  date: '2009-03-13'
+  link: https://doi.org/c6g2s3
+  image: images/papers/10.1103PhysRevE.79.031110.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/PhysRevE.79.021127
+  title: Exact solution for mean first-passage time on a pseudofractal scale-free
+    web
+  authors:
+  - Zhongzhi Zhang
+  - Yi Qi
+  - Shuigeng Zhou
+  - Wenlei Xie
+  - Jihong Guan
+  publisher: Physical Review E
+  date: '2009-02-25'
+  link: https://doi.org/bvqcp6
+  image: images/papers/10.1103PhysRevE.79.021127.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1063/1.3094757
+  title: Influences of degree inhomogeneity on average path length and random walks
+    in disassortative scale-free networks
+  authors:
+  - Zhongzhi Zhang
+  - Yichao Zhang
+  - Shuigeng Zhou
+  - Ming Yin
+  - Jihong Guan
+  publisher: Journal of Mathematical Physics
+  date: '2009-03-01'
+  link: https://doi.org/cdc3br
+  image: images/papers/10.10631.3094757.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1088/1742-5468/2009/02/P02034
+  title: The rigorous solution for the average distance of a Sierpinski network
+  authors:
+  - Zhongzhi Zhang
+  - Lichao Chen
+  - Lujun Fang
+  - Shuigeng Zhou
+  - Yichao Zhang
+  - Jihong Guan
+  publisher: 'Journal of Statistical Mechanics: Theory and Experiment'
+  date: '2009-02-12'
+  link: https://doi.org/cdrqd2
+  image: images/papers/10.10881742-5468200902P02034.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/ietisy/e91-d.7.1982
+  title: An Effective GML Documents Compressor
+  authors:
+  - J. GUAN
+  - S. ZHOU
+  - Y. CHEN
+  publisher: IEICE Transactions on Information and Systems
+  date: '2008-07-01'
+  link: https://doi.org/fpjr8h
+  image: images/papers/10.1093ietisye91-d.7.1982.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ipm.2008.03.001
+  title: 'Towards effective document clustering: A constrained K-means based approach'
+  authors:
+  - Guobiao Hu
+  - Shuigeng Zhou
+  - Jihong Guan
+  - Xiaohua Hu
+  publisher: Information Processing &amp; Management
+  date: '2008-07-01'
+  link: https://doi.org/dnfgbq
+  image: images/papers/10.1016j.ipm.2008.03.001.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/PhysRevE.77.017102
+  title: Analytical solution of average path length for Apollonian networks
+  authors:
+  - Zhongzhi Zhang
+  - Lichao Chen
+  - Shuigeng Zhou
+  - Lujun Fang
+  - Jihong Guan
+  - Tao Zou
+  publisher: Physical Review E
+  date: '2008-01-16'
+  link: https://doi.org/fqw52s
+  image: images/papers/10.1103PhysRevE.77.017102.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1140/epjb/e2008-00305-8
+  title: Random Sierpinski network with scale-free small-world and modular structure
+  authors:
+  - Zhongzhi Zhang
+  - Shuigeng Zhou
+  - Zhan Su
+  - Tao Zou
+  - Jihong Guan
+  publisher: The European Physical Journal B
+  date: '2008-08-11'
+  link: https://doi.org/b5kmpt
+  image: images/papers/10.1140epjbe2008-00305-8.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1140/epjb/e2008-00299-1
+  title: Transition from fractal to non-fractal scalings in growing scale-free networks
+  authors:
+  - Zhongzhi Zhang
+  - Shuigeng Zhou
+  - Lichao Chen
+  - Jihong Guan
+  publisher: The European Physical Journal B
+  date: '2008-07-01'
+  link: https://doi.org/bf2jt6
+  image: images/papers/10.1140epjbe2008-00299-1.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1140/epjb/e2008-00262-2
+  title: Topologies and Laplacian spectra of a deterministic uniform recursive tree
+  authors:
+  - Zhongzhi Zhang
+  - Shuigeng Zhou
+  - Yi Qi
+  - Jihong Guan
+  publisher: The European Physical Journal B
+  date: '2008-06-01'
+  link: https://doi.org/fsv47v
+  image: images/papers/10.1140epjbe2008-00262-2.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1088/1751-8113/41/18/185101
+  title: Degree and component size distributions in the generalized uniform recursive
+    tree
+  authors:
+  - Zhongzhi Zhang
+  - Shuigeng Zhou
+  - Shanghong Zhao
+  - Jihong Guan
+  publisher: 'Journal of Physics A: Mathematical and Theoretical'
+  date: '2008-04-18'
+  link: https://doi.org/dhh3t8
+  image: images/papers/10.10881751-81134118185101.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1209/0295-5075/79/38007
+  title: Maximal planar scale-free Sierpinski networks with small-world effect and
+    power law strength-degree correlation
+  authors:
+  - Zhongzhi Zhang
+  - Shuigeng Zhou
+  - Lujun Fang
+  - Jihong Guan
+  - Yichao Zhang
+  publisher: Europhysics Letters (EPL)
+  date: '2007-07-16'
+  link: https://doi.org/cqk2qw
+  image: images/papers/10.12090295-50757938007.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1140/epjb/e2007-00344-7
+  title: Incompatibility networks as models of scale-free small-world graphs
+  authors:
+  - Zhongzhi Zhang
+  - Shuigeng Zhou
+  - Tao Zou
+  - Lichao Chen
+  - Jihong Guan
+  publisher: The European Physical Journal B
+  date: '2007-11-01'
+  link: https://doi.org/cvh2rr
+  image: images/papers/10.1140epjbe2007-00344-7
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.physa.2007.02.045
+  title: Local-world evolving networks with tunable clustering
+  authors:
+  - Zhongzhi Zhang
+  - Lili Rong
+  - Bing Wang
+  - Shuigeng Zhou
+  - Jihong Guan
+  publisher: 'Physica A: Statistical Mechanics and its Applications'
+  date: '2007-07-01'
+  link: https://doi.org/cbpbmm
+  image: images/papers/10.1016j.physa.2007.02.045.png
   plugin: sources.py
   file: sources.yaml
