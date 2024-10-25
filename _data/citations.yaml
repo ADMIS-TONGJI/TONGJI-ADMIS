@@ -2614,6 +2614,19 @@
   image: image/papers/10.1109TCBB.2014.2306825.png
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1038/srep06224
+  title: Local Nash Equilibrium in Social Networks
+  authors:
+  - Yichao Zhang
+  - M. A. Aziz-Alaoui
+  - Cyrille Bertelle
+  - Jihong Guan
+  publisher: Scientific Reports
+  date: '2014-08-29'
+  link: https://doi.org/ggczqz
+  image: image/papers/10.1038srep06224.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1186/1471-2164-15-1148
   title: 'Histone modifications involved in cassette exon inclusions: a quantitative
     and interpretable analysis'
