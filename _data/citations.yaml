@@ -302,7 +302,7 @@
   publisher: IET Computer Vision
   date: '2022-09-14'
   link: https://doi.org/g8nv6h
-  image: images/papers/10.1049cvi2.12137.png
+  image: image/papers/10.1049cvi2.12137.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.neucom.2023.02.027
@@ -583,6 +583,244 @@
   image: images/papers/10.48550arXiv.2308.09540.png
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1093/bib/bbac018
+  title: Deep structural clustering for single-cell RNA-seq data jointly through autoencoder
+    and graph neural network
+  authors:
+  - Yanglan Gan
+  - Xingyu Huang
+  - Guobing Zou
+  - Shuigeng Zhou
+  - Jihong Guan
+  publisher: Briefings in Bioinformatics
+  date: '2022-02-16'
+  link: https://doi.org/gpthn8
+  image: image/papers/10.1093bibbbac018.jpeg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TCBB.2021.3061720
+  title: 'TiC2D: Trajectory Inference From Single-Cell RNA-Seq Data Using Consensus
+    Clustering'
+  authors:
+  - Yanglan Gan
+  - Ning Li
+  - Cheng Guo
+  - Guobing Zou
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
+  date: '2022-07-01'
+  link: https://doi.org/g8nm63
+  image: image/papers/10.1109TCBB.2021.3061720.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TCYB.2020.2995595
+  title: Link Weight Prediction Using Weight Perturbation and Latent Factor
+  authors:
+  - Zhiwei Cao
+  - Yichao Zhang
+  - Jihong Guan
+  - Shuigeng Zhou
+  - Guanrong Chen
+  publisher: IEEE Transactions on Cybernetics
+  date: '2022-03-01'
+  link: https://doi.org/g8n44w
+  image: image/papers/10.1109TCYB.2020.2995595.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/rs14102371
+  title: 'MIMO: A Unified Spatio-Temporal Model for Multi-Scale Sea Surface Temperature
+    Prediction'
+  authors:
+  - Siyun Hou
+  - Wengen Li
+  - Tianying Liu
+  - Shuigeng Zhou
+  - Jihong Guan
+  - Rufu Qin
+  - Zhenfeng Wang
+  publisher: Remote Sensing
+  date: '2022-05-14'
+  link: https://doi.org/gsrqnc
+  image: image/papers/10.3390rs14102371.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00778-021-00706-0
+  title: Privacy and efficiency guaranteed social subgraph matching
+  authors:
+  - Kai Huang
+  - Haibo Hu
+  - Shuigeng Zhou
+  - Jihong Guan
+  - Qingqing Ye
+  - Xiaofang Zhou
+  publisher: The VLDB Journal
+  date: '2021-11-11'
+  link: https://doi.org/g8n2dg
+  image: images/papers/10.1007s00778-021-00706-0.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/bioinformatics/btac377
+  title: "Effective drug\u2013target interaction prediction with mutual interaction\
+    \ neural network"
+  authors:
+  - Fei Li
+  - Ziqiao Zhang
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: Bioinformatics
+  date: '2022-06-02'
+  link: https://doi.org/gqtk8v
+  image: image/papers/10.1093bioinformaticsbtac377.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s12859-022-04874-w
+  title: "Identifying essential proteins from protein\u2013protein interaction networks\
+    \ based on influence maximization"
+  authors:
+  - Weixia Xu
+  - Yunfeng Dong
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: BMC Bioinformatics
+  date: '2022-08-16'
+  link: https://doi.org/g8n44x
+  image: image/papers/10.1186s12859-022-04874-w.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TG.2020.3033720
+  title: The Complexities of Random-Turn Hex, Square, and Triangle Games
+  authors:
+  - Yi Yang
+  - Shuigeng Zhou
+  - Jihong Guan
+  - Chuansheng Shen
+  publisher: IEEE Transactions on Games
+  date: '2022-06-01'
+  link: https://doi.org/g8n44z
+  image: image/papers/10.1109TG.2020.3033720.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1117/1.JEI.31.3.033044
+  title: 'SIM: an improved few-shot image classification model with multi-task learning'
+  authors:
+  - Jin Guo
+  - Wengen Li
+  - Jihong Guan
+  - Hang Gao
+  - Baobo Liu
+  - Lili Gong
+  publisher: Journal of Electronic Imaging
+  date: '2022-06-28'
+  link: https://doi.org/g8n442
+  image: image/papers/10.11171.JEI.31.3.033044.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2204.11205
+  title: 'EPiDA: An Easy Plug-in Data Augmentation Framework for High Performance
+    Text Classification'
+  authors:
+  - Minyi Zhao
+  - Lu Zhang
+  - Yi Xu
+  - Jiandong Ding
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/g8n443
+  image: image/papers/10.48550arXiv.2204.11205.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3503161.3548412
+  title: Hierarchical Few-Shot Object Detection
+  authors:
+  - Lu Zhang
+  - Yang Wang
+  - Jiaogen Zhou
+  - Chenbo Zhang
+  - Yinglu Zhang
+  - Jihong Guan
+  - Yatao Bian
+  - Shuigeng Zhou
+  publisher: Proceedings of the 30th ACM International Conference on Multimedia
+  date: '2022-10-10'
+  link: https://doi.org/gr89zs
+  image: image/papers/10.11453503161.3548412.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1609/aaai.v36i5.20539
+  title: Residual Similarity Based Conditional Independence Test and Its Application
+    in Causal Discovery
+  authors:
+  - Hao Zhang
+  - Shuigeng Zhou
+  - Kun Zhang
+  - Jihong Guan
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+  date: '2022-06-28'
+  link: https://doi.org/g8n445
+  image: image/papers/10.1609aaai.v36i5.20539.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3511808.3557554
+  title: 'BidH: A Bidirectional Hierarchical Model for Nested Named Entity Recognition'
+  authors:
+  - Wanyang Xu
+  - Wengen Li
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: Proceedings of the 31st ACM International Conference on Information &amp;
+    Knowledge Management
+  date: '2022-10-17'
+  link: https://doi.org/g8n446
+  image: image/papers/10.11453511808.3557554.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICASSP43922.2022.9746969
+  title: Multi-Modal Learning with Text Merging for TEXTVQA
+  authors:
+  - Changsheng Xu
+  - Zhenlong Xu
+  - Yifan He
+  - Shuigeng Zhou
+  - Jihong Guan
+  publisher: ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech
+    and Signal Processing (ICASSP)
+  date: '2022-05-23'
+  link: https://doi.org/g8n447
+  image: image/papers/10.1109ICASSP43922.2022.9746969.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/WACV51458.2022.00140
+  title: Robustly Recognizing Irregular Scene Text by Rectifying Principle Irregularities
+  authors:
+  - Changsheng Xu
+  - Yang Wang
+  - Fan Bai
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: 2022 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+  date: '2022-01-01'
+  link: https://doi.org/g8n448
+  image: image/papers/10.1109WACV51458.2022.00140.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3511808.3557633
+  title: Fusing Geometric and Scene Information for Cross-View Geo-Localization
+  authors:
+  - Siyuan Guo
+  - Tianying Liu
+  - Wengen Li
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: Proceedings of the 31st ACM International Conference on Information &amp;
+    Knowledge Management
+  date: '2022-10-17'
+  link: https://doi.org/gtgzfs
+  image: image/papers/10.11453511808.3557633.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1093/bioinformatics/btab195
   title: 'FraGAT: a fragment-oriented multi-scale graph attention model for molecular
     property prediction'
@@ -663,21 +901,6 @@
   date: '2021-09-01'
   link: https://doi.org/g4kc7k
   image: images/papers/10.1109TSMC.2019.2947516.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1007/s00778-021-00706-0
-  title: Privacy and efficiency guaranteed social subgraph matching
-  authors:
-  - Kai Huang
-  - Haibo Hu
-  - Shuigeng Zhou
-  - Jihong Guan
-  - Qingqing Ye
-  - Xiaofang Zhou
-  publisher: The VLDB Journal
-  date: '2021-11-11'
-  link: https://doi.org/g8n2dg
-  image: images/papers/10.1007s00778-021-00706-0.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/tcbb.2021.3128576
@@ -1662,7 +1885,7 @@
   publisher: Bioinformatics
   date: '2015-06-10'
   link: https://doi.org/g8n2jw
-  image: images/papers/10.1093bioinformaticsbtv256.png
+  image: image/papers/10.1093bioinformaticsbtv256.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-3-319-18123-3_26
@@ -1740,7 +1963,7 @@
   publisher: BMC Genomics
   date: '2015-01-29'
   link: https://doi.org/gb3hv8
-  image: images/papers/10.11861471-2164-16-S3-S5.png
+  image: image/papers/10.11861471-2164-16-S3-S5.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/1471-2105-16-S5-S2
@@ -1753,7 +1976,7 @@
   publisher: BMC Bioinformatics
   date: '2015-03-18'
   link: https://doi.org/gb8w7m
-  image: images/papers/10.11861471-2105-16-S5-S2.webp
+  image: image/papers/10.11861471-2105-16-S5-S2.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.5441/002/edbt.2014.23
@@ -1792,7 +2015,7 @@
   publisher: IET Systems Biology
   date: '2015-08-01'
   link: https://doi.org/f7zqb7
-  image: images/papers/10.1049iet-syb.2014.0053.png
+  image: image/papers/10.1049iet-syb.2014.0053.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1089/cmb.2013.0083
@@ -1808,7 +2031,7 @@
   publisher: Journal of Computational Biology
   date: '2013-11-01'
   link: https://doi.org/f5ftsp
-  image: images/papers/10.1089cmb.2013.0083.jpg
+  image: image/papers/10.1089cmb.2013.0083.jpeg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.neucom.2014.05.075
@@ -1822,7 +2045,7 @@
   publisher: Neurocomputing
   date: '2014-12-01'
   link: https://doi.org/g8n2kc
-  image: images/papers/10.1016j.neucom.2014.05.075.jpg
+  image: image/papers/10.1016j.neucom.2014.05.075.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.14778/2367502.2367549
@@ -2190,5 +2413,760 @@
   date: '2007-07-01'
   link: https://doi.org/cbpbmm
   image: images/papers/10.1016j.physa.2007.02.045.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ymeth.2016.06.024
+  title: Boosting compound-protein interaction prediction by deep learning
+  authors:
+  - Kai Tian
+  - Mingyu Shao
+  - Yang Wang
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: Methods
+  date: '2016-11-01'
+  link: https://doi.org/f9cgd3
+  image: images/papers/10.1016j.ymeth.2016.06.024.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s12859-016-1331-z
+  title: Dynamic epigenetic mode analysis using spatial temporal clustering
+  authors:
+  - YangLan Gan
+  - Han Tao
+  - Guobing Zou
+  - Cairong Yan
+  - Jihong Guan
+  publisher: BMC Bioinformatics
+  date: '2016-12-01'
+  link: https://doi.org/g8n4z6
+  image: image/papers/10.1186s12859-016-1331-z.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s12859-016-1336-7
+  title: Inferring new indications for approved drugs via random walk on drug-disease
+    heterogenous networks
+  authors:
+  - Hui Liu
+  - Yinglong Song
+  - Jihong Guan
+  - Libo Luo
+  - Ziheng Zhuang
+  publisher: BMC Bioinformatics
+  date: '2016-12-01'
+  link: https://doi.org/gf6v27
+  image: image/papers/10.1186s12859-016-1336-7.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s12918-016-0362-4
+  title: Screening lifespan-extending drugs in Caenorhabditis elegans via label propagation
+    on drug-protein networks
+  authors:
+  - Hui Liu
+  - Mengmeng Guo
+  - Ting Xue
+  - Jihong Guan
+  - Libo Luo
+  - Ziheng Zhuang
+  publisher: BMC Systems Biology
+  date: '2016-12-01'
+  link: https://doi.org/g8n4z7
+  image: image/papers/10.1186s12918-016-0362-4.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.compbiolchem.2016.09.007
+  title: Side-chain dynamics analysis of KE07 series
+  authors:
+  - Xin Geng
+  - Jiaogen Zhou
+  - Jihong Guan
+  publisher: Computational Biology and Chemistry
+  date: '2016-12-01'
+  link: https://doi.org/f9hrj6
+  image: image/papers/10.1016j.compbiolchem.2016.09.007.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TCBB.2015.2430350
+  title: 'DPNuc: Identifying Nucleosome Positions Based on the Dirichlet Process Mixture
+    Model'
+  authors:
+  - Huidong Chen
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
+  date: '2015-11-01'
+  link: https://doi.org/g8n4z8
+  image: image/papers/10.1109TCBB.2015.2430350.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TCBB.2015.2430331
+  title: 'CoGI: Towards Compressing Genomes as an Image'
+  authors:
+  - Xiaojing Xie
+  - Shuigeng Zhou
+  - Jihong Guan
+  publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
+  date: '2015-11-01'
+  link: https://doi.org/gpf466
+  image: image/papers/10.1109TCBB.2015.2430331.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ins.2015.06.033
+  title: Effectively classifying short texts by structured sparse representation with
+    dictionary filtering
+  authors:
+  - Longwen Gao
+  - Shuigeng Zhou
+  - Jihong Guan
+  publisher: Information Sciences
+  date: '2015-12-01'
+  link: https://doi.org/f7sz62
+  image: image/papers/10.1016j.ins.2015.06.033.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1142/S021972001541005X
+  title: Computationally predicting protein-RNA interactions using only positive and
+    unlabeled examples
+  authors:
+  - Zhanzhan Cheng
+  - Shuigeng Zhou
+  - Jihong Guan
+  publisher: Journal of Bioinformatics and Computational Biology
+  date: '2015-05-15'
+  link: https://doi.org/g8n4z9
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jss.2014.11.038
+  title: 'LAYER: A cost-efficient mechanism to support multi-tenant database as a
+    service in cloud'
+  authors:
+  - Yifeng Luo
+  - Shuigeng Zhou
+  - Jihong Guan
+  publisher: Journal of Systems and Software
+  date: '2015-03-01'
+  link: https://doi.org/gj428x
+  image: image/papers/10.1016j.jss.2014.11.038.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/srep17481
+  title: Unfavorable Individuals in Social Gaming Networks
+  authors:
+  - Yichao Zhang
+  - Guanrong Chen
+  - Jihong Guan
+  - Zhongzhi Zhang
+  - Shuigeng Zhou
+  publisher: Scientific Reports
+  date: '2015-12-09'
+  link: https://doi.org/f72x46
+  image: image/papers/10.1038srep17481.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1142/S0217979215500721
+  title: Determining average path length and average trapping time on generalized
+    dual dendrimer
+  authors:
+  - Ling Li
+  - Jihong Guan
+  publisher: International Journal of Modern Physics B
+  date: '2015-05-10'
+  link: https://doi.org/g8n42b
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1088/0256-307X/32/3/030501
+  title: Efficiency-Controllable Random Walks on a Class of Recursive Scale-Free Trees
+    with a Deep Trap
+  authors:
+  - Ling Li
+  - Ji-Hong Guan
+  - Shui-Geng Zhou
+  publisher: Chinese Physics Letters
+  date: '2015-03-01'
+  link: https://doi.org/g8n42c
+  image: image/papers/10.10880256-307X323030501.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1155/2015/325474
+  title: Towards a Secure Medium Access Control Protocol for Cluster-Based Underwater
+    Wireless Sensor Networks
+  authors:
+  - Ming Xu
+  - Guangzhong Liu
+  - Jihong Guan
+  publisher: International Journal of Distributed Sensor Networks
+  date: '2015-05-01'
+  link: https://doi.org/gb6bzn
+  image: image/papers/10.11552015325474.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TCBB.2014.2306825
+  title: 'From Function to Interaction: A New Paradigm for Accurately Predicting Protein
+    Complexes Based on Protein-to-Protein Interaction Networks'
+  authors:
+  - ' Bin Xu'
+  - ' Jihong Guan'
+  publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
+  date: '2014-07-01'
+  link: https://doi.org/g8n42d
+  image: image/papers/10.1109TCBB.2014.2306825.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/1471-2164-15-1148
+  title: 'Histone modifications involved in cassette exon inclusions: a quantitative
+    and interpretable analysis'
+  authors:
+  - Hui Liu
+  - Ting Jin
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: BMC Genomics
+  date: '2014-12-01'
+  link: https://doi.org/f6xpgt
+  image: image/papers/10.11861471-2164-15-1148.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/bib/bbt062
+  title: A comparative evaluation on prediction methods of nucleosome positioning
+  authors:
+  - H. Liu
+  - R. Zhang
+  - W. Xiong
+  - J. Guan
+  - Z. Zhuang
+  - S. Zhou
+  publisher: Briefings in Bioinformatics
+  date: '2013-09-10'
+  link: https://doi.org/f6qxn2
+  image: image/papers/10.1093bibbbt062.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/bib/bbt014
+  title: "Choosing appropriate models for protein\u2013protein interaction networks:\
+    \ a comparison study"
+  authors:
+  - Mingyu Shao
+  - Yi Yang
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: Briefings in Bioinformatics
+  date: '2013-03-19'
+  link: https://doi.org/f6kthb
+  image: image/papers/10.1093bibbbt014.jpeg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.gpb.2013.06.001
+  title: 'CloudNMF: A MapReduce Implementation of Nonnegative Matrix Factorization
+    for Large-Scale Biological Datasets'
+  authors:
+  - Ruiqi Liao
+  - Yifan Zhang
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: Genomics, Proteomics &amp; Bioinformatics
+  date: '2013-08-08'
+  link: https://doi.org/g8n42f
+  image: image/papers/10.1016j.gpb.2013.06.001.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/nar/gku437
+  title: "PredHS: a web server for predicting protein\u2013protein interaction hot\
+    \ spots by using structural neighborhood properties"
+  authors:
+  - Lei Deng
+  - Qiangfeng Cliff Zhang
+  - Zhigang Chen
+  - Yang Meng
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: Nucleic Acids Research
+  date: '2014-05-22'
+  link: https://doi.org/f6b7vp
+  image: image/papers/10.1093nargku437.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TCBB.2013.137
+  title: A New Unsupervised Binning Approach for Metagenomic Sequences Based on N-grams
+    and Automatic Feature Weighting
+  authors:
+  - ' Ruiqi Liao'
+  - ' Ruichang Zhang'
+  - ' Jihong Guan'
+  - ' Shuigeng Zhou'
+  publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
+  date: '2014-01-01'
+  link: https://doi.org/g8n42g
+  image: image/papers/10.1109TCBB.2013.137.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TCBB.2013.131
+  title: Identifying Cis-Regulatory Elements and Modules Using Conditional Random
+    Fields
+  authors:
+  - ' Yanglan Gan'
+  - ' Jihong Guan'
+  - ' Shuigeng Zhou'
+  - ' Weixiong Zhang'
+  publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
+  date: '2014-01-01'
+  link: https://doi.org/g8n42h
+  image: image/papers/10.1109TCBB.2013.131.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1504/IJCBDD.2014.061643
+  title: 'The centrality of cancer proteins in human protein-protein interaction network:
+    a revisit'
+  authors:
+  - Wei Xiong
+  - Luyu Xie
+  - Shuigeng Zhou
+  - Hui Liu
+  - Jihong Guan
+  publisher: International Journal of Computational Biology and Drug Design
+  date: '2014-01-01'
+  link: https://doi.org/f6hmvh
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TGRS.2013.2285814
+  title: A Novel Image Registration Algorithm for Remote Sensing Under Affine Transformation
+  authors:
+  - ' Zhili Song'
+  - ' Shuigeng Zhou'
+  - ' Jihong Guan'
+  publisher: IEEE Transactions on Geoscience and Remote Sensing
+  date: '2014-08-01'
+  link: https://doi.org/gtxxnp
+  image: image/papers/10.1109TGRS.2013.2285814.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.physa.2014.08.029
+  title: Mean first passage time for random walk on dual structure of dendrimer
+  authors:
+  - Ling Li
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: 'Physica A: Statistical Mechanics and its Applications'
+  date: '2014-12-01'
+  link: https://doi.org/f6mxnk
+  image: image/papers/10.1016j.physa.2014.08.029.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/comjnl/bxt106
+  title: A New and Effective Approach to GML Documents Compression
+  authors:
+  - Q. Wei
+  - J. Guan
+  - S. Zhou
+  - X. Wang
+  publisher: The Computer Journal
+  date: '2013-10-06'
+  link: https://doi.org/f6pvhm
+  image: image/papers/10.1093comjnlbxt106.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1142/S0219720013300025
+  title: 'WHEN CLOUD COMPUTING MEETS BIOINFORMATICS: A REVIEW'
+  authors:
+  - SHUIGENG ZHOU
+  - RUIQI LIAO
+  - JIHONG GUAN
+  publisher: Journal of Bioinformatics and Computational Biology
+  date: '2013-10-01'
+  link: https://doi.org/g8n42j
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/1471-2105-14-S12-S4
+  title: Protein function prediction by collective classification with explicit and
+    implicit edges in protein-protein interaction networks
+  authors:
+  - Wei Xiong
+  - Hui Liu
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: BMC Bioinformatics
+  date: '2013-09-01'
+  link: https://doi.org/g8n42k
+  image: image/papers/10.11861471-2105-14-S12-S4.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.datak.2013.03.004
+  title: Scalable continual top-k keyword search in relational databases
+  authors:
+  - Yanwei Xu
+  - Jihong Guan
+  - Fengrong Li
+  - Shuigeng Zhou
+  publisher: Data &amp; Knowledge Engineering
+  date: '2013-07-01'
+  link: https://doi.org/f43j7j
+  image: image/papers/10.1016j.datak.2013.03.004.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TITB.2012.2229286
+  title: Identifying Mammalian MicroRNA Targets Based on Supervised Distance Metric
+    Learning
+  authors:
+  - ' Hui Liu'
+  - ' Shuigene Zhou'
+  - ' Jihong Guan'
+  publisher: IEEE Journal of Biomedical and Health Informatics
+  date: '2013-03-01'
+  link: https://doi.org/ggns2n
+  image: image/papers/10.1109TITB.2012.2229286.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/PhysRevE.87.032133
+  title: Rumor evolution in social networks
+  authors:
+  - Yichao Zhang
+  - Shi Zhou
+  - Zhongzhi Zhang
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: Physical Review E
+  date: '2013-03-15'
+  link: https://doi.org/g8n42m
+  image: image/papers/10.1103PhysRevE.87.032133.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jss.2012.11.025
+  title: 'A RAMCloud Storage System based on HDFS: Architecture, implementation and
+    evaluation'
+  authors:
+  - Yifeng Luo
+  - Siqiang Luo
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: Journal of Systems and Software
+  date: '2013-03-01'
+  link: https://doi.org/g8n42n
+  image: image/papers/10.1016j.jss.2012.11.025.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/1752-0509-6-S2-S6
+  title: A semi-supervised boosting SVM for predicting hot spots at protein-protein
+    Interfaces
+  authors:
+  - Bin Xu
+  - Xiaoming Wei
+  - Lei Deng
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: BMC Systems Biology
+  date: '2012-12-01'
+  link: https://doi.org/gb3qdx
+  image: image/papers/10.11861752-0509-6-S2-S6.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.gpb.2012.09.003
+  title: 'Finding MicroRNA Targets in Plants: Current Status and Perspectives'
+  authors:
+  - Jiandong Ding
+  - Shuigeng Zhou
+  - Jihong Guan
+  publisher: Genomics, Proteomics &amp; Bioinformatics
+  date: '2012-10-01'
+  link: https://doi.org/f4h7q4
+  image: image/papers/10.1016j.gpb.2012.09.003.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/1471-2164-13-S8-S15
+  title: 'Automatically clustering large-scale miRNA sequences: methods and experiments'
+  authors:
+  - Linxia Wan
+  - Jiandong Ding
+  - Ting Jin
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: BMC Genomics
+  date: '2012-12-01'
+  link: https://doi.org/g8n42p
+  image: image/papers/10.11861471-2164-13-S8-S15.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/1471-2164-13-S3-S3
+  title: Genome-wide search for miRNA-target interactions in Arabidopsis thaliana
+    with an integrated approach
+  authors:
+  - Jiandong Ding
+  - Danqing Li
+  - Uwe Ohler
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: BMC Genomics
+  date: '2012-06-01'
+  link: https://doi.org/g8n42q
+  image: image/papers/10.11861471-2164-13-S3-S3.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/1471-2229-12-68
+  title: 'miRFANs: an integrated database for Arabidopsis thalianamicroRNA function
+    annotations'
+  authors:
+  - Hui Liu
+  - Ting Jin
+  - Ruiqi Liao
+  - Linxia Wan
+  - Bin Xu
+  - Shuigeng Zhou
+  - Jihong Guan
+  publisher: BMC Plant Biology
+  date: '2012-05-14'
+  link: https://doi.org/f4gzvf
+  image: image/papers/10.11861471-2229-12-68.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/1471-2105-13-4
+  title: A comparison study on feature selection of DNA structural properties for
+    promoter prediction
+  authors:
+  - Yanglan Gan
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: BMC Bioinformatics
+  date: '2012-01-07'
+  link: https://doi.org/fx23qd
+  image: image/papers/10.11861471-2105-13-4.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/1471-2105-13-49
+  title: Structural features based genome-wide characterization and prediction of
+    nucleosome organization
+  authors:
+  - Yanglan Gan
+  - Jihong Guan
+  - Shuigeng Zhou
+  - Weixiong Zhang
+  publisher: BMC Bioinformatics
+  date: '2012-03-26'
+  link: https://doi.org/gb8vh4
+  image: image/papers/10.11861471-2105-13-49.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.neucom.2011.11.022
+  title: Detecting potential collusive cliques in futures markets based on trading
+    behaviors from real data
+  authors:
+  - Junjie Wang
+  - Shuigeng Zhou
+  - Jihong Guan
+  publisher: Neurocomputing
+  date: '2012-09-01'
+  link: https://doi.org/f33n7w
+  image: image/papers/10.1016j.neucom.2011.11.022.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1504/ijdmb.2012.048174
+  title: An improved genetic algorithm for statistical potential function design and
+    protein structure prediction
+  authors:
+  - Xin Geng
+  - Jihong Guan
+  - Qiwen Dong
+  - Shuigeng Zhou
+  publisher: International Journal of Data Mining and Bioinformatics
+  date: '2012-01-01'
+  link: https://doi.org/f329b8
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s10922-011-9203-3
+  title: Enhancing Routing Robustness of Unstructured Peer-to-Peer Networks Using
+    Mobile Agents
+  authors:
+  - Ming Xu
+  - Shuigeng Zhou
+  - Jihong Guan
+  publisher: Journal of Network and Systems Management
+  date: '2011-07-23'
+  link: https://doi.org/bgz856
+  image: image/papers/10.1007s10922-011-9203-3.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/MCAS.2011.2181075
+  title: Traffic Fluctuations on Weighted Networks
+  authors:
+  - ' Yichao Zhang'
+  - ' Shi Zhou'
+  - ' Zhongzhi Zhang'
+  - ' Jihong Guan'
+  - ' Shuigeng Zhou'
+  - ' Guanrong Chen'
+  publisher: IEEE Circuits and Systems Magazine
+  date: '2012-01-01'
+  link: https://doi.org/g8n42r
+  image: image/papers/10.1109MCAS.2011.2181075.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/PhysRevE.83.066120
+  title: Evolutionary method for finding communities in bipartite networks
+  authors:
+  - Weihua Zhan
+  - Zhongzhi Zhang
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: Physical Review E
+  date: '2011-06-30'
+  link: https://doi.org/b2zn5f
+  image: image/papers/10.1103PhysRevE.83.066120.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.physa.2010.09.038
+  title: Epidemic spreading with nonlinear infectivity in weighted scale-free networks
+  authors:
+  - Xiangwei Chu
+  - Zhongzhi Zhang
+  - Jihong Guan
+  - Shuigeng Zhou
+  publisher: 'Physica A: Statistical Mechanics and its Applications'
+  date: '2011-02-01'
+  link: https://doi.org/br4pfr
+  image: image/papers/10.1016j.physa.2010.09.038.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.physa.2010.04.003
+  title: Deterministic weighted scale-free small-world networks
+  authors:
+  - Yichao Zhang
+  - Zhongzhi Zhang
+  - Shuigeng Zhou
+  - Jihong Guan
+  publisher: 'Physica A: Statistical Mechanics and its Applications'
+  date: '2010-08-01'
+  link: https://doi.org/djcq97
+  image: image/papers/10.1016j.physa.2010.04.003.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/1471-2105-12-216
+  title: 'miRFam: an effective automatic miRNA classification method based on n-grams
+    and a multiclass SVM'
+  authors:
+  - Jiandong Ding
+  - Shuigeng Zhou
+  - Jihong Guan
+  publisher: BMC Bioinformatics
+  date: '2011-05-28'
+  link: https://doi.org/c827qb
+  image: image/papers/10.11861471-2105-12-216.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.2174/092986611796011419
+  title: 'SemiHS: An Iterative Semi-Supervised Approach for Predicting Proteinprotein
+    Interaction Hot Spots'
+  authors:
+  - Ji-Hong Guan
+  - Qi-Wen Dong
+  - Shui-Geng Zhou
+  - Lei Deng
+  publisher: Protein &amp; Peptide Letters
+  date: '2011-09-01'
+  link: https://doi.org/ck6cvj
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.comcom.2010.10.005
+  title: A new and effective hierarchical overlay structure for Peer-to-Peer networks
+  authors:
+  - Ming Xu
+  - Shuigeng Zhou
+  - Jihong Guan
+  publisher: Computer Communications
+  date: '2011-05-01'
+  link: https://doi.org/ctbrpm
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.physa.2010.09.027
+  title: Characteristics of real futures trading networks
+  authors:
+  - Junjie Wang
+  - Shuigeng Zhou
+  - Jihong Guan
+  publisher: 'Physica A: Statistical Mechanics and its Applications'
+  date: '2011-01-01'
+  link: https://doi.org/fwptts
+  image: image/papers/10.1016j.physa.2010.09.027.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/1471-2105-11-S11-S11
+  title: 'MiRenSVM: towards better prediction of microRNA precursors using an ensemble
+    SVM classifier with multi-loop features'
+  authors:
+  - Jiandong Ding
+  - Shuigeng Zhou
+  - Jihong Guan
+  publisher: BMC Bioinformatics
+  date: '2010-12-01'
+  link: https://doi.org/d7fv3q
+  image: image/papers/10.11861471-2105-11-S11-S11.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1504/ijdmb.2010.037545
+  title: Detecting microarray data supported microRNA-mRNA interactions
+  authors:
+  - Hui Liu
+  - Shuigeng Zhou
+  - Jihong Guan
+  publisher: International Journal of Data Mining and Bioinformatics
+  date: '2010-01-01'
+  link: https://doi.org/bc6gng
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jss.2010.04.069
+  title: 'LESSON: A system for lecture notes searching and sharing over Internet'
+  authors:
+  - Shuigeng Zhou
+  - Ming Xu
+  - Jihong Guan
+  publisher: Journal of Systems and Software
+  date: '2010-10-01'
+  link: https://doi.org/c4kqt8
+  image: image/papers/10.1016j.jss.2010.04.069.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jnca.2009.11.003
+  title: A path-traceable query routing mechanism for search in unstructured peer-to-peer
+    networks
+  authors:
+  - Ming Xu
+  - Shuigeng Zhou
+  - Jihong Guan
+  - Xiaohua Hu
+  publisher: Journal of Network and Computer Applications
+  date: '2010-03-01'
+  link: https://doi.org/dnm3fk
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.2174/092986610791190336
+  title: Gene Ontology-Based Protein Function Prediction by Using Sequence Composition
+    Information
+  authors:
+  - Qiwen Dong
+  - Shuigeng Zhou
+  - Lei Deng
+  - Jihong Guan
+  publisher: Protein &amp; Peptide Letters
+  date: '2010-06-01'
+  link: https://doi.org/dkm8sp
+  image: image/papers/10.2174092986610791190336.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/1471-2105-10-426
+  title: Prediction of protein-protein interaction sites using an ensemble method
+  authors:
+  - Lei Deng
+  - Jihong Guan
+  - Qiwen Dong
+  - Shuigeng Zhou
+  publisher: BMC Bioinformatics
+  date: '2009-12-01'
+  link: https://doi.org/cskrgh
+  image: image/papers/10.11861471-2105-10-426.png
   plugin: sources.py
   file: sources.yaml
