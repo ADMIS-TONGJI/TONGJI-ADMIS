@@ -578,3 +578,195 @@
 # Local-world evolving networks with tunable clustering.
 - id: doi:10.1016/j.physa.2007.02.045
   image: images/papers/10.1016j.physa.2007.02.045.png
+
+- id: doi:10.1016/j.ymeth.2016.06.024
+  image: images/papers/10.1016j.ymeth.2016.06.024.jpg
+
+- id: doi:10.1186/s12859-016-1331-z
+  image: image/papers/10.1186s12859-016-1331-z.jpg
+
+- id: doi:10.1186/s12859-016-1336-7
+  image: image/papers/10.1186s12859-016-1336-7.png
+
+- id: doi:10.1186/s12918-016-0362-4
+  image: image/papers/10.1186s12918-016-0362-4.png
+
+- id: doi:10.1016/j.compbiolchem.2016.09.007
+  image: image/papers/10.1016j.compbiolchem.2016.09.007.jpg
+
+- id: doi:10.1109/TCBB.2015.2430350
+  image: image/papers/10.1109TCBB.2015.2430350.png
+
+- id: doi:10.1109/TCBB.2015.2430331
+  image: image/papers/10.1109TCBB.2015.2430331.png
+
+- id: doi:10.1093/bioinformatics/btv256
+  image: image/papers/10.1093bioinformaticsbtv256.png
+
+- id: doi:10.1016/j.ins.2015.06.033
+  image: image/papers/10.1016j.ins.2015.06.033.jpg
+
+- id: doi:10.1142/S021972001541005X
+  image: 
+
+- id: doi:10.1049/iet-syb.2014.0053
+  image: image/papers/10.1049iet-syb.2014.0053.png
+
+- id: doi:10.1016/j.jss.2014.11.038
+  image: image/papers/10.1016j.jss.2014.11.038.jpg
+
+- id: doi:10.1186/1471-2164-16-S3-S5
+  image: image/papers/10.11861471-2164-16-S3-S5.png
+
+- id: doi:10.1186/1471-2105-16-S5-S2
+  image: image/papers/10.11861471-2105-16-S5-S2.png
+
+- id: doi:10.1038/srep17481
+  image: image/papers/10.1038srep17481.jpg
+
+- id: doi:10.1142/S0217979215500721
+  image: 
+
+- id: doi:10.1088/0256-307X/32/3/030501
+  image: image/papers/10.10880256-307X323030501.png
+
+- id: doi:10.1155/2015/325474
+  image: image/papers/10.11552015325474.png
+
+- id: doi:10.1109/TCBB.2014.2306825
+  image: image/papers/10.1109TCBB.2014.2306825.png
+
+- id: doi:10.5555/3237383.3237445
+  image: image/papers/10.55553237383.3237445.png
+
+- id: doi:10.1186/1471-2164-15-1148
+  image: image/papers/10.11861471-2164-15-1148.png
+
+- id: doi:10.1093/bib/bbt062
+  image: image/papers/10.1093bibbbt062.png
+
+- id: doi:10.1093/bib/bbt014
+  image: image/papers/10.1093bibbbt014.jpeg
+
+- id: doi:10.1016/j.gpb.2013.06.001
+  image: image/papers/10.1016j.gpb.2013.06.001.jpg
+
+- id: doi:10.1093/nar/gku437
+  image: image/papers/10.1093nargku437.jpg
+
+- id: doi:10.1016/j.neucom.2014.05.075
+  image: image/papers/10.1016j.neucom.2014.05.075.jpg
+
+- id: doi:10.1109/TCBB.2013.137
+  image: image/papers/10.1109TCBB.2013.137.png
+
+- id: doi:10.1109/TCBB.2013.131
+  image: image/papers/10.1109TCBB.2013.131.png
+
+- id: doi:10.1504/IJCBDD.2014.061643
+  image: 
+
+- id: doi:10.1109/TGRS.2013.2285814
+  image: image/papers/10.1109TGRS.2013.2285814.png
+
+- id: doi:10.1016/j.physa.2014.08.029
+  image: image/papers/10.1016j.physa.2014.08.029.jpg
+
+- id: doi:10.1093/comjnl/bxt106
+  image: image/papers/10.1093comjnlbxt106.png
+
+- id: doi:10.1089/cmb.2013.0083
+  image: image/papers/10.1089cmb.2013.0083.jpeg
+
+- id: doi:10.1142/S0219720013300025
+  image: 
+
+- id: doi:10.1186/1471-2105-14-S12-S4
+  image: image/papers/10.11861471-2105-14-S12-S4.png
+
+- id: doi:10.1016/j.datak.2013.03.004
+  image: image/papers/10.1016j.datak.2013.03.004.png
+
+- id: doi:10.1109/TITB.2012.2229286
+  image: image/papers/10.1109TITB.2012.2229286.png
+
+- id: doi:10.1103/PhysRevE.87.032133
+  image: image/papers/10.1103PhysRevE.87.032133.png
+
+- id: doi:10.1016/j.jss.2012.11.025
+  image: image/papers/10.1016j.jss.2012.11.025.png
+
+- id: doi:10.1186/1752-0509-6-S2-S6
+  image: image/papers/10.11861752-0509-6-S2-S6.png
+
+- id: doi:10.1016/j.gpb.2012.09.003
+  image: image/papers/10.1016j.gpb.2012.09.003.png
+
+- id: doi:10.1186/1471-2164-13-S8-S15
+  image: image/papers/10.11861471-2164-13-S8-S15.png
+
+- id: doi:10.1186/1471-2164-13-S3-S3
+  image: image/papers/10.11861471-2164-13-S3-S3.png
+
+- id: doi:10.1186/1471-2229-12-68
+  image: image/papers/10.11861471-2229-12-68.png
+
+- id: doi:10.1186/1471-2105-13-4
+  image: image/papers/10.11861471-2105-13-4.png
+
+- id: doi:10.1186/1471-2105-13-49
+  image: image/papers/10.11861471-2105-13-49.png
+
+- id: doi:10.1016/j.neucom.2011.11.022
+  image: image/papers/10.1016j.neucom.2011.11.022.png
+
+- id: doi:10.1504/ijdmb.2012.048174
+  image: 
+
+- id: doi:10.1007/s10922-011-9203-3
+  image: image/papers/10.1007s10922-011-9203-3.png
+
+- id: doi:10.1109/MCAS.2011.2181075
+  image: image/papers/10.1109MCAS.2011.2181075.png
+
+- id: doi:10.1103/PhysRevE.83.066120
+  image: image/papers/10.1103PhysRevE.83.066120.png
+
+- id: doi:10.1016/j.physa.2010.09.038
+  image: image/papers/10.1016j.physa.2010.09.038.png
+
+- id: doi:10.1016/j.physa.2010.04.003
+  image: image/papers/10.1016j.physa.2010.04.003.png
+
+- id: doi:10.1186/1471-2105-12-216
+  image: image/papers/10.11861471-2105-12-216.png
+
+- id: doi:10.2174/092986611796011419
+  image: 
+
+- id: doi:10.1016/j.comcom.2010.10.005
+  image: 
+
+- id: doi:10.1016/j.physa.2010.09.027
+  image: image/papers/10.1016j.physa.2010.09.027.png
+
+- id: doi:10.1186/1471-2105-11-S11-S11
+  image: image/papers/10.11861471-2105-11-S11-S11.png
+
+- id: doi:10.1504/ijdmb.2010.037545
+  image: 
+
+- id: doi:10.1016/j.jss.2010.04.069
+  image: image/papers/10.1016j.jss.2010.04.069.png
+
+- id: doi:10.1016/j.jnca.2009.11.003
+  image: 
+
+- id: doi:10.2174/092986610791190336
+  image: image/papers/10.2174092986610791190336.png
+
+- id: doi:10.1016/j.physa.2010.09.027
+  image: image/papers/10.1016j.physa.2010.09.027.png
+
+- id: doi:10.1186/1471-2105-10-426
+  image: image/papers/10.11861471-2105-10-426.png
