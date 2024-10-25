@@ -118,57 +118,56 @@
 - id: doi:10.48550/arXiv.2308.09540
   image: images/papers/10.48550arXiv.2308.09540.png
 
-# - id: doi:10.1093/bib/bbac018
-#   image: 
+- id: doi:10.1093/bib/bbac018
+  image: image/papers/10.1093bibbbac018.jpeg
 
-# - id: doi:10.1109/TCBB.2021.3061720
-#   image: 
+- id: doi:10.1109/TCBB.2021.3061720
+  image: image/papers/10.1109TCBB.2021.3061720.jpg
 
-# - id: doi:10.1109/TCYB.2020.2995595
-#   image: 
+- id: doi:10.1109/TCYB.2020.2995595
+  image: image/papers/10.1109TCYB.2020.2995595.jpg
 
-# - id: doi:10.3390/rs14102371
-#   image: 
+- id: doi:10.3390/rs14102371
+  image: image/papers/10.3390rs14102371.jpg
 
-# - id: doi:10.1007/s00778-021-00706-0
-#   image: 
+- id: doi:10.1007/s00778-021-00706-0
+  image: image/papers/10.1007s00778-021-00706-0.jpg
 
-# - id: doi:10.1093/bioinformatics/btac377
-#   image: 
+- id: doi:10.1093/bioinformatics/btac377
+  image: image/papers/10.1093bioinformaticsbtac377.jpg
 
-# - id: doi:10.1186/s12859-022-04874-w
-#   image: 
+- id: doi:10.1186/s12859-022-04874-w
+  image: image/papers/10.1186s12859-022-04874-w.jpg
 
-# - id: doi:10.1109/TG.2020.3033720
-#   image: 
+- id: doi:10.1109/TG.2020.3033720
+  image: image/papers/10.1109TG.2020.3033720.jpg
 
-# - id: doi:10.1117/1.JEI.31.3.033044
-#   image: 
+- id: doi:10.1117/1.JEI.31.3.033044
+  image: image/papers/10.11171.JEI.31.3.033044.jpg
 
-# - id: doi:10.1049/cvi2.12137
-#   image: 
+- id: doi:10.1049/cvi2.12137
+  image: image/papers/10.1049cvi2.12137.jpg
 
-# - id: doi:10.48550/arXiv.2204.11205
-#   image: 
+- id: doi:10.48550/arXiv.2204.11205
+  image: image/papers/10.48550arXiv.2204.11205.jpg
 
-# - id: doi:10.1145/3503161.3548412
-#   image: 
+- id: doi:10.1145/3503161.3548412
+  image: image/papers/10.11453503161.3548412.jpg
 
-# - id: doi:10.1609/aaai.v36i5.20539
-#   image: 
+- id: doi:10.1609/aaai.v36i5.20539
+  image: image/papers/10.1609aaai.v36i5.20539.jpg
 
-# - id: doi:10.1145/3511808.3557554
-#   image: 
+- id: doi:10.1145/3511808.3557554
+  image: image/papers/10.11453511808.3557554.jpg
 
-# - id: doi:10.1109/ICASSP43922.2022.9746969
-#   image: 
+- id: doi:10.1109/ICASSP43922.2022.9746969
+  image: image/papers/10.1109ICASSP43922.2022.9746969.jpg
 
-# - id: doi:10.1109/WACV51458.2022.00140
-#   image: 
+- id: doi:10.1109/WACV51458.2022.00140
+  image: image/papers/10.1109WACV51458.2022.00140.jpg
 
-# - id: doi:10.1145/3511808.3557633
-#   image: 
-
+- id: doi:10.1145/3511808.3557633
+  image: image/papers/10.11453511808.3557633.jpg
 
 - id: doi:10.1093/bioinformatics/btab195
   image: images/papers/10.1093bioinformaticsbtab195.jpg
@@ -636,8 +635,8 @@
 - id: doi:10.1109/TCBB.2014.2306825
   image: image/papers/10.1109TCBB.2014.2306825.png
 
-- id: doi:10.5555/3237383.3237445
-  image: image/papers/10.55553237383.3237445.png
+# - id: doi:10.5555/3237383.3237445
+#   image: image/papers/10.55553237383.3237445.png
 
 - id: doi:10.1186/1471-2164-15-1148
   image: image/papers/10.11861471-2164-15-1148.png
