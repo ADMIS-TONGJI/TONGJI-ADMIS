@@ -10,7 +10,7 @@
   - Shuigeng Zhou
   publisher: IEEE Transactions on Artificial Intelligence
   date: '2024-01-01'
-  link: https://doi.org/10.1109/tai.2024.3459857
+  link: https://doi.org/g8nm6z
   image: images/papers/10.1109TAI.2024.3459857.png
   plugin: sources.py
   file: sources.yaml
@@ -550,7 +550,7 @@
   - Jihong Guan
   - Shuigeng Zhou
   publisher: Proceedings of the 31st ACM International Conference on Multimedia
-  date: '2023-10-27'
+  date: '2023-10-26'
   link: https://doi.org/g8nwcf
   image: images/papers/10.11453581783.3612523.png
   plugin: sources.py
@@ -1081,7 +1081,7 @@
   - Jiasheng Wang
   publisher: IEEE Access
   date: '2020-01-01'
-  link: https://doi.org/10.1109/access.2020.3022718
+  link: https://doi.org/ghch7j
   image: images/papers/10.1109ACCESS.2020.3022718.png
   plugin: sources.py
   file: sources.yaml
