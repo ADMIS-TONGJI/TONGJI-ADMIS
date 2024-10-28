@@ -10,8 +10,8 @@
 - id: doi:10.1109/ACCESS.2024.3361672
   image: images/papers/10.1109ACCESS.2024.3361672.png
 
-- id: doi:10.48550/arXiv.2409.14483
-  image: images/papers/10.48550arXiv.2409.14483.png
+# - id: doi:10.48550arXiv.2409.14483
+#   image: images/papers/10.48550arXiv.2409.14483.png
 
 - id: doi:10.1109/TGRS.2024.3440912
   image: images/papers/10.1109TGRS.2024.3440912.png
@@ -28,8 +28,8 @@
 - id: doi:10.1145/3663573
   image: images/papers/10.11453663573.jpg
 
-- id: doi:10.48550/arXiv.2406.16708
-  image: images/papers/10.48550arXiv.2406.16708.png
+- id: doi:10.1109/TKDE.2024.3484461
+  image: images/papers/10.1109TKDE.2024.3484461.png
 
 - id: doi:10.1109/TCBB.2024.3434461
   image: images/papers/10.1109TCBB.2024.3434461.png
@@ -115,8 +115,8 @@
 - id: doi:10.1145/3581783.3612488
   image: images/papers/10.11453581783.3612488.png
 
-- id: doi:10.48550/arXiv.2308.09540
-  image: images/papers/10.48550arXiv.2308.09540.png
+- id: doi:10.1109/ICCV51070.2023.00630
+  image: images/papers/10.1109ICCV51070.2023.00630.png
 
 - id: doi:10.1093/bib/bbac018
   image: images/papers/10.1093bibbbac018.jpeg
@@ -148,8 +148,8 @@
 - id: doi:10.1049/cvi2.12137
   image: images/papers/10.1049cvi2.12137.jpg
 
-- id: doi:10.48550/arXiv.2204.11205
-  image: images/papers/10.48550arXiv.2204.11205.jpg
+- id: doi:10.18653/v1/2022.naacl-main.349
+  image: images/papers/10.18653v12022.naacl-main.349.jpg
 
 - id: doi:10.1145/3503161.3548412
   image: images/papers/10.11453503161.3548412.jpg

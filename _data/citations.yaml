@@ -60,20 +60,6 @@
   image: images/papers/10.1109ACCESS.2024.3361672.png
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.48550/arXiv.2409.14483
-  title: 'One Model for Two Tasks: Cooperatively Recognizing and Recovering Low-Resolution
-    Scene Text Images by Iterative Mutual Guidance'
-  authors:
-  - Minyi Zhao
-  - Yang Wang
-  - Jihong Guan
-  - Shuigeng Zhou
-  publisher: arXiv
-  date: '2024-01-01'
-  link: https://doi.org/g8nnbm
-  image: images/papers/10.48550arXiv.2409.14483.png
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1109/TGRS.2024.3440912
   title: Self-Supervised Spatiotemporal Imputation Model for Highly Sparse Chl-a Data
     via Fusing Multisource Satellite Data
@@ -149,7 +135,7 @@
   image: images/papers/10.11453663573.jpg
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.48550/arXiv.2406.16708
+- id: doi:10.1109/TKDE.2024.3484461
   title: 'CausalFormer: An Interpretable Transformer for Temporal Causal Discovery'
   authors:
   - Lingbai Kong
@@ -158,10 +144,10 @@
   - Yichao Zhang
   - Jihong Guan
   - Shuigeng Zhou
-  publisher: arXiv
+  publisher: IEEE Transactions on Knowledge and Data Engineering
   date: '2024-01-01'
-  link: https://doi.org/g8nnbv
-  image: images/papers/10.48550arXiv.2406.16708.png
+  link: https://doi.org/g8n8ph
+  image: images/papers/10.1109TKDE.2024.3484461.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TCBB.2024.3434461
@@ -569,7 +555,7 @@
   image: images/papers/10.11453581783.3612488.png
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.48550/arXiv.2308.09540
+- id: doi:10.1109/ICCV51070.2023.00630
   title: 'Meta-ZSDETR: Zero-shot DETR with Meta-learning'
   authors:
   - Lu Zhang
@@ -577,10 +563,10 @@
   - Jiajia Zhao
   - Jihong Guan
   - Shuigeng Zhou
-  publisher: arXiv
-  date: '2023-01-01'
-  link: https://doi.org/g8nwcj
-  image: images/papers/10.48550arXiv.2308.09540.png
+  publisher: 2023 IEEE/CVF International Conference on Computer Vision (ICCV)
+  date: '2023-10-01'
+  link: https://doi.org/g8n8pk
+  image: images/papers/10.1109ICCV51070.2023.00630.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/bib/bbac018
@@ -716,7 +702,7 @@
   image: images/papers/10.11171.JEI.31.3.033044.jpg
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.48550/arXiv.2204.11205
+- id: doi:10.18653/v1/2022.naacl-main.349
   title: 'EPiDA: An Easy Plug-in Data Augmentation Framework for High Performance
     Text Classification'
   authors:
@@ -726,10 +712,11 @@
   - Jiandong Ding
   - Jihong Guan
   - Shuigeng Zhou
-  publisher: arXiv
+  publisher: 'Proceedings of the 2022 Conference of the North American Chapter of
+    the Association for Computational Linguistics: Human Language Technologies'
   date: '2022-01-01'
-  link: https://doi.org/g8n443
-  image: images/papers/10.48550arXiv.2204.11205.jpg
+  link: https://doi.org/g8n8pm
+  image: images/papers/10.18653v12022.naacl-main.349.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3503161.3548412
