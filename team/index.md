@@ -11,37 +11,33 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: professor" %}
+{% include list.html data="members" component="portrait" filters="role: (?i)prof" %}
 
 ## 在读博士生/Doctoral candidate
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: professor" %}
+{% include list.html data="members" component="portrait" filters="role: (?i)prof" %}
 
 ## 在读硕士生/Master's candidate
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: professor" %}
+{% include list.html data="members" component="portrait" filters="role: (?i)prof" %}
 
 ## 博士毕业生/Doctoral graduate
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: professor" %}
+{% include list.html data="members" component="portrait" filters="role: (?i)prof" %}
 
 ## 硕士毕业生/Master's graduate
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: professor" %}
-
-
-<!-- {% include list.html data="members" component="portrait" filters="role: ^(?!professor$)" %} -->
+{% include list.html data="members" component="portrait" filters="role: (?i)prof" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
-
 
 {% include section.html %}
 
