@@ -1,11 +1,12 @@
 ---
 name: Wengen Li
 image: images/people/liwengen.jpg
-role: pi
+role: assocprof
 affiliation: Tongji University
 aliases:
   - W.G. Li
   - W. Li
+  - Wengen Li
 links:
   home-page: https://see.tongji.edu.cn/info/1386/12433.htm
   orcid: 0000-0002-8768-6740
@@ -25,13 +26,12 @@ Multi-modal data retrieval and analytics, spatio-temporal data analytics for hum
 - 城市交通状态规律性的量化及其因果关系研究，上海市浦江人才计划项目，2020/11-2022/10
 
 ### 课程教学/Teaching
-数据库系统原理: 2020~2024
-数据库系统原理课程设计：2021~2024
-数据科学导论: 2020~2024
-毕业实训：2020-2024
-机器学习算法与应用: 2021~2024
+- 数据库系统原理: 2020~2024
+- 数据库系统原理课程设计：2021~2024
+- 数据科学导论: 2020~2024
+- 毕业实训：2020-2024
+- 机器学习算法与应用: 2021~2024
 
 ### 学术服务/Academic Services
-Conference PC: AAAI(2023-2025), PAKDD(2022-2025)
-
-Journal Reviewer: IEEE Trans. on Knowledge and Data Engineering、ACM Computing Surveys、IEEE Trans. on Intelligent Transportation Systems、IEEE Internet of Things Journal、ACM Trans. on Cyber-Physical Systems、IEEE/ACM Trans. on Networking、软件学报、计算机科学. 
+- Conference PC: AAAI~(2023-2025), PAKDD~(2022-2025)
+- Journal Reviewer: IEEE Trans. on Knowledge and Data Engineering、ACM Computing Surveys、IEEE Trans. on Intelligent Transportation Systems、IEEE Internet of Things Journal、ACM Trans. on Cyber-Physical Systems、IEEE/ACM Trans. on Networking、软件学报、计算机科学. 
