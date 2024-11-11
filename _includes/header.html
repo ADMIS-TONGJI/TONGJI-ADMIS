@@ -6,6 +6,11 @@
 {% assign jpg = "images/logo.jpg" | file_exists %}
 {% assign logo = svg | default: png | default: jpg | default: nil %}
 
+{% assign svg_small = "images/logo_small.svg" | file_exists %}
+{% assign png_small = "images/logo_small.png" | file_exists %}
+{% assign jpg_small = "images/logo_small.jpg" | file_exists %}
+{% assign logo_small = svg_small | default: png_small | default: jpg_small | default: logo %}
+
 <header
   class="background"
   style="--image: url('{{ image }}')"
@@ -19,11 +24,20 @@
   <a href="{{ "/" | relative_url }}" class="home">
     {% if logo %}
       <span class="logo">
-        {% if svg %}
-          {{ svg | file_read }}
+        {% if page.url == "/" %}
+          {% if svg %}
+            {{ svg | file_read }}
+          {% else %}
+            <img src="{{ logo | relative_url }}" alt="logo">
+          {% endif %}
         {% else %}
-          <img src="{{ logo | relative_url }}" alt="logo">
+          {% if svg_small %}
+            {{ svg_small | file_read }}
+          {% else %}
+            <img src="{{ logo_small | relative_url }}" alt="logo_small">
+          {% endif %}
         {% endif %}
+        
       </span>
     {% endif %}
     {% if site.logo-text != false %}
