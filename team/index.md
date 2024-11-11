@@ -12,6 +12,7 @@ nav:
 
 ## 导师/Supervisor
 
+{% include list.html data="members" component="portrait" filters="role: (?i)prof" %}
 
 
 
