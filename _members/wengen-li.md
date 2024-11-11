@@ -1,6 +1,6 @@
 ---
 name: Wengen Li
-image: images/people/liwengen.jpg
+image: images/people/liwengen.jpeg
 role: assocprof
 affiliation: Tongji University
 aliases:
