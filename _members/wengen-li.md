@@ -11,8 +11,8 @@ links:
   orcid: 0000-0002-8768-6740
 ---
 
-## 个人简介/About Me
 Wengen Li received the B.Eng. degree and Ph.D. degree in Computer Science from Tongji University, Shanghai, China, in 2011 and 2017, respectively. In addition, he received a dual Ph.D. degree in Computer Science from the Hong Kong Polytechnic University in 2018. He is currently an associate professor of the Department of Computer Science and Technology at Tongji University. He is a member of China Computer Federation (CCF), a member of IEEE, and a member of ACM.
+
 
 ## 研究方向/Research Interests
 Multi-modal data retrieval and analytics, spatio-temporal data analytics for human mobility, urban dynamics and marine science.

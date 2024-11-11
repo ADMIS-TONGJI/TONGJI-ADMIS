@@ -2,9 +2,18 @@
 
 # team member roles
 
-pi:
-  icon: fa-solid fa-microscope
-  description: Principal Investigator
+prof:
+  icon: fa-solid fa-user-tie
+  description: Professor
+
+assocprof:
+  icon: fa-solid fa-chalkboard-teacher
+  description: Associate Professor
+  
+asstprof:
+  icon: fa-solid fa-user-edit
+  description: Assistant Professor
+  
 
 postdoc:
   icon: fa-solid fa-glasses
