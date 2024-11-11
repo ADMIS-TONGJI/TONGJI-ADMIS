@@ -12,7 +12,6 @@ nav:
 
 ## 导师/Supervisor
 
-{% include list.html data="members" component="portrait" filters="role: (?i)prof" %}
 
 
 
@@ -20,7 +19,6 @@ nav:
 
 ## 在读博士生/Doctoral candidate
 
-{% include list.html data="members" component="portrait" filters="role: (?i)prof" %}
 
 
 
@@ -28,7 +26,6 @@ nav:
 
 ## 在读硕士生/Master's candidate
 
-{% include list.html data="members" component="portrait" filters="role: (?i)prof" %}
 
 
 
@@ -36,12 +33,8 @@ nav:
 
 ## 博士毕业生/Doctoral graduate
 
-{% include list.html data="members" component="portrait" filters="role: (?i)prof" %}
-
 
 
 {% include section.html %}
 
 ## 硕士毕业生/Master's graduate
-
-{% include list.html data="members" component="portrait" filters="role: (?i)prof" %}
