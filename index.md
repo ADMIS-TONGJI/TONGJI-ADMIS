@@ -76,7 +76,7 @@ ADMIS团队重点研究多模态数据检索和多模态数据融合两大任务
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research/multimodal.jpg"
   title="多模态智能技术"
   text=text
 %}
