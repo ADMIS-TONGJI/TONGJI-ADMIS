@@ -25,11 +25,10 @@ We warmly invite students interested in the above research directions and passio
 {% include section.html %}
 
 ## 最新动态
-- 2024.9.12 xxxxxxxx
-- 2024.9.11 xxxxxxxx
-- 2024.9.10 xxxxxxxx
+<!-- - 2024.9.12 热烈祝贺实验室在读硕士研究生李辉的论文《》被《XXX》期刊接收！ -->
+- 2024.10.21 热烈祝贺实验室在读硕士研究生李辉的论文《STAD: Ship trajectory anomaly detection in ocean with dynamic pattern clustering》被《Ocean Engineering》期刊接收！
 
-see more
+<!-- see more -->
 
 ## 研究方向
 
