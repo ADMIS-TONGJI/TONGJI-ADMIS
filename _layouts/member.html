@@ -29,18 +29,18 @@ layout: default
 %}
 
 {% capture search -%}
-  publications/?search={% for alias in aliases %}"{{ alias }}" {% endfor %}
+  Publications/?search={% for alias in aliases %}"{{ alias }}" {% endfor %}
 {%- endcapture %}
 
 <p class="center">
   <a href="{{ search | relative_url }}">
-    Search for {{ page.name | default: page.title }}'s publications on the Research page
+    Search for {{ page.name | default: page.title }}'s publications on the Publications page
   </a>
 </p>
 
-{% capture search -%}
+<!-- {% capture search -%}
   blog/?search={{ page.name }}
-{%- endcapture %}
+{%- endcapture %} -->
 
 <!--
 <p class="center">
