@@ -28,6 +28,7 @@ nav:
 
 ## 在读硕士生/Master's candidate
 
+{% include list.html data="members" component="portrait" filters="role: master" %}
 
 
 
