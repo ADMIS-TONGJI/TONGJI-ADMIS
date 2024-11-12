@@ -30,7 +30,7 @@ Spatiotemporal Anomaly Detection
 #### 奖学金/Scholarships
 - 2023年 同济大学优秀学生
 - 2023年 同济大学华为奖学金
-- 
+
 #### 荣誉称号/Honors
 - 2020~2021学年 同济大学优秀学生干部
 
