@@ -20,6 +20,7 @@ nav:
 
 ## 在读博士生/Doctoral candidate
 
+{% include list.html data="members" component="portrait" filters="role: phd" %}
 
 
 
