@@ -44,7 +44,7 @@ We warmly invite students interested in the above research directions and passio
 
 {%
   include feature.html
-  image="images/research/bioinfo.png"
+  image="images/research/bioinfo.jpg"
   title="生物信息学"
   text=text
 %}
