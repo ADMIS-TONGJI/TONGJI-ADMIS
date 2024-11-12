@@ -1,6 +1,6 @@
 ---
 name: Han Peng
-image: images/people/penghan.jpeg
+image: images/people/penghan.jpg
 role: phd
 affiliation: Tongji University
 aliases:
@@ -8,11 +8,11 @@ aliases:
   - Han Peng
 links:
   orcid: 0000-0001-6519-8538
-  mail: penghan@tongji.edu.cn
+  email: penghan@tongji.edu.cn
 ---
 
 ### 个人简介/About Me
-Han Peng received the B.Eng. degree in Computer Science and Technology from Tongji University, Shanghai, China, in 2023. He is currently pursuing a Ph.D. degree at the Department of Computer Science and Technology, Tongji University. He is a student member of the China Computer Federation (CCF).
+Han Peng received the B.Eng. degree in Computer Science and Technology from Tongji University, Shanghai, China, in 2023. He is currently pursuing a Ph.D. degree at the Department of Computer Science and Technology, Tongji University, which he started in 2023 and is expected to complete in 2029. He is also a student member of the China Computer Federation (CCF).
 
 ### 研究方向/Research Interests
 Single-Cell Multi-Omics Sequencing Data Integration, Spatiotemporal Data Analysis, Marine Remote Sensing Data Mining and Prediction

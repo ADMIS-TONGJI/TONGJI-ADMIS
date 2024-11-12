@@ -1,6 +1,6 @@
 ---
 name: Yichao Zhang
-image: images/people/zhangyichao.jpeg
+image: images/people/zhangyichao.jpg
 role: assocprof
 affiliation: Tongji University
 aliases:
@@ -10,6 +10,7 @@ aliases:
 links:
   home-page: https://see.tongji.edu.cn/info/1388/10491.htm
   orcid: 0000-0002-9931-4733
+  email: yichaozhang@tongji.edu.cn
 ---
 
 ### 个人简介/About Me

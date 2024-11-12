@@ -1,6 +1,6 @@
 ---
 name: Wengen Li
-image: images/people/liwengen.jpeg
+image: images/people/liwengen.jpg
 role: assocprof
 affiliation: Tongji University
 aliases:
@@ -10,6 +10,7 @@ aliases:
 links:
   home-page: https://see.tongji.edu.cn/info/1386/12433.htm
   orcid: 0000-0002-8768-6740
+  email: lwengen@tongji.edu.cn
 ---
 
 ### 个人简介/About Me
