@@ -13,7 +13,6 @@ assocprof:
 asstprof:
   icon: fa-solid fa-user-edit
   description: Assistant Professor
-  
 
 postdoc:
   icon: fa-solid fa-glasses
@@ -23,9 +22,9 @@ phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
-undergrad:
+master:
   icon: fa-solid fa-user-graduate
-  description: Undergraduate Student
+  description: Master Student
 
 programmer:
   icon: fa-solid fa-code

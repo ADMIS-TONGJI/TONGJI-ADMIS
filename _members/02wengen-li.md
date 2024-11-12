@@ -18,7 +18,7 @@ Wengen Li received the B.Eng. degree and Ph.D. degree in Computer Science from T
 ### 研究方向/Research Interests
 Multi-modal data retrieval and analytics, spatio-temporal data analytics for human mobility, urban dynamics and marine science.
 
-### 主持项目/Projects
+### 参与项目/Projects
 - 融合多源稀疏时空数据的广域海面温度预测方法研究，国家自然科学基金青年基金，2023/01-2025/12
 - 面向上海城市容貌的公众情感态度研究，上海市科技创新行动计划软科学研究项目（青年项目），2022/03-2023/02
 - 面向情感分析的多模态数据融合技术研究，之江实验室开放课题，2021/12-2023/11
