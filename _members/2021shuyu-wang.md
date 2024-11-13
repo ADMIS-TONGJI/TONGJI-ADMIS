@@ -1,5 +1,5 @@
 ---
-name: Han Peng
+name: 王淑玉 (shuyu wang)
 image: images/people/wangshuyu.jpg
 role: phd
 affiliation: Tongji University

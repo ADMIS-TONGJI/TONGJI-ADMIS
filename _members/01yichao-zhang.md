@@ -1,5 +1,5 @@
 ---
-name: Yichao Zhang
+name: 张毅超 (Yichao Zhang)
 image: images/people/zhangyichao.jpg
 role: assocprof
 affiliation: Tongji University

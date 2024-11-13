@@ -1,5 +1,5 @@
 ---
-name: Chang Jin
+name: 金唱 (Chang Jin)
 image: images/people/jinchang.jpg
 role: master
 affiliation: Tongji University

@@ -1,5 +1,5 @@
 ---
-name: Han Peng
+name: 彭瀚 (Han Peng)
 image: images/people/penghan.jpg
 role: phd
 affiliation: Tongji University
