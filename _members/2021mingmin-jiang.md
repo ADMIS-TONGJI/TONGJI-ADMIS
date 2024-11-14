@@ -1,6 +1,6 @@
 ---
 name: 蒋明敏 (Mingmin Jiang)
-image: images/people/2021mingmin-jiang.jpg
+image: images/people/jiangmingmin.jpg
 role: phd
 affiliation: Tongji University
 aliases:
