@@ -1,6 +1,6 @@
 ---
 name: 王泽鉴 (Zejian Wang)
-image: images/people/wangzejian.jpg
+image: images/people/wangzejian.png
 role: master
 affiliation: Tongji University
 aliases:
