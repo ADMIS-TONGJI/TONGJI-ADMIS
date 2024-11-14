@@ -2,7 +2,7 @@
 name: 孔令百 (Lingbai Kong)
 image: images/people/konglingbai.jpg
 role: master
-affiliation: Tongji University
+
 aliases:
   - L. Kong
   - L.B. Kong

@@ -2,7 +2,7 @@
 name: 郭思远 (Siyuan Guo)
 image: images/people/guosiyuan.jpg
 role: phd
-affiliation: Tongji University
+
 aliases:
   - S. Guo
   - Siyuan Guo

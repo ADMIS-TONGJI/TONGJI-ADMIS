@@ -2,7 +2,7 @@
 name: 杨玥 (Yue Yang)
 image: images/people/yangyue.jpg
 role: phd
-affiliation: Tongji University
+
 aliases:
   - Y. Yang
   - Yue Yang

@@ -2,7 +2,7 @@
 name: 宋子涵 (Zihan Song)
 image: images/people/songzihan.jpg
 role: master
-affiliation: Tongji University
+
 aliases:
   - Z. Song
   - Z.H. Song

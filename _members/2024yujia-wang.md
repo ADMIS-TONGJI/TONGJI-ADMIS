@@ -2,7 +2,7 @@
 name: 王语嘉 (Yujia Wang)
 image: images/people/wangyujia.jpg
 role: master
-affiliation: Tongji University
+
 aliases:
   - Y. Wang
   - Y.J. Wang

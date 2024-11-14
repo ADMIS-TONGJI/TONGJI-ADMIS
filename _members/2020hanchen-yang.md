@@ -2,7 +2,7 @@
 name: 杨涵晨 (Hanchen YANG)
 image: images/people/yanghanchen.jpg
 role: phd
-affiliation: Tongji University
+
 aliases:
   - H. Yang
   - H.C. Yang

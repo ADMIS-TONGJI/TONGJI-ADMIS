@@ -2,7 +2,7 @@
 name: 王家祺 (Wang Jiaqi)
 image: images/people/wangjiaqi.jpg
 role: phd
-affiliation: Tongji University
+
 aliases:
   - J. Wang
   - J.Q. Wang

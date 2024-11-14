@@ -2,7 +2,7 @@
 name: 曾云驰 (Yunchi Zeng)
 image: images/people/zengyunchi.jpg
 role: master
-affiliation: Tongji University
+
 aliases:
   - Y. Zeng
   - Y.C. Zeng

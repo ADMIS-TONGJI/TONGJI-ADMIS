@@ -2,7 +2,7 @@
 name: 张铭锐 (Mingrui Zhang)
 image: images/people/zhangmingrui.jpg
 role: master
-affiliation: Tongji University
+
 aliases:
   - M.R. Zhang
   - Mingrui Zhang

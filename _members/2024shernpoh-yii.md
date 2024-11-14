@@ -2,7 +2,7 @@
 name: 俞舜宝 (Yii Shern Poh)
 image: images/people/yiishernpoh.jpg
 role: master
-affiliation: Tongji University
+
 aliases:
   - Yii Shern Poh
   - Shern Poh Yii

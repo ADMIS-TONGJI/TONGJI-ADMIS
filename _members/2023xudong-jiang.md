@@ -2,7 +2,7 @@
 name: 蒋旭东 (Xudong Jiang)
 image: images/people/jiangxudong.jpg
 role: master
-affiliation: Tongji University
+
 aliases:
   - X. Jiang
   - X.D. Jiang

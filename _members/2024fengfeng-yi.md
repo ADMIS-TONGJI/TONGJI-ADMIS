@@ -2,7 +2,7 @@
 name: 宜锋锋 (Fengfeng Yi)
 image: images/people/yifengfeng.jpg
 role: master
-affiliation: Tongji University
+
 aliases:
   - F. Yi
   - F.F. Yi

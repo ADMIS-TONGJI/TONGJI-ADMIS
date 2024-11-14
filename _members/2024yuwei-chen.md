@@ -2,7 +2,7 @@
 name: 陈雨微 (Yuwei Chen)
 image: images/people/chenyuwei.jpg
 role: master
-affiliation: Tongji University
+
 aliases:
   - Y. Chen
   - Y.W. Chen

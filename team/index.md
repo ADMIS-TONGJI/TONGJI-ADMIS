@@ -10,10 +10,9 @@ nav:
 
 {% include section.html %}
 
-## 导师/Supervisor
+## 研究人员/Researchers
 
-{% include list.html data="members" component="portrait" filters="role: (?i)prof" %}
-
+{% include list.html data="members" component="portrait" filters="role: (?i)(prof|postdoc)" %}
 
 
 {% include section.html %}

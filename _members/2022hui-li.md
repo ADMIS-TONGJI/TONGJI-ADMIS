@@ -2,7 +2,7 @@
 name: 李辉 (Hui Li)
 image: images/people/lihui.jpg
 role: master
-affiliation: Tongji University
+
 aliases:
   - H. Li
   - Hui Li

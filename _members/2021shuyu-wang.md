@@ -2,7 +2,7 @@
 name: 王淑玉 (Shuyu Wang)
 image: images/people/wangshuyu.jpg
 role: phd
-affiliation: Tongji University
+
 aliases:
   - S. Wang
   - S.Y. Wang

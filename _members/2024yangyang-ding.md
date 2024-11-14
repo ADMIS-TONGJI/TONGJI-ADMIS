@@ -2,7 +2,7 @@
 name: 丁洋洋 (Yangyang Ding)
 image: images/people/dingyangyang.jpg
 role: master
-affiliation: Tongji University
+
 aliases:
   - Y.Y. Ding
   - Y. Ding
