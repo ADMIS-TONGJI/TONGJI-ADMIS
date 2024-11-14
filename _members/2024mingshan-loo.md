@@ -1,6 +1,6 @@
 ---
 name: 卢明珊 (LOO MING SHAN)
-image: images/people/loomingshan.png
+image: images/people/loomingshan.jpg
 role: master
 affiliation: Tongji University
 aliases:
