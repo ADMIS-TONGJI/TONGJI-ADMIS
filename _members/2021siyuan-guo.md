@@ -1,5 +1,5 @@
 ---
-name: Siyuan Guo
+name: 郭思远 (Siyuan Guo)
 image: images/people/guosiyuan.jpg
 role: phd
 affiliation: Tongji University
@@ -15,7 +15,7 @@ links:
 Siyuan Guo received the B.Eng. degree in Computer Science and Technology from Tongji University, Shanghai, China, in 2021. She is currently pursuing a Ph.D. degree at the Department of Computer Science and Technology, Tongji University, which he started in 2021 and is expected to complete in 2027. She is also a student member of the China Computer Federation (CCF).
 
 ### 研究方向/Research Interests
-Single-Cell Multi-Omics Sequencing Data Integration, Spatiotemporal Data Analysis, Marine Remote Sensing Data Mining and Prediction
+Bioinformatics, AI-driven drug design and discovery, AI4S
 
 ### 参与项目/Projects
 - 国家自然科学基金面上项目，62372326，药物分子性质预测的新方法研究，2023/01-至今。
@@ -34,14 +34,11 @@ Single-Cell Multi-Omics Sequencing Data Integration, Spatiotemporal Data Analysi
 - 2023年 同济大学博士生新生奖学金
 - 2021~2022学年 同济大学社会活动奖学金
 
-  
 ##### 荣誉称号/Honors
 - 2021年 同济大学优秀本科毕业生
 - 2019~2020学年 同济大学优秀学生干部
 
-  
 ##### 学科竞赛/Competitions
--
 - 2020年 美国数学建模比赛 M奖
 - 2019年 同济大学数学建模比赛 一等奖
 

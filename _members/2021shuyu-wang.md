@@ -4,7 +4,8 @@ image: images/people/wangshuyu.jpg
 role: phd
 affiliation: Tongji University
 aliases:
-  - SY. Wang
+  - S. Wang
+  - S.Y. Wang
   - Shuyu Wang
 links:
   orcid: 0000-0003-4731-6443
