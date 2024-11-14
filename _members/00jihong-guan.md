@@ -9,7 +9,7 @@ aliases:
   - Jihong Guan
 links:
   home-page: https://see.tongji.edu.cn/info/1376/10297.htm
-  orcid: 0000−0003−2313−7635
+  orcid: 0000-0003-2313-7635
   google-scholar: N2xsxV8AAAAJ
   email: jhguan@tongji.edu.cn
 ---

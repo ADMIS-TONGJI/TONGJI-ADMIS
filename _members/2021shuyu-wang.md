@@ -1,5 +1,5 @@
 ---
-name: 王淑玉 (shuyu wang)
+name: 王淑玉 (Shuyu Wang)
 image: images/people/wangshuyu.jpg
 role: phd
 affiliation: Tongji University
