@@ -1,13 +1,12 @@
 ---
 name: 蔡涵 (Han Cai)
-image: 
+image: images/people/caihan.jpg
 role: phd
-affiliation: Tongji University
+
 aliases:
   - H. Cai
   - Han Cai
 links:
-  orcid: 
   email: caihan@tongji.edu.cn
 ---
 
@@ -24,7 +23,6 @@ Multimodal data fusion,Spatio-temporal data analysis and deep learning, Link and
 - 厦门集运VR如心数字党建云展厅，2023。
 - 厦门集运智能客服、供应链控制台、RPA数字员工、数字看板等数字化供应链体系  2021-至今。
 
-
 ### 个人简历/Personal Resume
 - 2024~至今  同济大学 计算机与智能技术专业 博士在读
 - 2024~至今  厦门中远海运集运  资讯发展部  副总经理
@@ -35,6 +33,5 @@ Multimodal data fusion,Spatio-temporal data analysis and deep learning, Link and
 - 2023年 厦门中远海运集运优秀党务工作者
 - 2018年 厦门中远海运集运优秀党员
 - 2016年 中国远洋海运集团 优秀团干部
-
 
 ### 代表性论文/Publications
