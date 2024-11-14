@@ -18,7 +18,7 @@ Chang Jin received the B.Eng. degree in Computer Science and Technology from Ton
 Drug Molecular Property Prediction, Spatiotemporal Data Analysis, Large Language Models
 
 ### 参与项目/Projects
-- 国家自然科学基金委，62372326，药物分子性质预测的新方法研究，2024/01-至今。 
+- 国家自然科学基金委，62372326，药物分子性质预测的新方法研究，2023/01-至今。 
 - 科技部重点研发计划，2021YFC3300304，基层社会治理事件分拨平台与全周期管理研究(课题)，2021/12-至今。
 - 海洋交叉重点项目，ZD-21-202101，长江口海洋环境与灾害智能监测与应用研究，2021/08-2023/07。
 
