@@ -22,7 +22,7 @@ Knowledge Graph, Inductive Link Prediction
 
 ### 教育经历/Educational Background
 - 2020~2024 同济大学 地质工程专业 本科/学士
-- 2023~至今 同济大学 电子信息 研究生/硕士在读
+- 2024~至今 同济大学 电子信息 研究生/硕士在读
 
 ### 所获奖项/Awards
 

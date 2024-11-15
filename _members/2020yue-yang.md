@@ -23,7 +23,7 @@ Social data Analysis and Data Mining, User Alignment across networks, Spatiotemp
 
 ### 教育经历/Educational Background
 - 2013~2017 天津师范大学 物联网工程专业 本科/学士
-- 2027~2020 北京工业大学 软件工程专业 研究生/硕士
+- 2017~2020 北京工业大学 软件工程专业 研究生/硕士
 - 2020~至今 同济大学 电子信息专业 研究生/博士在读
 
 ### 所获奖项/Awards

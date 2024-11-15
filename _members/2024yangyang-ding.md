@@ -17,6 +17,9 @@ Yangyang Ding received the B.Eng. degree in Computer Science and Technology from
 ### 研究方向/Research Interests
 Multi-modal knowledge graph completion
 
+### 参与项目/Projects
+- 江苏畅远信息科技有限公司，知识图谱自动构建与智能问答项目，2024/07-至今
+
 ### 教育经历/Educational Background
 - 2020~2024 河海大学大学 计算机科学与技术专业 本科/学士
 - 2024~至今 同济大学 计算机科学与技术专业 研究生在读
