@@ -1,4 +1,3 @@
-
 ---
 name: 蔡依芳 (Yifang Cai)
 image: images/people/caiyifang.jpg
