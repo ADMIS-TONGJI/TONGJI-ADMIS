@@ -4,6 +4,7 @@ image: images/people/guanjihong.jpg
 role: prof
 
 aliases:
+  - J. GUAN
   - J.H. Guan
   - J. Guan
   - Jihong Guan
