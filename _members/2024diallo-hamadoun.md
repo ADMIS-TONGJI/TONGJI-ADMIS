@@ -14,7 +14,8 @@ links:
 Diallo Hamadoun received the B.Eng. degree in Computer Science and Technology from ESGIC Mali in 2022. He is currently pursuing a Master’s degree in the Department of Computer Science and Technology at Tongji University, Shanghai, China, which he started in 2024 and is expected to complete in 2027. Prior to his master's studies, he completed a one-year Mandarin program at the International College of Tongji University in 2024.
 
 ### 教育经历/Educational Background
-- 2019~2022 ESGIC MALI BACHELOR COMPUTER SCIENCE AND TECHNOLOGY 本科/学士
+- 2013~2014 USSG-B 经济与管理 本科/学士
+- 2019~2022 ESGIC MALI 计算机科学与技术 本科/学士
 - 2023~2024 同济大学 国际交流学院 语言预科班
 - 2024~至今 同济大学 计算机科学与技术 研究生/硕士在读
 
