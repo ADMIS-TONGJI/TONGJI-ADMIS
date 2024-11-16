@@ -1,5 +1,5 @@
 ---
-name: 卢明珊 (LOO MING SHAN)
+name: 卢明珊 (Loo Ming Shan)
 image: images/people/loomingshan.jpg
 role: master
 

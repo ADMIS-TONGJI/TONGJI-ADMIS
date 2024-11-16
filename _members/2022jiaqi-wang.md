@@ -1,5 +1,5 @@
 ---
-name: 王家祺 (Wang Jiaqi)
+name: 王家祺 (Jiaqi Wang)
 image: images/people/wangjiaqi.jpg
 role: phd
 

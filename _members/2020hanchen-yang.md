@@ -1,5 +1,5 @@
 ---
-name: 杨涵晨 (Hanchen YANG)
+name: 杨涵晨 (Hanchen Yang)
 image: images/people/yanghanchen.jpg
 role: phd
 
