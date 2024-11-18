@@ -2,7 +2,7 @@
 name: 关佶红 (Jihong Guan)
 image: images/people/guanjihong.jpg
 role: prof
-
+affiliation: Tongji University
 aliases:
   - J. GUAN
   - J.H. Guan
