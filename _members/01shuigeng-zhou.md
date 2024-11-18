@@ -13,7 +13,6 @@ links:
   orcid: 0000-0002-1949-2768
   google-scholar: yAE-Av4AAAAJ
   email: sgzhou@fudan.edu.cn
-
 ---
 
 ### 个人简介/About Me
@@ -43,7 +42,6 @@ Shuigeng Zhou received his Bachelor Degree of Engineering from Huazhong Universi
   - Optimal trade execution
   - Fraud detection
 
-### 如需详细信息，请访问[https://admis.fudan.edu.cn/sgzhou/](https://admis.fudan.edu.cn/sgzhou/)。
-### For detailed information, please visit [https://admis.fudan.edu.cn/sgzhou/](https://admis.fudan.edu.cn/sgzhou/).
+**更多详细信息请访问/For more detailed information, please visit:** [https://admis.fudan.edu.cn/sgzhou/](https://admis.fudan.edu.cn/sgzhou/)。
 
 ### 代表性论文/Publications
