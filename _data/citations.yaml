@@ -3170,3 +3170,82 @@
   image: images/papers/10.11861471-2105-10-426.png
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1145/3511808.3557549
+  title: An Extreme Semi-supervised Framework Based on Transformer for Network Intrusion
+    Detection
+  authors:
+  - Yangmin Li
+  - Xinhang Yuan
+  - Wengen Li
+  publisher: Proceedings of the 31st ACM International Conference on Information &amp;
+    Knowledge Management
+  date: '2022-10-17'
+  link: https://doi.org/g8rcf7
+  image: images/papers/10.11453511808.3557549.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TBDATA.2020.2988273
+  title: 'IRDA: Incremental Reinforcement Learning for Dynamic Resource Allocation'
+  authors:
+  - Jia Wang
+  - Jiannong Cao
+  - Senzhang Wang
+  - Zhongyu Yao
+  - Wengen Li
+  publisher: IEEE Transactions on Big Data
+  date: '2022-06-01'
+  link: https://doi.org/gmgg9w
+  image: images/papers/10.1109TBDATA.2020.2988273.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TSC.2019.2941680
+  title: A Novel Demand Dispatching Model for Autonomous On-Demand Services
+  authors:
+  - Lei Yang
+  - Xi Yu
+  - Jiannong Cao
+  - Wengen Li
+  - Yuqi Wang
+  - Michal Szczecinski
+  publisher: IEEE Transactions on Services Computing
+  date: '2022-01-01'
+  link: https://doi.org/g8rcf8
+  image: images/papers/10.1109TSC.2019.2941680.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3340531.3412076
+  title: Recursive Balanced k-Subset Sum Partition for Rule-constrained Resource Allocation
+  authors:
+  - Zhuo Li
+  - Jiannong Cao
+  - Zhongyu Yao
+  - Wengen Li
+  - Yu Yang
+  - Jia Wang
+  publisher: Proceedings of the 29th ACM International Conference on Information &amp;
+    Knowledge Management
+  date: '2020-10-19'
+  link: https://doi.org/g8rcf9
+  image: images/papers/10.11453340531.3412076.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-030-59419-0_48
+  title: "BigARM: A Big-Data-Driven Airport Resource Management Engine and\_Application\
+    \ Tools"
+  authors:
+  - Ka Ho Wong
+  - Jiannong Cao
+  - Yu Yang
+  - Wengen Li
+  - Jia Wang
+  - Zhongyu Yao
+  - Suyan Xu
+  - Esther Ahn Chian Ku
+  - Chun On Wong
+  - David Leung
+  publisher: Lecture Notes in Computer Science
+  date: '2020-01-01'
+  link: https://doi.org/g8rcgb
+  image: images/papers/10.1007978-3-030-59419-0_48.png
+  plugin: sources.py
+  file: sources.yaml
