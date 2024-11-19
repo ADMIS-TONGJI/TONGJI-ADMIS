@@ -3249,3 +3249,63 @@
   image: images/papers/10.1007978-3-030-59419-0_48.png
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1080/13658816.2018.1520236
+  title: An empirical study on the intra-urban goods movement patterns using logistics
+    big data
+  authors:
+  - Pengxiang Zhao
+  - Xintao Liu
+  - Wenzhong Shi
+  - Tao Jia
+  - Wengen Li
+  - Min Chen
+  publisher: International Journal of Geographical Information Science
+  date: '2018-09-20'
+  link: https://doi.org/gfc8jq
+  image: images/papers/10.108013658816.2018.1520236.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.pmcj.2017.03.015
+  title: Exploring traffic congestion correlation from multiple data sources
+  authors:
+  - Yuqi Wang
+  - Jiannong Cao
+  - Wengen Li
+  - Tao Gu
+  - Wenzhong Shi
+  publisher: Pervasive and Mobile Computing
+  date: '2017-10-01'
+  link: https://doi.org/gch47d
+  image: images/papers/10.1016j.pmcj.2017.03.015.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3132847.3132948
+  title: Coupled Sparse Matrix Factorization for Response Time Prediction in Logistics
+    Services
+  authors:
+  - Yuqi Wang
+  - Jiannong Cao
+  - Lifang He
+  - Wengen Li
+  - Lichao Sun
+  - Philip S. Yu
+  publisher: Proceedings of the 2017 ACM on Conference on Information and Knowledge
+    Management
+  date: '2017-11-06'
+  link: https://doi.org/g8rfzg
+  image: images/papers/10.11453132847.3132948.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/SMARTCOMP.2016.7501704
+  title: Mining Traffic Congestion Correlation between Road Segments on GPS Trajectories
+  authors:
+  - Yuqi Wang
+  - Jiannong Cao
+  - Wengen Li
+  - Tao Gu
+  publisher: 2016 IEEE International Conference on Smart Computing (SMARTCOMP)
+  date: '2016-05-01'
+  link: https://doi.org/g8rfzh
+  image: images/papers/10.1109SMARTCOMP.2016.7501704.png
+  plugin: sources.py
+  file: sources.yaml
