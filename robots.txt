@@ -1,1 +1,1 @@
-Sitemap: https://admis-tongji.github.io/TONGJI-ADMIS/sitemap.xml
+Sitemap: https://admis-tongji.github.io/sitemap.xml
