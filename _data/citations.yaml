@@ -29,7 +29,7 @@
   - Jihong Guan
   - Shuigeng Zhou
   publisher: IEEE Transactions on Affective Computing
-  date: '2024-01-01'
+  date: '2024-10-01'
   link: https://doi.org/g8nm62
   image: images/papers/10.1109TAFFC.2024.3396144.png
   plugin: sources.py
@@ -3307,5 +3307,37 @@
   date: '2016-05-01'
   link: https://doi.org/g8rfzh
   image: images/papers/10.1109SMARTCOMP.2016.7501704.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TNSE.2024.3481434
+  title: Limitation of Time Promotes Cooperation in Structured Collaboration Systems
+  authors:
+  - Yichao Zhang
+  - Jiasheng Wang
+  - Guanghui Wen
+  - Jihong Guan
+  - Shuigeng Zhou
+  - Guanrong Chen
+  - Krishnendu Chatterjee
+  - "Matja\u017E Perc"
+  publisher: IEEE Transactions on Network Science and Engineering
+  date: '2024-01-01'
+  link: https://doi.org/g8tbvq
+  image: images/papers/10.1109TNSE.2024.3481434.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.oceaneng.2024.119530
+  title: 'STAD: Ship trajectory anomaly detection in ocean with dynamic pattern clustering'
+  authors:
+  - Hui Li
+  - Wengen Li
+  - Shuyu Wang
+  - Hanchen Yang
+  - Jihong Guan
+  - Yichao Zhang
+  publisher: Ocean Engineering
+  date: '2024-12-01'
+  link: https://doi.org/g8tbvr
+  image: images/papers/10.1016j.oceaneng.2024.119530.jpg
   plugin: sources.py
   file: sources.yaml
