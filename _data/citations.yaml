@@ -3250,6 +3250,18 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1080/13658816.2018.1520236
+  title: An empirical study on the intra-urban goods movement patterns using logistics
+    big data
+  authors:
+  - Pengxiang Zhao
+  - Xintao Liu
+  - Wenzhong Shi
+  - Tao Jia
+  - Wengen Li
+  - Min Chen
+  publisher: International Journal of Geographical Information Science
+  date: '2018-09-20'
+  link: https://doi.org/gfc8jq
   image: images/papers/10.108013658816.2018.1520236.png
   plugin: sources.py
   file: sources.yaml
@@ -3285,6 +3297,15 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/SMARTCOMP.2016.7501704
+  title: Mining Traffic Congestion Correlation between Road Segments on GPS Trajectories
+  authors:
+  - Yuqi Wang
+  - Jiannong Cao
+  - Wengen Li
+  - Tao Gu
+  publisher: 2016 IEEE International Conference on Smart Computing (SMARTCOMP)
+  date: '2016-05-01'
+  link: https://doi.org/g8rfzh
   image: images/papers/10.1109SMARTCOMP.2016.7501704.png
   plugin: sources.py
   file: sources.yaml
@@ -3318,5 +3339,15 @@
   date: '2024-12-01'
   link: https://doi.org/g8tbvr
   image: images/papers/10.1016j.oceaneng.2024.119530.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TGRS.2024.3506058
+  title: 'UniOcean: A Unified Framework for Predicting Multiple Ocean Factors of Varying
+    Temporal Scales | IEEE Journals & Magazine | IEEE Xplore'
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://doi.org/g8tthj
+  image: images/papers/10.1109TGRS.2024.3506058.jpg
   plugin: sources.py
   file: sources.yaml
