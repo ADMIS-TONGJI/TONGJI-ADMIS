@@ -25,7 +25,44 @@ We warmly invite students interested in the above research directions and passio
 {% include section.html %}
 
 ## 最新动态
-{% include list.html data="posts" component="post-excerpt" %}
+{% assign recent_news = site.posts | sort: "date" | reverse | slice: 0 %}
+{% for news in recent_news %}
+  {%
+    include post-excerpt.html
+    affiliation=news.affiliation
+    author=news.author
+    authors=news.authors
+    buttons=news.buttons
+    caption=news.caption
+    content=news.content
+    date=news.date
+    description=news.description
+    excerpt=news.excerpt
+    height=news.height
+    icon=news.icon
+    id=news.id
+    image=news.image
+    last_modified_at=news.last_modified_at
+    link=news.link
+    lookup=news.lookup
+    name=news.name
+    publisher=news.publisher
+    repo=news.repo
+    role=news.role
+    slug=news.slug
+    style=news.style
+    subtitle=news.subtitle
+    tags=news.tags
+    text=news.text
+    title=news.title
+    tooltip=news.tooltip
+    type=news.type
+    url=news.url
+    width=news.width
+  %}
+{% endfor %}
+
+**<a href='./news'>See more...</a>**
 
 ## 研究方向
 
