@@ -3343,10 +3343,19 @@
   file: sources.yaml
 - id: doi:10.1109/TGRS.2024.3506058
   title: 'UniOcean: A Unified Framework for Predicting Multiple Ocean Factors of Varying
-    Temporal Scales | IEEE Journals & Magazine | IEEE Xplore'
-  authors: []
-  publisher: ''
-  date: ''
+    Temporal Scales'
+  authors:
+  - Hanchen Yang
+  - Yuwei Chen
+  - Jiannong Cao
+  - Wengen Li
+  - Yu Yang
+  - Shuyu Wang
+  - Jihong Guan
+  - Rufu Qin
+  - Shuigeng Zhou
+  publisher: IEEE Transactions on Geoscience and Remote Sensing
+  date: '2024-01-01'
   link: https://doi.org/g8tthj
   image: images/papers/10.1109TGRS.2024.3506058.jpg
   plugin: sources.py
