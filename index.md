@@ -25,7 +25,7 @@ We warmly invite students interested in the above research directions and passio
 {% include section.html %}
 
 ## 最新动态
-{% assign recent_news = site.posts | sort: "date" | reverse | slice: slice: 0, 2 %}
+{% assign recent_news = site.posts | sort: "date" | reverse | slice: 0, 3 %}
 {% for news in recent_news %}
   {%
     include post-excerpt.html
