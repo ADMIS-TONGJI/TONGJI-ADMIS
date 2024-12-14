@@ -1,93 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://admis-tongji.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://admis-tongji.github.io/" rel="alternate" type="text/html" /><updated>2024-12-14T07:45:03+00:00</updated><id>https://admis-tongji.github.io/feed.xml</id><title type="html">同济大学ADMIS实验室</title><entry><title type="html">有限时间资源促进有结构协作系统的合作</title><link href="https://admis-tongji.github.io/2024/12/09/1.html" rel="alternate" type="text/html" title="有限时间资源促进有结构协作系统的合作" /><published>2024-12-09T00:00:00+00:00</published><updated>2024-12-14T07:39:05+00:00</updated><id>https://admis-tongji.github.io/2024/12/09/1</id><content type="html" xml:base="https://admis-tongji.github.io/2024/12/09/1.html"><![CDATA[<p>在复杂多变的协作系统（例如联合申报项目或组队完成任务）中，如何有效地促进个体间的合作是一个值得深入探讨的挑战性问题。《IEEE Transactions on Network Science and Engineering》最新发表的研究论文“Limitation of Time Promotes Cooperation in Structured Collaboration Systems”为我们提供了新的洞见。该研究通过构建一个时序博弈框架，深入分析了有限协作时间对个体合作行为的影响，并在大规模实证实验中验证了理论模型预测的准确性。研究发现，当协作时间对每个个体都同样是有限时，系统整体的合作水平将得到显著提升。</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://admis-tongji.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://admis-tongji.github.io/" rel="alternate" type="text/html" /><updated>2024-12-14T08:41:51+00:00</updated><id>https://admis-tongji.github.io/feed.xml</id><title type="html">同济大学ADMIS实验室</title><entry><title type="html">张毅超教授发表在TNSE上的论文被报道</title><link href="https://admis-tongji.github.io/2024/12/09/1.html" rel="alternate" type="text/html" title="张毅超教授发表在TNSE上的论文被报道" /><published>2024-12-09T00:00:00+00:00</published><updated>2024-12-14T08:37:18+00:00</updated><id>https://admis-tongji.github.io/2024/12/09/1</id><content type="html" xml:base="https://admis-tongji.github.io/2024/12/09/1.html"><![CDATA[<p>在复杂多变的协作系统（例如联合申报项目或组队完成任务）中，如何有效地促进个体间的合作是一个值得深入探讨的挑战性问题。张毅超教授及其团队在《IEEE Transactions on Network Science and Engineering》最新发表的研究论文“Limitation of Time Promotes Cooperation in Structured Collaboration Systems”为我们提供了新的洞见。</p>
 
-<p><strong>关键词：</strong> 非合作博弈，时序网络，时间限制与合作行为</p>
-
-<p>同济大学的张毅超教授及其团队在最新研究[1]中发现，当个体的互动和决策时间受到限制时，群体的合作水平会得到提升。这一理论发现不仅在模拟实验中得到验证，还在超过1400名志愿者参与的系统性实验中得到证实，为真实协作网络中高合作水平的存在提供了理论支持。</p>
-
-<p>该研究首先构建了一个时序博弈框架，将理性个体间的互动嵌入到含时二人博弈（two-players game）中。基于这一框架，研究者能够研究含时互动的复杂性和可变性，以及这些因素如何影响社会行为。研究发现，在时间受限的情况下，个体更倾向于合作，这一趋势在基于Barabasi and Albert (BA) 无标度和Watts and Strogatz (WS) 小世界网络模型的模拟中得到了验证。</p>
-
-<p>为了在人类协作系统中验证这一理论推断，研究进一步通过在线博弈平台“War of Strategies”进行验证。实验分为预设结构和自组织两种模式。在预设结构模式下，被试者会被放置在预先生成的网络结构中进行囚徒困境博弈；在自组织模式下，被测试者有一分钟时间来完成交友活动；比赛开始后，协作网络结构将被冻结。在每种模式下，平台分别开设了含时与不含时两种博弈场景。在含时场景中，每位被试者的协作时间相同且有限；在不含时场景中，每位被试者在一轮中可以跟任意多好友博弈，只要对方接受博弈请求。</p>
-
-<p>结果显示，在含时场景下，参与者的合作比例显著高于无时间限制的不含时场景。</p>
-
-<p>该研究的重要性在于，它不仅揭示了人类合作的一个重要激励因素，还为设计更有效的合作机制提供了理论支持。在现实世界中，无论是项目管理、团队合作还是社交活动，时间限制都是一个不可忽视的因素。理解时间限制如何影响合作行为，可以帮助我们设计更好的协作策略，提高协作效率。</p>
-
-<h2 id="时序博弈框架">时序博弈框架</h2>
-
-<p>该研究提出的时序博弈模型基于[1,2]中提出的分治博弈框架，并在设计之时考虑了时间资源，给博弈者之间的交互行为（合作或背叛）分配一定的持续时间。在一轮博弈中，个体的总协作时间被设定为一个常数，与现实协作场景保持一致。假设玩家与不同玩家的交互作用是独立的。玩家 $i$ 和 $j$ 之间的博弈收益被形式化定义为：</p>
-
-<p>$$
-s_{i,j} = \Omega_{i,j}^T 
-\left( 
-\begin{matrix}
-R &amp; S \cr
-T &amp; P
-\end{matrix}
-\right)
-\Omega_{j,i}
-$$</p>
-
-<p>其中，$\Omega_{i,j} = 
-\begin{pmatrix}
-X_{i,j} \cr
-1 - X_{i,j}
-\end{pmatrix}$，$X_{i,j} \in {0, 1}$，取值为 1 表示玩家 $i$ 选择与玩家 $j$ 合作（C），取值为 0 表示玩家 $i$ 选择背叛玩家 $j$（D）；$R$ 表示互相合作的奖励（C-C），$T$ 表示背叛合作者的奖励（D-C），$S$ 表示与背叛者合作的收益（C-D），$P$ 表示互相背叛的收益（D-D）。</p>
-
-<p>在一轮博弈中，个体i的整体收益定义为：</p>
-
-<p>$$
-\Lambda_i = \sum_{j \in N_i} \frac{\tau_{i,j}}{\mathfrak{T}} \times s_{i,j}
-$$</p>
-
-<p>其中，$N_i$ 表示个体 $i$ 的邻居集合，$\tau_{i,j}$ 表示个体 $i$ 与个体 $j$ 交互（C/D）的时间，满足 $\sum_{j \in N_i} \tau_{i,j} \leq \mathfrak{T}$，此外，用 $\mathfrak{T}$ 表示个体每一轮博弈拥有的总时间资源，为一个设定的常数。</p>
-
-<center>
-<img src="/images/news/2024-12-09-1/1.png" alt="图1：时序博弈框架示意图。子图A显示的是一轮五个人之间的博弈。其中，$\mathfrak{T}$=24,R=3,S=0,T=5,P=1。" width="75%" />
-<br />
-<small style="color: gray;">图1：时序博弈框架示意图。子图A显示的是一轮五个人之间的博弈。其中，$\mathfrak{T}$=24,R=3,S=0,T=5,P=1。</small>
-</center>
-
-<center>
-<img src="/images/news/2024-12-09-1/2.png" alt="图2：协作系统的时序博弈示意图。" width="75%" />
-<br />
-<small style="color: gray;">图2：协作系统的时序博弈示意图。</small>
-</center>
-
-<p>图1和图2分别从不同尺度和视角展示了上述时序博弈系统。图1形象化地展示了每轮个体整体收益的计算方法，图2则以协作系统中的几个个体组成的子系统为例，展示了一轮博弈中个体之间交互的全过程。如图所示，Alice有三位邻居，分别是Tom、Jerry和Frank。首先，Alice试图与Tom协作\mathfrak{T}时间，而Tom在收到Alice的请求时已经同意与Jerry和Frank协作。因此，Alice转向Frank和Jerry，但此时Frank和Jerry无法提供Alice所需的协作时间。因此，Alice分别拿出0.4\mathfrak{T}与Frank和Jerry协作。这使得其在这一轮浪费了0.2\mathfrak{T}。本例展示了该框架的核心思想，请求的成功与否主要取决于被请求用户是否有时间接纳该协作请求。由于每个人的协作时间是有限的，有些请求是无法被接纳的。因此，个体之间的协作除了主观意愿之外，还要收到有限协作时间的约束，这进一步增加了人类建立新协作关系的难度。</p>
-
-<h2 id="博弈实证实验设置与规则">博弈实证实验设置与规则</h2>
-
-<p>研究团队设计了一系列在线博弈竞赛，以模拟现实世界中的二人博弈系统。比赛分为两个阶段：第一阶段，参与者在网络平台上被动或主动组织成一张协作网络；第二阶段，进行多轮的囚徒困境博弈。在被动组织成的协作网络中，参与者被随机分配到预设网络节点上；而在自组织模式中，他们是通过聊天室功能自行寻找博弈伙伴的。无论在哪种模式下，他们协作与否以及协作时间的长短都由自己决定，模拟了现实社会中的真实协作模式。每轮博弈中，个体可以向其朋友发送协作请求，请求中包含协作持续的时间。这些请求可以被接受、拒绝、忽略或取消。是否接受请求由被试者自身需求或发送请求者的博弈历史来决定。当然，接受请求的前提是保证接受后，总协作时间不超过个体协作时间的上限。博弈的收益与双方商定的协作时间长短成正比，体现了时间资源在协作中的重要性。</p>
-
-<h2 id="博弈实证实验结果与可解释性分析">博弈实证实验结果与可解释性分析</h2>
-
-<center>
-<img src="/images/news/2024-12-09-1/3.png" alt="图3：分治博弈与时序博弈下协作网络的合作水平演化（模拟实验）" width="75%" />
-<br />
-<small style="color: gray;">图3：分治博弈与时序博弈下协作网络的合作水平演化（模拟实验）</small>
-</center>
-
-<p>在分治博弈中，每个参与者会将协作时间平均分配给所有的邻居，而在时序博弈中，参与者可以根据具体情况自由分配时间。在时序博弈中，由于时间资源有限，最终的分配受双方沟通过程的影响。只有当双方个体的可用时间均大于协作所需时间时，协作请求才能被接纳。另一方面，分治博弈不受有限时间的影响，只要个体同意，所收到的全部博弈请求都可以被接纳。为了消除社交关系数量差异所引入的不公平性，比赛以每对协作者的平均收益来决定参与者的收益排名。</p>
-
-<p>如图3(a)和图3(b)所示，在BA和WS网络中，模拟实验中的智能体在进行“分而治之”（D&amp;C）博弈时，合作水平会随着回合数的增加而衰减。如图3(c)和3(d)所示，在受到时序博弈中有限协作时间的影响后，合作水平衰减速率明显减慢。分而治之博弈与时序博弈之间的合作水平差异如图3(e)和3(f)所示。在模拟实验中这种差异看起来很小，但当人类被试者进行博弈时，这种差异会被显著放大。这种放大可能是由图3(g)和图3(h)所示的系统可用时间资源$S(r)$短缺引起的。当人类进行时序博弈时，$S(r)$会比模拟时低得多。这是由于人类可以调整博弈请求以适应好友的时间表，而在模拟中智能体的时间再分配策略并没有整合这一机制。</p>
-
-<center>
-<img src="/images/news/2024-12-09-1/4.png" alt="图4：时序博弈的合作水平与平均可用时间演化图（人类实验）" width="75%" />
-<br />
-<small style="color: gray;">图4：时序博弈的合作水平与平均可用时间演化图（人类实验））</small>
-</center>
-
-<p>通过对比图4(a)和图4(b)，我们可以看到，在时序博弈中合作水平的衰减比分而治之博弈中的要慢。结果证实了理论预测，表明时间限制促进了现实协作网络中的合作水平。</p>
-
-<p>BA网络和WS网络的平均可用时间$S(r)$演化分别如图4(c)和图4(d)所示。可以看到$S(r)$围绕一个小值波动，这表明当人类进行时序博弈时寻找新伙伴的难度比模拟实验中智能体更大。模拟实验与人类实验中整体合作水平$P_c(r)$的差异表明，寻找新合作伙伴难度的上升可能导致$P_c(r)$的提升，这在一定程度上解释了时序博弈中的有限时间设定为何能提升人类协作网络中的合作水平。</p>
-
-<h2 id="结语">结语</h2>
-<p>这项研究为理解人类合作行为提供了新的视角，特别是在协作时间受限环境下的群体合作行为。它不仅丰富了我们对演化博弈的理解，也为如何在现实协作系统中促进合作提供了可行的路径。随着研究的深入，我们希望在未来能看到更多关于时间与人类合作行为之间相关性的研究，为人类在非合作博弈中的合作行为提供更多的科学依据。</p>
-
-<h2 id="参考文献">参考文献：</h2>
-<p>[1] Y. Zhang, G. Chen, J. Guan, Z. Zhang, S. Zhou, “Unfavorable individuals in social gaming networks,” Scientific Reports, vol. 5, p. 17481, 2015.</p>
-
-<p>[2] J. Wang, Y. Zhang, J. Guan, S. Zhou, “Divide-and-conquer tournament on social networks,” Scientific Reports, vol. 7, p. 15484, 2017.</p>]]></content><author><name>02yichao-zhang</name></author><category term="paper" /><summary type="html"><![CDATA[在复杂多变的协作系统（例如联合申报项目或组队完成任务）中，如何有效地促进个体间的合作是一个值得深入探讨的挑战性问题。《IEEE Transactions on Network Science and Engineering》最新发表的研究论文“Limitation of Time Promotes Cooperation in Structured Collaboration Systems”为我们提供了新的洞见。该研究通过构建一个时序博弈框架，深入分析了有限协作时间对个体合作行为的影响，并在大规模实证实验中验证了理论模型预测的准确性。研究发现，当协作时间对每个个体都同样是有限时，系统整体的合作水平将得到显著提升。]]></summary></entry><entry><title type="html">“同济-蔚来” 沟通交流会成功举办</title><link href="https://admis-tongji.github.io/2024/11/19/1.html" rel="alternate" type="text/html" title="“同济-蔚来” 沟通交流会成功举办" /><published>2024-11-19T00:00:00+00:00</published><updated>2024-12-14T07:39:05+00:00</updated><id>https://admis-tongji.github.io/2024/11/19/1</id><content type="html" xml:base="https://admis-tongji.github.io/2024/11/19/1.html"><![CDATA[<p>2024年11月19日上午，同济大学ADMIS团队与蔚来汽车在同济大学智信馆305成功举办了“同济-蔚来”沟通交流会。本次会议旨在深化校企合作，推动智能系统和制造技术的创新发展。同济大学计算机科学与技术学院副院长何良华、ADMIS实验室负责人关佶红、蔚来汽车制造工程集成部高级总监贾永泉、上海云赜数据技术有限公司总经理陈志良、副总经理吕斌、售前产品总监梁鹏勋，以及计算机学院的教师代表和蔚来多个团队负责人出席了本次交流会。</p>
+<p>该研究通过构建一个时序博弈框架，深入分析了有限协作时间对个体合作行为的影响，并在大规模实证实验中验证了理论模型预测的准确性。研究发现，当协作时间对每个个体都同样是有限时，系统整体的合作水平将得到显著提升。该工作被《集智俱乐部》报道，详情请参见：<a href="https://mp.weixin.qq.com/s/3OYQ2eCyygYReOuJUQQh7A" target="_blank">https://mp.weixin.qq.com/s/3OYQ2eCyygYReOuJUQQh7A</a></p>]]></content><author><name>02yichao-zhang</name></author><category term="coverage" /><summary type="html"><![CDATA[在复杂多变的协作系统（例如联合申报项目或组队完成任务）中，如何有效地促进个体间的合作是一个值得深入探讨的挑战性问题。张毅超教授及其团队在《IEEE Transactions on Network Science and Engineering》最新发表的研究论文“Limitation of Time Promotes Cooperation in Structured Collaboration Systems”为我们提供了新的洞见。]]></summary></entry><entry><title type="html">“同济-蔚来” 沟通交流会成功举办</title><link href="https://admis-tongji.github.io/2024/11/19/1.html" rel="alternate" type="text/html" title="“同济-蔚来” 沟通交流会成功举办" /><published>2024-11-19T00:00:00+00:00</published><updated>2024-12-14T08:37:18+00:00</updated><id>https://admis-tongji.github.io/2024/11/19/1</id><content type="html" xml:base="https://admis-tongji.github.io/2024/11/19/1.html"><![CDATA[<p>2024年11月19日上午，同济大学ADMIS团队与蔚来汽车在同济大学智信馆305成功举办了“同济-蔚来”沟通交流会。本次会议旨在深化校企合作，推动智能系统和制造技术的创新发展。同济大学计算机科学与技术学院副院长何良华、ADMIS实验室负责人关佶红、蔚来汽车制造工程集成部高级总监贾永泉、上海云赜数据技术有限公司总经理陈志良、副总经理吕斌、售前产品总监梁鹏勋，以及计算机学院的教师代表和蔚来多个团队负责人出席了本次交流会。</p>
 
 <p>会议由ADMIS实验室负责人关佶红教授主持。首先，何良华院长代表同济计算机科学与技术学院致词，欢迎蔚来团队到访同济大学，并介绍了学院的发展概况，特别强调了学院在智能系统与人工智能领域的研究基础和创新成果。</p>
 
@@ -121,4 +34,4 @@ $$</p>
 <small style="color: gray;">蔚来冲压制造工程团队负责人黄海波介绍蔚来F2智能工厂整体情况</small>
 </center>
 
-<p>在此次交流活动中，蔚来和同济大学的代表们深入探讨了如何通过更紧密的合作促进智能制造和汽车工程的技术创新。双方积极交换意见，共享经验，表达了共同推进未来合作的强烈意愿。会议在蔚来制造工程集成部高级总监贾永泉的总结发言中圆满落幕。他对本次交流会的成功举办表示高度肯定，并强调了校企合作在推动技术进步和行业发展的关键作用。这次沟通交流会不仅加强了校企联系，也为双方在智能制造和汽车工程领域的进一步合作奠定了坚实基础。未来，双方将持续探索更多合作契机，共同推动技术创新与成果落地应用。</p>]]></content><author><name>2023han-peng</name></author><category term="activity" /><summary type="html"><![CDATA[2024年11月19日上午，同济大学ADMIS团队与蔚来汽车在同济大学智信馆305成功举办了“同济-蔚来”沟通交流会。本次会议旨在深化校企合作，推动智能系统和制造技术的创新发展。同济大学计算机科学与技术学院副院长何良华、ADMIS实验室负责人关佶红、蔚来汽车制造工程集成部高级总监贾永泉、上海云赜数据技术有限公司总经理陈志良、副总经理吕斌、售前产品总监梁鹏勋，以及计算机学院的教师代表和蔚来多个团队负责人出席了本次交流会。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://admis-tongji.github.io/images/news/2024-11-19-1/0.jpg" /><media:content medium="image" url="https://admis-tongji.github.io/images/news/2024-11-19-1/0.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">CausalFormer 论文发表</title><link href="https://admis-tongji.github.io/2024/10/21/1.html" rel="alternate" type="text/html" title="CausalFormer 论文发表" /><published>2024-10-21T00:00:00+00:00</published><updated>2024-12-14T07:39:05+00:00</updated><id>https://admis-tongji.github.io/2024/10/21/1</id><content type="html" xml:base="https://admis-tongji.github.io/2024/10/21/1.html"><![CDATA[<p>热烈祝贺实验室在读硕士研究生孔令百的论文《CausalFormer: An Interpretable Transformer for Temporal Causal Discovery》被《IEEE Transactions on Knowledge and Data Engineering》期刊接收！</p>]]></content><author><name>2022lingbai-kong</name></author><category term="paper" /><summary type="html"><![CDATA[热烈祝贺实验室在读硕士研究生孔令百的论文《CausalFormer: An Interpretable Transformer for Temporal Causal Discovery》被《IEEE Transactions on Knowledge and Data Engineering》期刊接收！]]></summary></entry><entry><title type="html">STAD 论文发表</title><link href="https://admis-tongji.github.io/2024/10/21/2.html" rel="alternate" type="text/html" title="STAD 论文发表" /><published>2024-10-21T00:00:00+00:00</published><updated>2024-12-14T07:39:05+00:00</updated><id>https://admis-tongji.github.io/2024/10/21/2</id><content type="html" xml:base="https://admis-tongji.github.io/2024/10/21/2.html"><![CDATA[<p>热烈祝贺实验室在读硕士研究生李辉的论文《STAD: Ship trajectory anomaly detection in ocean with dynamic pattern clustering》被《Ocean Engineering》期刊接收！</p>]]></content><author><name>2022hui-li</name></author><category term="paper" /><summary type="html"><![CDATA[热烈祝贺实验室在读硕士研究生李辉的论文《STAD: Ship trajectory anomaly detection in ocean with dynamic pattern clustering》被《Ocean Engineering》期刊接收！]]></summary></entry><entry><title type="html">Traffexplainer 论文发表</title><link href="https://admis-tongji.github.io/2024/09/09/1.html" rel="alternate" type="text/html" title="Traffexplainer 论文发表" /><published>2024-09-09T00:00:00+00:00</published><updated>2024-12-14T07:39:05+00:00</updated><id>https://admis-tongji.github.io/2024/09/09/1</id><content type="html" xml:base="https://admis-tongji.github.io/2024/09/09/1.html"><![CDATA[<p>热烈祝贺实验室在读硕士研究生孔令百的论文《Traffexplainer: A Framework towards GNN-based Interpretable Traffic Prediction》被《IEEE Transactions on Artificial Intelligence》期刊接收！</p>]]></content><author><name>2022lingbai-kong</name></author><category term="paper" /><summary type="html"><![CDATA[热烈祝贺实验室在读硕士研究生孔令百的论文《Traffexplainer: A Framework towards GNN-based Interpretable Traffic Prediction》被《IEEE Transactions on Artificial Intelligence》期刊接收！]]></summary></entry></feed>
+<p>在此次交流活动中，蔚来和同济大学的代表们深入探讨了如何通过更紧密的合作促进智能制造和汽车工程的技术创新。双方积极交换意见，共享经验，表达了共同推进未来合作的强烈意愿。会议在蔚来制造工程集成部高级总监贾永泉的总结发言中圆满落幕。他对本次交流会的成功举办表示高度肯定，并强调了校企合作在推动技术进步和行业发展的关键作用。这次沟通交流会不仅加强了校企联系，也为双方在智能制造和汽车工程领域的进一步合作奠定了坚实基础。未来，双方将持续探索更多合作契机，共同推动技术创新与成果落地应用。</p>]]></content><author><name>2023han-peng</name></author><category term="activity" /><summary type="html"><![CDATA[2024年11月19日上午，同济大学ADMIS团队与蔚来汽车在同济大学智信馆305成功举办了“同济-蔚来”沟通交流会。本次会议旨在深化校企合作，推动智能系统和制造技术的创新发展。同济大学计算机科学与技术学院副院长何良华、ADMIS实验室负责人关佶红、蔚来汽车制造工程集成部高级总监贾永泉、上海云赜数据技术有限公司总经理陈志良、副总经理吕斌、售前产品总监梁鹏勋，以及计算机学院的教师代表和蔚来多个团队负责人出席了本次交流会。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://admis-tongji.github.io/images/news/2024-11-19-1/0.jpg" /><media:content medium="image" url="https://admis-tongji.github.io/images/news/2024-11-19-1/0.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">CausalFormer 论文发表</title><link href="https://admis-tongji.github.io/2024/10/21/1.html" rel="alternate" type="text/html" title="CausalFormer 论文发表" /><published>2024-10-21T00:00:00+00:00</published><updated>2024-12-14T08:37:18+00:00</updated><id>https://admis-tongji.github.io/2024/10/21/1</id><content type="html" xml:base="https://admis-tongji.github.io/2024/10/21/1.html"><![CDATA[<p>热烈祝贺实验室在读硕士研究生孔令百的论文《CausalFormer: An Interpretable Transformer for Temporal Causal Discovery》被《IEEE Transactions on Knowledge and Data Engineering》期刊接收！</p>]]></content><author><name>2022lingbai-kong</name></author><category term="paper" /><summary type="html"><![CDATA[热烈祝贺实验室在读硕士研究生孔令百的论文《CausalFormer: An Interpretable Transformer for Temporal Causal Discovery》被《IEEE Transactions on Knowledge and Data Engineering》期刊接收！]]></summary></entry><entry><title type="html">STAD 论文发表</title><link href="https://admis-tongji.github.io/2024/10/21/2.html" rel="alternate" type="text/html" title="STAD 论文发表" /><published>2024-10-21T00:00:00+00:00</published><updated>2024-12-14T08:37:18+00:00</updated><id>https://admis-tongji.github.io/2024/10/21/2</id><content type="html" xml:base="https://admis-tongji.github.io/2024/10/21/2.html"><![CDATA[<p>热烈祝贺实验室在读硕士研究生李辉的论文《STAD: Ship trajectory anomaly detection in ocean with dynamic pattern clustering》被《Ocean Engineering》期刊接收！</p>]]></content><author><name>2022hui-li</name></author><category term="paper" /><summary type="html"><![CDATA[热烈祝贺实验室在读硕士研究生李辉的论文《STAD: Ship trajectory anomaly detection in ocean with dynamic pattern clustering》被《Ocean Engineering》期刊接收！]]></summary></entry><entry><title type="html">Traffexplainer 论文发表</title><link href="https://admis-tongji.github.io/2024/09/09/1.html" rel="alternate" type="text/html" title="Traffexplainer 论文发表" /><published>2024-09-09T00:00:00+00:00</published><updated>2024-12-14T08:37:18+00:00</updated><id>https://admis-tongji.github.io/2024/09/09/1</id><content type="html" xml:base="https://admis-tongji.github.io/2024/09/09/1.html"><![CDATA[<p>热烈祝贺实验室在读硕士研究生孔令百的论文《Traffexplainer: A Framework towards GNN-based Interpretable Traffic Prediction》被《IEEE Transactions on Artificial Intelligence》期刊接收！</p>]]></content><author><name>2022lingbai-kong</name></author><category term="paper" /><summary type="html"><![CDATA[热烈祝贺实验室在读硕士研究生孔令百的论文《Traffexplainer: A Framework towards GNN-based Interpretable Traffic Prediction》被《IEEE Transactions on Artificial Intelligence》期刊接收！]]></summary></entry></feed>
